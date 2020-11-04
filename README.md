@@ -13,6 +13,7 @@ Digital Garden - Meta Knowledge Management
 ## Info
 
 - [masayume article](https://www.masayume.it/blog/content/digital-garden-self-wiki)
+- [working with github pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages)
 
 ## License
 
