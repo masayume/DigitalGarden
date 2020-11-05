@@ -1,5 +1,8 @@
 # rust
 
+## Rust Libraries
+* [RUST LIBS](https://github.com/nikitavoloboev/knowledge/blob/master/programming-languages/rust/rust-libraries/rust-libraries.md)
+
 ## docs & video
 * [book](https://doc.rust-lang.org/book/)
 * [rust by example](https://doc.rust-lang.org/rust-by-example/hello.html)
