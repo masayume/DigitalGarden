@@ -3,6 +3,7 @@
 ## POPSTARS
 
 * Icona Pop [spotify](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [youtube](https://www.youtube.com/c/IconaPop/videos)
+* Madreblu [spotify](https://open.spotify.com/artist/2tIYKLNVmTnflhlaack7Dz)
 * San Mei [spotify](https://open.spotify.com/artist/4IbFFaRjnH3yZGDmFtVzwG), [youtube](https://www.youtube.com/channel/UCwm1xwjExN189ecyLCISJQg/videos)
 
 ## 80s
