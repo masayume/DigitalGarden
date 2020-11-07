@@ -18,6 +18,8 @@
 * [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
 * [soloud, game audio library](https://www.reddit.com/r/rust/comments/ih2aly/soloud_crate_first_release/)
 
+* [A Game in Rust](https://www.youtube.com/watch?v=Ktwl97Ph-SI&list=RDCMUCaYhcUwRBNscFNUKTjgPFiA&index=5)
+
 ## compile
 ```
 rustc 04-print.rs -o 04-print.exe
