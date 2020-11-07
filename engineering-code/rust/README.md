@@ -2,6 +2,7 @@
 
 ## Rust Libraries
 * [RUST LIBS](https://github.com/nikitavoloboev/knowledge/blob/master/programming-languages/rust/rust-libraries/rust-libraries.md)
+* [rust game library "good game easily"](https://github.com/ggez/ggez)
 
 ## docs & video
 * [book](https://doc.rust-lang.org/book/)
