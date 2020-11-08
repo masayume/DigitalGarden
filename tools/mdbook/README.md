@@ -4,8 +4,14 @@
 [![crates.io](https://img.shields.io/crates/v/mdbook.svg)](https://crates.io/crates/mdbook)
 [![LICENSE](https://img.shields.io/github/license/rust-lang/mdBook.svg)](LICENSE)
 
-[mdBook](https://github.com/rust-lang/mdBook) is a utility to create modern online books from Markdown files.
-[user guide](https://rust-lang.github.io/mdBook/)
+* [mdBook](https://github.com/rust-lang/mdBook) is a utility to create modern online books from Markdown files.
+* [user guide](https://rust-lang.github.io/mdBook/)
+
+## Local Directory
+
+```
+/git/mdbooks/...
+```
 
 ## Usage
 
