@@ -3,6 +3,9 @@
 
 - [Unity Learn](learn.unity.com) ★
 
+## Assets
+
+- [awesome-unity high quality assets](https://github.com/RyanNielson/awesome-unity) ★★
 
 ## Resources
 
