@@ -10,7 +10,7 @@
 ## Resources
 
 - [unity list](https://unitylist.com/) ★★
-- [unity @ github][https://github.com/topics/unity] ★★
+- [unity @ github](https://github.com/topics/unity) ★★
 - [procedural](https://unitylist.com/browse?f=procedural) ★
 - [arcade](https://unitylist.com/browse?f=arcade) ★
 
