@@ -2,15 +2,15 @@
 
 ## books
 
-* [Manga Studio For Dummies](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
-* [Manga Studio Ex 5 Cookbook](file:///E:/books/ART/Manga%20Studio%20Ex%205%20Cookbook.pdf)
-* [Mastering Manga Studio 5](file:///E:/books/ART/Mastering%20Manga%20Studio%205.pdf)
+* [Manga Studio For Dummies in E/books/ART](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
+* [Manga Studio Ex 5 Cookbook in E/books/ART](file:///E:/books/ART/Manga%20Studio%20Ex%205%20Cookbook.pdf)
+* [Mastering Manga Studio 5 in E/books/ART](file:///E:/books/ART/Mastering%20Manga%20Studio%205.pdf)
 
 ## Tips & Tutorials
 
 * [tips of the month](https://tips.clip-studio.com/en-us/tips-of-the-month)
 * [tutti i post e tutorial su manga studio](http://patriziamandanici.blogspot.it/2012/11/tutti-i-post-e-tutorial-su-manga-studio.html)
-* [TUTORIALS](https://www.youtube.com/channel/UC4wqU8VKN-MrDCowrq9nkOA/videos 	
+* [TUTORIALS](https://www.youtube.com/channel/UC4wqU8VKN-MrDCowrq9nkOA/videos)
 * [mangastudioitalia su facebook](https://www.facebook.com/groups/mangastudioitalia/)
 * [Clip Studio Paint Basics 2](https://www.youtube.com/watch?v=WkLrMGpWayw) ★
 * [official site](https://www.clipstudio.net/en/) ★
