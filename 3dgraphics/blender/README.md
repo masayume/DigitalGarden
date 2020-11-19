@@ -198,6 +198,7 @@
 ## Grease Pencil
 * [2.9 import a SVG and convert it to Grease Pencil](https://www.youtube.com/watch?v=mUkZCuT9EG0)
 * [Grease Pencil Face Rig 4 - Bender | Grease Pencil Rigging](https://www.youtube.com/watch?v=AtUbR1kXOQw)
+* [Storyboard Animatic Tutorial - 1 of 6 - Basics, UI, Modes,Canvas](https://www.youtube.com/watch?list=PLeV-rteYibcvBvW-WNPMtajsaaGfGay6Y&v=H0BufKAE8fY) 
 
 ## pixelart
 * [3D PixelArt Camper in Blender](https://www.youtube.com/watch?v=WE0qRRRjF-g)
