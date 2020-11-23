@@ -2,10 +2,12 @@
 ## Links
 
 - [Unity Learn](learn.unity.com) ★
+- [Unity 2D @ reddit](https://www.reddit.com/r/Unity2D/) ★
 
 ## Assets
 
 - [awesome-unity high quality assets](https://github.com/RyanNielson/awesome-unity) ★★
+- unity 2D movement controller [video](https://www.youtube.com/watch?v=SVACshnciMk), [github](https://github.com/krthush/2d-unity-movement)
 
 ## Resources
 
@@ -19,3 +21,8 @@
 - [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 
 - [github topics: C#](https://github.com/topics/csharp)
+
+## Video
+
+- [Creating a 2D Platformer #1](https://www.youtube.com/watch?v=MbWK8bCAU2w)
+
