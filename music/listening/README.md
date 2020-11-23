@@ -19,4 +19,9 @@
 ## Retro
 
 * Martin Galway [deepsid](http://deepsid.chordian.net/?file=%2FMUSICIANS%2FG%2FGalway_Martin)
+* David Whittaker [deepsid](http://deepsid.chordian.net/?file=/MUSICIANS/W/Whittaker_David/)
+* Rob Hubbard [deepsid](http://deepsid.chordian.net/?file=/MUSICIANS/H/Hubbard_Rob/)
+* Chris Huelsbeck [deepsid](http://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/)
+* Tim Follin [deepsid](http://deepsid.chordian.net/?file=/MUSICIANS/F/Follin_Tim/)
+* Ben Daglish [deepsid](http://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/)
 
