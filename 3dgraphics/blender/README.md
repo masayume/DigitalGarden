@@ -16,6 +16,7 @@
 * [Phase - 2, Part - 1, Blender UI intro for beginners](https://www.youtube.com/watch?v=0y-VIyTCD6o)
 * [Phase - 1, Part - 1, 3D Production Pipeline (PPT) For Beginners](https://www.youtube.com/watch?v=sFUg3wm4TMY)
 * [2.8 - All Constraints Explained with Example | Transform Constraints | Free Project File](https://www.youtube.com/watch?v=81SiXoAWXuU)
+* [2.8 #0.1 : 25 New Keyboard Shortcuts](https://www.youtube.com/watch?v=l8NqCUqJGy0)
 
 ## Projects & Workflow
 * [Character Animation Tutorial: Model and Rig a Cute Robot](https://www.youtube.com/watch?v=ufvM2ixj2FI)
@@ -24,9 +25,11 @@
 * [DAZ TO BLENDER BRIDGE: How to use this amazing official script](https://www.youtube.com/watch?v=TEXzmUSzX30)
 * [Make Tron City in Blender Eevee](https://www.youtube.com/watch?v=b7DjYh_XkGc)
 * [DAZ Model Importer (Blender Add-on) Part 1/2](https://www.youtube.com/watch?v=s9PvR43kTuo)
+* [2.9 Creating a SCI-FI Ocean Scene in EEVEE](https://www.youtube.com/watch?v=KXMrg_xEoYw)
+* [Stylized Character Workflow with Blender](https://www.youtube.com/watch?v=f-mx-Jfx9lA)
 
 # Add-ons
-* [NLA - ACTIONS clips DEMYSTIFIED (2020) Export to Unity](https://www.youtube.com/watch?v=-SQdHehksJw&feature=emb_title)
+* [NLA - ACTIONS clips DEMYSTIFIED (2020) Export to Unity](https://www.youtube.com/watch?v=-SQdHehksJw)
 * [7 Blender add-ons that come preinstalled you should probably enable](https://www.youtube.com/watch?v=kk6oelvJtV0)
 * [ADDONS track](https://www.youtube.com/watch?v=h_UyrP70uCo)
 * [2.81 - ADDONS more for Blender](https://www.youtube.com/watch?v=k109JhyFPjg)
@@ -42,9 +45,10 @@
 * [2.8x - Gravity Rope FOR Blender Addon](https://www.youtube.com/watch?v=9xbfbSY1OOk)
 * [2.8x - Painterly Shader for Blender ](https://www.youtube.com/watch?v=cByqTrPb4Hk)
 * [Photographer Blender addon - Version 3 and Physical Lights](https://www.youtube.com/watch?v=oESoAYLyHrs)
-* [2.8 Sketchfab Addon](https://www.youtube.com/watch?v=vi4AGvoQecA&feature=emb_title)
+* [2.8 Sketchfab Addon](https://www.youtube.com/watch?v=vi4AGvoQecA)
 * [2.8 Impossible Geometry Addon: The Paradox Toolkit](https://www.youtube.com/watch?v=tf6iKm49Eyk)
 * [2.82 - free Addon - How to work with the Bool Tool](https://www.youtube.com/watch?v=T7oU39ROzTk)
+* [2.8 Inset Tool in Blender](https://www.youtube.com/watch?v=lJSf6Y83ZCo)
 
 # Resources
 * [Blender Export Animations to UE4 and Unity](https://www.youtube.com/watch?v=Vg1F7f4Sm18)
@@ -80,9 +84,9 @@
 * [2.8 CONCEPT Tips for Concepting in Blender](https://www.youtube.com/watch?v=k9Zl9RKMcVM)
 * [Daily Blender Secrets - Connected Proportional Editing](https://www.youtube.com/watch?v=rZ-2n-8vRD0)
 * [Daily Blender Secrets - Toon Outline with Inverted Hull updated](https://www.youtube.com/watch?v=913lbud30xc)
-* [Easy Air Pressure Balloon Tutorial | Blender](https://www.youtube.com/watch?v=hYZgsH0NeC4&feature=emb_title)
+* [Easy Air Pressure Balloon Tutorial | Blender](https://www.youtube.com/watch?v=hYZgsH0NeC4)
 * [the Bend tool](https://www.blendernation.com/2020/03/25/blender-quick-tips-1-the-bend-tool/)
-* [Daily Blender Secrets - Select Next Active](https://www.youtube.com/watch?v=uO5-RB66tdU&feature=emb_title)
+* [Daily Blender Secrets - Select Next Active](https://www.youtube.com/watch?v=uO5-RB66tdU)
 * [Daily Blender Secrets - Quick Liquid with Spray, Foam and Bubbles](https://www.youtube.com/watch?v=ufgrEMggdLg)
 * [Daily Blender Secrets - Quickly Fix Symmetry Problems](https://www.youtube.com/watch?v=aayYU4EbpOg)
 * [100+ Tips to Boost Modeling in Blender](https://www.youtube.com/watch?v=JMBMHSca_j0)
@@ -90,6 +94,9 @@
 * [2.9 Tire in 3 Steps-plus fixing the overlap problem](https://www.youtube.com/watch?v=wKd8qVxS_cw)
 * [Worn edges in Blender](https://www.youtube.com/watch?v=yIxq_QAO7Og)
 * [2.8 + 2.9 - How to use Bevel function | Tutorial](https://www.youtube.com/watch?v=znZGx3CIqX4)
+* [Displaying & Saving Renders // Traps for Beginners](https://www.youtube.com/watch?v=AZyQ63IjZnA)
+* [Tip: Freestyle Colored Lines](https://www.youtube.com/watch?v=ouFeOcpBpmE)
+* [2.80 how to use Loop Tools](https://www.youtube.com/watch?v=HN_gUxWwXd0)
 
 ## Modeling
 * [MODELING in blender 2.8 for complete beginners](https://www.youtube.com/playlist?list=PLvPwLecDlWRD_VK_2INC1VQ18dZdpDwLi)
@@ -122,6 +129,9 @@
 * [2.8 Create Realistic Grass](https://www.youtube.com/watch?v=-GAm-7_3N6g)
 * [Create 3D Terrain with Google Maps](https://www.youtube.com/watch?v=Mj7Z1P2hUWk)
 * [How to Create a Forest in Blender : Texture Painting](https://www.youtube.com/watch?v=nLp9zWw8UVo)
+* [2.80 Procedural Landscapes](https://www.youtube.com/watch?v=yrMee2gcS20)
+* [How to model pencils, Blender tutorial for beginners, step by step](https://www.youtube.com/watch?v=OaB92KsvOtM)
+* [Bevel Tutorial full Version](https://www.youtube.com/watch?v=danFScVQErY&list=PLtJCUHbFvRPpCZz8-7trv5kYMjuGxJN5U&index=4)
 
 ## Meshes
 * [MESH 	quad remesher](https://exoside.com/quadremesher/)
@@ -152,9 +162,16 @@
 * [Blender 2.82 Eevee | Procedural Paper Texture](https://www.youtube.com/watch?v=05-GDQtJvjc)
 * [Blender 3D: Pixel Art Tutorial](https://www.youtube.com/watch?v=FxspGqoKcaE)
 * [Blender 2.8/EEVEE Toon Shader Tutorial - Part 1 - How to Have Multiple Light Sources](https://www.youtube.com/watch?v=TpWI2rU8iF0)
-* [Textures instead of boolean operations](https://www.youtube.com/watch?v=DrWVHBeko2E&feature=emb_title)
+* [Textures instead of boolean operations](https://www.youtube.com/watch?v=DrWVHBeko2E)
 * [All 80+ Blender material nodes explained in under 30 minutes](https://www.youtube.com/watch?v=cQ0qtcSymDI)
 * [2.8 Creating Alphas From Meshes or Objects](https://www.youtube.com/watch?v=QHQiXvbiAd0)
+* [Procedural Scratches](https://www.youtube.com/watch?v=e4BhdrFDHkQ)
+* [2.9 Cloth Simulation](https://www.youtube.com/watch?v=AbyfuW5Aocg)
+* [Texturing Tutorial: Curvature and Albedo Maps](https://www.youtube.com/watch?v=RXTtHqKqum4)
+* [Top 14 Ways to Mix Textures and Shaders](https://www.youtube.com/watch?v=liNGmdXsfbs)
+* [Texturing a Pen Tip in Blender - Bic Pen Breakdown](https://www.youtube.com/watch?v=3Q1h9wG9Oyg)
+* [Vector Displacement Part 1 - Procedural Textures](https://www.youtube.com/watch?v=aEeBAxjvY8U)
+* [Surface Imperfections Tutorial (Procedural Shading)](https://www.youtube.com/watch?v=67tWv6Hp_w0)
 
 ## Lighting & Rendering
 * [LIGHTING](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
@@ -164,11 +181,12 @@
 * [EEVEE Rendering TIPS(+ Free Demo)](https://www.youtube.com/watch?v=hIkcaJE-iDY)
 * [How I Reduced EEVEE Render Times By 85% (2.81)](https://www.youtube.com/watch?v=oo6ZmMyU5nM)
 * [Realistic Lighting](https://www.youtube.com/watch?v=VJ2SAx6tZKM)
-* [Part 1: Intro to Octane for Blender 2.8](https://www.youtube.com/watch?v=LyvoLHzNdks&feature=emb_title)
-* [How to Animate Vehicle Lights in Blender 2.8](https://www.youtube.com/watch?v=FcuyQ4UQTas&feature=emb_title)
+* [Part 1: Intro to Octane for Blender 2.8](https://www.youtube.com/watch?v=LyvoLHzNdks)
+* [How to Animate Vehicle Lights in Blender 2.8](https://www.youtube.com/watch?v=FcuyQ4UQTas)
 * [Blender 2.8 Hard Surface Modeling and Emission](https://www.youtube.com/watch?v=icKpXT1qjY4)
 * [Eevee Essentials: Real-Time Rendering in Blender (Basic and Advanced Techniques)](https://cgcookie.com/articles/eevee-essential-features-walkthrough-part-one)
 * [Advanced Glass Shader in Eevee](https://www.youtube.com/watch?v=TqQgRXbevQw)
+* [2.8 Perfectly Baked Bevels for Blender EEVEE](https://www.youtube.com/watch?v=nAU-9cxB3Mk)
 
 ## NPR & Toon shading
 * [Blender NPR](https://docs.google.com/presentation/d/1kaXR4RwxuZ-ih4_psfkdepg20incjeZyln4faOvWR_g/) 	
@@ -194,6 +212,9 @@
 * [NPR PENCIL LOOK - Not only a shader](https://www.youtube.com/watch?v=_reT6PwJRkg&t=280s&ab_channel=ToniMortero)
 * [Pixelate your renders](https://www.youtube.com/watch?v=dphzvXJB9uM)
 * [2.79 ADDING CONTROLLERS ON THE FORMAT KEYS](https://www.youtube.com/watch?v=MuqJbm99wE0)
+* Ghibli Nausicaä inspired shaders for blender  [video](https://www.youtube.com/watch?v=zD8hX-KSq4g) [shader](https://gumroad.com/l/ZCpLj)
+* [2.79 MATERIALS TOON SHADER, TEXTURES AND OUTLINE](https://www.youtube.com/watch?v=8L6FLzJGg4Q)
+* [How to make hatching shaders in Blender](https://www.youtube.com/watch?v=508pwYME-w4)
 
 ## Grease Pencil
 * [2.9 import a SVG and convert it to Grease Pencil](https://www.youtube.com/watch?v=mUkZCuT9EG0)
@@ -216,7 +237,6 @@
 * [Blender 2 81 Insect walk cycle](https://www.youtube.com/watch?v=99sjz0-GWKU)
 * [Floating Splines with Animation Nodes](https://www.youtube.com/watch?v=xf_XKpp7EIg)
 * [Super Satisfying Animations in Blender Eevee and Cycles](https://www.youtube.com/watch?v=icMn25j2yy0)
-* [Procedural Scratches](https://www.youtube.com/watch?v=e4BhdrFDHkQ)
 * [Particle City Serie](https://www.youtube.com/watch?v=APHWd08X_mk)
 * [2.8x Mograph Tutorial - DNA Transformation Effects](https://www.youtube.com/watch?v=vkOgSzYC_Ug)
 * [Mixing 2D & 3D Animation in Blender](https://80.lv/articles/mixing-2d-3d-animation-in-blender)
@@ -227,7 +247,7 @@
 * [How to create easy Grease Pencil Animation for non Animators in Blender 2.8](https://www.youtube.com/watch?v=BIizezTdhLc)
 * [OpenPose to Blender Facial Motion Capture Tutorial](https://www.youtube.com/watch?v=EUR6vsE0k6E)
 * [Modeling & Animating a Stylized Timewasher in Blender](https://80.lv/articles/modeling-animating-a-stylized-timewasher-in-blender/)
-* [How to Animate A Rubix Cube](https://www.youtube.com/watch?v=O4-FYkTPzZc&feature=emb_title)
+* [How to Animate A Rubix Cube](https://www.youtube.com/watch?v=O4-FYkTPzZc)
 * [Become a PRO at Animation in 25 Minutes](https://www.youtube.com/watch?v=_C2ClFO3FAY)
 * [Motion - Broadcast Sports Bumper in Blender](https://www.youtube.com/watch?v=4Md6fMAfY7c)
 * [Keyframes | Animation in Blender 2.83](https://www.youtube.com/watch?v=nJlq3hhKsQM)
@@ -241,12 +261,15 @@
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
 * [IK Leg Rig](https://www.youtube.com/watch?v=suP14lYWpN8)
-* [The SECRETS of BLENDER's RIGIFY: blender's built in autorig.](https://www.youtube.com/watch?v=GgUDddv_n6A&feature=emb_title)
+* [The SECRETS of BLENDER's RIGIFY: blender's built in autorig.](https://www.youtube.com/watch?v=GgUDddv_n6A)
 * [2.8 Rig ANYTHING with Rigify #0 - Series Intro](https://www.youtube.com/watch?v=-JSFcSxsaTs)
 * [2.83 - How To Rig A Mech Blender Step by Step](https://www.youtube.com/watch?v=hDByeNkb2pE)
 * [Advanced lego rigging tutorial in blender](https://www.youtube.com/watch?v=hIaSCV9AUvI)
 * [How to Rig a Rubber Duck in Blender](https://www.youtube.com/watch?v=zPvftMzfu-8)
 * [Luxo Jr | Pixar Lamp Rigging Tutorial](https://www.youtube.com/watch?v=M_y-zYCBk7w)
+* [Character Rigging in Blender 04a - Creating a Simple FK Spine Rig](https://www.youtube.com/watch?v=4uHY_GuKVSM)
+* [2.8 Rig ANY Character for Animation in 10 Minutes!](https://www.youtube.com/watch?v=SBYb1YmaOMY)
+* [2.79 How to use Rigify Addon (PitchiPoy Version) – Rigging Tool](https://www.youtube.com/watch?v=2OiowaAVzi8)
 
 ## Camera
 * [Animate Handheld Cameras in Blender](https://www.youtube.com/watch?v=w9EUFud9zGE)
@@ -263,6 +286,7 @@
 * [FX Neon Sign Lazy Tutorial](https://www.youtube.com/watch?v=l46YDEUVSwk)
 * [FX light flicker Sneakers](https://www.youtube.com/playlist?list=PLoGhuFDN7nEGDg6fSGX6ts-KnS0BGGJ-6)
 * [Blender 2.8x with EEVEE Retro-futuristic wireframe transition effect](https://www.youtube.com/watch?v=VmWH4LRnB58)
+* [FX_FireShader](https://www.youtube.com/watch?v=pjzG9I7BWng)
 
 ## Modular & Scripting
 * [An Introduction to Scripting [Python - bpy]](https://www.youtube.com/watch?v=cyt0O7saU4Q&list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-)
@@ -273,4 +297,8 @@
 * [Blender Procedural Nodes LEVEL 1 - FULL COURSE](https://www.youtube.com/watch?v=O3gLBhC353Y)
 * [2.9 Procedural Bricks - Blender Shader Node](https://www.youtube.com/watch?v=XW-DrBQ-u1o)
 * [Hair Particles with Instancing and add a collision object](https://www.youtube.com/watch?v=ic2ppLXS2xQ)
+* [Video Editing With Blender](https://www.youtube.com/watch?list=PLsGl9GczcgBvGY-RN0fRXs16F-IynZ0JJ&v=zh6tKdhThME)
+* [How to create CUSTOM pie menus for FREE](https://www.youtube.com/watch?v=jfQTX293dw0)
+* [domino effect animation](http://slicker.me/blender/domino.htm)
+* [Procedural Clay Shader](https://www.youtube.com/watch?v=q3J1Sz8y3zQ)
 
