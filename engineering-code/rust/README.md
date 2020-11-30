@@ -21,8 +21,11 @@
 * [Anastasia Opara - Texture Syntehsis](https://github.com/anopara/texture-synthesis)
 * [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
 * [soloud, game audio library](https://www.reddit.com/r/rust/comments/ih2aly/soloud_crate_first_release/)
+* [egui WASM windows interface](https://github.com/emilk/egui)
 
+## games
 * [A Game in Rust](https://www.youtube.com/watch?v=Ktwl97Ph-SI&list=RDCMUCaYhcUwRBNscFNUKTjgPFiA&index=5)
+* [Hobogo with egui](https://github.com/emilk/hobogo)
 
 ## compile
 ```
