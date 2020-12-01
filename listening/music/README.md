@@ -1,5 +1,11 @@
 # MUSIC
 
+## Tools
+* [The Eternal Jukebox](https://eternalbox.dev/jukebox_index.html)
+
+## Eternal Songs
+* The Weeknd [Blinding Lights](https://eternalbox.dev/jukebox_go.html?id=0VjIjW4GlUZAMYd2vXMi3b)
+
 ## POPSTARS
 
 * Icona Pop [spotify](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [youtube](https://www.youtube.com/c/IconaPop/videos)
