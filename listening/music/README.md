@@ -4,7 +4,12 @@
 * [The Eternal Jukebox](https://eternalbox.dev/jukebox_index.html)
 
 ## Eternal Songs
+* The Killers [Mr.Brightside](https://eternalbox.dev/jukebox_go.html?id=7oK9VyNzrYvRFo7nQEYkWN)
 * The Weeknd [Blinding Lights](https://eternalbox.dev/jukebox_go.html?id=0VjIjW4GlUZAMYd2vXMi3b)
+* Icona Pop (feat. Charli XCX)[I Love It](https://eternalbox.dev/jukebox_go.html?id=6HZ9VeI5IRFCNQLXhpF4bq)
+* Katy Perry [Hot n Cold](https://eternalbox.dev/jukebox_go.html?id=1y4eb6hmAvsqlDOl3fx9kk)
+* Lewis Capaldi[Someone you loved](https://eternalbox.dev/jukebox_go.html?id=7qEHsqek33rTcFNT9PFqLf)
+* Imagine Dragons [bad Liar](https://eternalbox.dev/jukebox_go.html?id=2RSHsoi04658QL5xgQVov3)
 
 ## POPSTARS
 
