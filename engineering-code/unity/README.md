@@ -115,3 +115,26 @@
 - [changinc colors](https://www.patreon.com/posts/quick-game-art-39412122)
 - [sprite swap](https://www.patreon.com/posts/ui-sprite-shader-43816363)
 
+## unity animation checklist 
+
+### Starts from a sliced sprite 
+cfr. ["Creating the Pac-Man Animations"](http://noobtuts.com/unity/2d-pacman-game)
+
+* 1 - create an animation: SELECT the slices in the Project Area and DRAG them into the Scene
+dragging asks for a NAME, and generates 2 files: 
+	char-spritesheet_NN.controller 		gameobject
+	NAME.anim 							animation state machine
+* 2 - add the animator controller to the GO to be animated
+* 3 - move the animator and animation files in the "Animations" directory and DELETE the files from the scene
+* 4 - double click the animation controller file to enter the Animator State Machine
+* 5 - add new STATE by dragging the .anim file from the "Animations" folder into the Animator State Machine
+* 6 - Creating the Transitions. Right click on Any State and create transition to the new animation.
+```
+	i.e. 	"Any State" to "right"
+			"Any State" to "up"
+			"Any State" to "left"
+			"Any State" to "down"
+	note: for ANY transition disable "Can Transition To Self" in the Settings
+```
+* 7 - Add Parameters in the Animator (tab next to Layers)
+* 8 - Add "Conditions" (DirY Less -0.1) for any Transition (up, down, left, right)
