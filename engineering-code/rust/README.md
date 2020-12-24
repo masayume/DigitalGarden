@@ -1,16 +1,40 @@
 # rust
 
+## general
+* [Rust Homepage][https://www.rust-lang.org/]
+* [Ownership Model][https://doc.rust-lang.org/rust-by-example/scope.html]
+* [Cargo][https://doc.rust-lang.org/cargo/]
+* [Rustup installer][https://rustup.rs/]
+* [Specifying dependencies][https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html]
+* [The Rust Book](https://doc.rust-lang.org/book/)
+* [Rust by Example](https://doc.rust-lang.org/rust-by-example/hello.html)
+* [The Rust Standard Library][https://doc.rust-lang.org/std/]
+* [The Cargo Book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
+* [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html)
+* [Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
+* [Doc Comments](https://doc.rust-lang.org/reference/comments.html#doc-comments)
+* [Docs.rs](https://docs.rs/)
+* [The Rust community’s crate registry](https://crates.io/)
+
+## popular packages
+* [clap (for parsing command-line arguments)](https://crates.io/crates/clap)
+* [rand (for random number generation)](https://crates.io/crates/rand)
+* [syn (for macro-related utilities)](https://crates.io/crates/syn)
+* [quote (for macro-related utilities)](https://crates.io/crates/quote)
+* [actix-web (for web server frameworks)](https://crates.io/crates/actix-web)
+* [rocket (for web server frameworks)](https://crates.io/crates/rocket)
+* [serde (for data serialization and deserialization)](https://crates.io/crates/serde)
+* [piston (for game development)](https://crates.io/crates/piston)
+* [bevy (for game development)](https://crates.io/crates/bevy)
+* [rust game library "good game easily"](https://github.com/ggez/ggez)
+
 ## Rust Libraries
 * [RUST LIBS](https://github.com/nikitavoloboev/knowledge/blob/master/programming-languages/rust/rust-libraries/rust-libraries.md)
-* [rust game library "good game easily"](https://github.com/ggez/ggez)
 * [github topics: rust](https://github.com/topics/rust)
 
 ## docs & video
-* [book](https://doc.rust-lang.org/book/)
-* [rust by example](https://doc.rust-lang.org/rust-by-example/hello.html)
 * [rust by example next exercise](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
 * [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
-* [The Cargo Book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 * [RUST for VIDEOGAMES](https://arewegameyet.rs/)
 * [VIDEO: Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 * [VIDEO: GGEZ rust game engine ](https://www.youtube.com/watch?v=oBdZtank14A)
