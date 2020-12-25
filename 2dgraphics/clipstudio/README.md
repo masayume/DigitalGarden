@@ -27,6 +27,13 @@
 * [free resources](https://misschroma.blogspot.it/2016/12/clip-studio-paint-aggiornamenti.html)
 * [gradient map](https://www.youtube.com/watch?v=7Cx9v1KM-ks)
 
+
+## Official Clip Studio Tips & Tutorials
+
+* [Drawing and Painting Portraits](https://tips.clip-studio.com/en-us/articles/4023)
+* [How to Draw a Variety of Facial Expressions!](https://tips.clip-studio.com/en-us/articles/1329)
+
+
 ## Brushes
 * [watercolor brushes](https://www.dropbox.com/s/thod4k8jbl7tvst/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E7%AD%86.zip?dl=0)
 * [painterly brushes](http://lapinbeau.deviantart.com/art/Manga-Studio-5-Clip-Studio-Paint-Brush-Pack-619455926)
