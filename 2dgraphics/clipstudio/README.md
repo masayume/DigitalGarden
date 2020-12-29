@@ -26,7 +26,7 @@
 * [How to pose 3D models (Window > Material, then All > 3D > Pose](https://www.youtube.com/watch?v=Xnn0loeFZWY)
 * [free resources](https://misschroma.blogspot.it/2016/12/clip-studio-paint-aggiornamenti.html)
 * [gradient map](https://www.youtube.com/watch?v=7Cx9v1KM-ks)
-
+* [How to put an overlay that gives a three-dimensional effect easily][https://tips.clip-studio.com/en-us/articles/4119]
 
 ## Official Clip Studio Tips & Tutorials
 

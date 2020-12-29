@@ -11,6 +11,7 @@
 - [better jumping](https://www.youtube.com/watch?v=7KiK0Aqtmzc&list=TLPQMjMwMTIwMjAe3LDxLl4Utg) 
 - [2D game kit walkthrough](https://learn.unity.com/tutorial/2d-game-kit-walkthrough?tab=materials)
 - [2D BEST PRACTICES](https://www.youtube.com/watch?v=HM17mAmLd7k)
+- [C# storing coordinates](https://markheath.net/post/coord-performance-versus-readability)
 
 ## Assets
 - [awesome-unity high quality assets](https://github.com/RyanNielson/awesome-unity) ★★
