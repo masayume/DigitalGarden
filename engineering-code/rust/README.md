@@ -1,14 +1,14 @@
 # rust
 
 ## general
-* [Rust Homepage][https://www.rust-lang.org/]
-* [Ownership Model][https://doc.rust-lang.org/rust-by-example/scope.html]
-* [Cargo][https://doc.rust-lang.org/cargo/]
-* [Rustup installer][https://rustup.rs/]
-* [Specifying dependencies][https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html]
+* [Rust Homepage](https://www.rust-lang.org/)
+* [Ownership Model](https://doc.rust-lang.org/rust-by-example/scope.html)
+* [Cargo](https://doc.rust-lang.org/cargo/)
+* [Rustup installer](https://rustup.rs/)
+* [Specifying dependencies](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 * [The Rust Book](https://doc.rust-lang.org/book/)
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/hello.html)
-* [The Rust Standard Library][https://doc.rust-lang.org/std/]
+* [The Rust Standard Library](https://doc.rust-lang.org/std/)
 * [The Cargo Book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 * [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html)
 * [Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
