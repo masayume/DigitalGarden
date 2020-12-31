@@ -22,7 +22,7 @@
 * [syn (for macro-related utilities)](https://crates.io/crates/syn)
 * [quote (for macro-related utilities)](https://crates.io/crates/quote)
 * [actix-web (for web server frameworks)](https://crates.io/crates/actix-web)
-* [rocket (for web server frameworks)](https://crates.io/crates/rocket)
+* Rocket [tutorial](https://dev.to/davidedelpapa/rocket-tutorial-01-basics-4ph9) [docs](https://crates.io/crates/rocket)
 * [serde (for data serialization and deserialization)](https://crates.io/crates/serde)
 * [piston (for game development)](https://crates.io/crates/piston)
 * [bevy (for game development)](https://crates.io/crates/bevy)
