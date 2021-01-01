@@ -15,6 +15,8 @@
 * [Doc Comments](https://doc.rust-lang.org/reference/comments.html#doc-comments)
 * [Docs.rs](https://docs.rs/)
 * [The Rust community’s crate registry](https://crates.io/)
+* [Rustlings ★](https://github.com/rust-lang/rustlings)
+* [Intro to Rust for JS programmers](https://www.sitepoint.com/rust-tutorial-introduction-javascript-devs/)
 
 ## popular packages
 * [clap (for parsing command-line arguments)](https://crates.io/crates/clap)
@@ -46,6 +48,7 @@
 * [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
 * [soloud, game audio library](https://www.reddit.com/r/rust/comments/ih2aly/soloud_crate_first_release/)
 * [egui WASM windows interface](https://github.com/emilk/egui)
+* [merge k-sorted arrays](https://dev.to/creativcoder/merge-k-sorted-arrays-in-rust-1b2f)
 
 ## games
 * [A Game in Rust](https://www.youtube.com/watch?v=Ktwl97Ph-SI&list=RDCMUCaYhcUwRBNscFNUKTjgPFiA&index=5)
