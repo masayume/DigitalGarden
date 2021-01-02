@@ -8,6 +8,7 @@
 ## General 2D Links
 - [Unity Learn](learn.unity.com) ★
 - [Unity 2D @ reddit](https://www.reddit.com/r/Unity2D/) ★
+- [VIDEO Unity 2018 full course](https://www.youtube.com/watch?v=6zD14z6TWLs&t=161s)
 - [2D movement](https://www.youtube.com/watch?v=dwcT-Dch0bA) 
 - [input system](https://www.youtube.com/watch?v=Pzd8NhcRzVo)
 - [melee combat](https://www.youtube.com/watch?v=sPiVz1k-fEs)
@@ -85,6 +86,7 @@
 - [ML agents hummingbirds](https://learn.unity.com/course/ml-agents-hummingbirds)
 - [machine learning agents](https://unity.com/products/machine-learning-agents)
 - [deep reinforcement learning](https://towardsdatascience.com/deep-reinforcement-learning-using-unity-ml-agents-8af8d407dd5a)
+- [VIDEO: How to use Machine Learning AI in Unity](https://www.youtube.com/watch?v=zPFU30tbyKs&list=PLzDRvYVwl53vehwiN_odYJkPBzcqFw110)
 
 ## Game Elements
 - [scene transitions](https://www.youtube.com/watch?v=CE9VOZivb3I)    
