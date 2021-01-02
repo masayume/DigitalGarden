@@ -2,6 +2,9 @@
 
 - [TEXT](https://www.youtube.com/watch?v=Tpak3yIkS5M)
 
+## Fundamentals - Not Unity specific
+- [VIDEO Math for Game Devs](https://www.youtube.com/watch?v=MOYiVLEnhrw&list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
+
 ## General 2D Links
 - [Unity Learn](learn.unity.com) ★
 - [Unity 2D @ reddit](https://www.reddit.com/r/Unity2D/) ★
