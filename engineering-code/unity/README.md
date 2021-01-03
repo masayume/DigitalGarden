@@ -21,6 +21,9 @@
 - [awesome-unity high quality assets](https://github.com/RyanNielson/awesome-unity) ★★
 - unity 2D movement controller [video](https://www.youtube.com/watch?v=SVACshnciMk), [github](https://github.com/krthush/2d-unity-movement)
 
+## Projects
+- [2D sample project: Lost Crypt](https://blogs.unity3d.com/2019/12/18/download-our-new-2d-sample-project-lost-crypt/)
+
 ## Resources
 - [unity list](https://unitylist.com/) ★★
 - [unity @ github](https://github.com/topics/unity) ★★
