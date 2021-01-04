@@ -4,6 +4,9 @@
 * [photopea](https://www.photopea.com/) ★★★
 * [draw IO](https://draw.io/) ★★
 
+## resources
+* [this x does not exist](https://thisxdoesnotexist.com/) ★
+
 ## gif
 
 * [twitter downloader](https://twittervideodownloader.com/)
