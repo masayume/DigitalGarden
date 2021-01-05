@@ -53,7 +53,8 @@
 ## Video
 - [Video: Creating a 2D Platformer #1](https://www.youtube.com/watch?v=MbWK8bCAU2w)
 
-
+## Audio
+- [fundamentals of game audio in 2021](https://www.youtube.com/watch?v=B9yxkJuHLek)
 
 # Unity 3D
 
