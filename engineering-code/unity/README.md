@@ -49,6 +49,7 @@
 
 ## C#
 - [github topics: C#](https://github.com/topics/csharp)
+- [important classes](https://docs.unity3d.com/Manual/ScriptingImportantClasses.html9)
 
 ## Video
 - [Video: Creating a 2D Platformer #1](https://www.youtube.com/watch?v=MbWK8bCAU2w)
