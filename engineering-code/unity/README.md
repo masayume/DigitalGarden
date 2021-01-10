@@ -24,8 +24,21 @@
 - [awesome-unity high quality assets](https://github.com/RyanNielson/awesome-unity) ★★
 - unity 2D movement controller [video](https://www.youtube.com/watch?v=SVACshnciMk), [github](https://github.com/krthush/2d-unity-movement)
 
-## Projects
-- [2D sample project: Lost Crypt](https://blogs.unity3d.com/2019/12/18/download-our-new-2d-sample-project-lost-crypt/)
+## Animation
+- [Mecanim 2D RPG Movement - Unity3D](https://www.youtube.com/watch?v=TU6wflRqT5Q)
+- [2D animation](https://www.youtube.com/watch?v=hkaysu1Z-N8)
+
+## Audio
+- [fundamentals of game audio in 2021](https://www.youtube.com/watch?v=B9yxkJuHLek)
+
+## C#
+- [github topics: C#](https://github.com/topics/csharp)
+- [important classes](https://docs.unity3d.com/Manual/ScriptingImportantClasses.html9)
+
+## Machine Learning
+- [Barracuda][https://docs.unity3d.com/Packages/com.unity.barracuda@1.0]
+- [waifu2xBarracuda][https://github.com/keijiro/Waifu2xBarracuda]
+- [export tensorflow, keras, pytorch to ONNX][https://docs.unity3d.com/Packages/com.unity.barracuda@1.0/manual/Exporting.html]
 
 ## Resources
 - [unity list](https://unitylist.com/) ★★
@@ -37,9 +50,9 @@
 - [beginner-2D-game-resources](https://unity.com/how-to/beginner-2D-game-resources)
 - [Creating a 2D Platformer (E01. set-up)](https://www.youtube.com/watch?v=MbWK8bCAU2w)
 
-## Animation
-- [Mecanim 2D RPG Movement - Unity3D](https://www.youtube.com/watch?v=TU6wflRqT5Q)
-- [2D animation](https://www.youtube.com/watch?v=hkaysu1Z-N8)
+## Projects
+- [2D sample project: Lost Crypt](https://blogs.unity3d.com/2019/12/18/download-our-new-2d-sample-project-lost-crypt/)
+- [Keijiro Takahashi, Unity Technologies Japan][https://github.com/keijiro]
 
 ## Level Design
 - [github topics: maze generation](https://github.com/topics/maze-generator?l=c%23)
@@ -47,15 +60,9 @@
 - [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
 - [2019.2 Intro to Tilemaps](https://learn.unity.com/tutorial/introduction-to-tilemaps-2019-2#5e53f35eedbc2a0108f8c8dc)
 
-## C#
-- [github topics: C#](https://github.com/topics/csharp)
-- [important classes](https://docs.unity3d.com/Manual/ScriptingImportantClasses.html9)
-
 ## Video
 - [Video: Creating a 2D Platformer #1](https://www.youtube.com/watch?v=MbWK8bCAU2w)
 
-## Audio
-- [fundamentals of game audio in 2021](https://www.youtube.com/watch?v=B9yxkJuHLek)
 
 # Unity 3D
 
@@ -120,7 +127,7 @@
 - [math tutorials](https://www.habrador.com/tutorials/math/)
 - [3d rotation](http://www.fastgraph.com/makegames/3drotation/) 
 
-## Shader
+## Shaders
 - [Grass Geometry Shader with Interactivity](https://www.patreon.com/posts/grass-geometry-1-40090373)
 - [simple toon shader](https://alexanderameye.github.io/simple-toon)
 - [Stylized Lava Shader](https://www.patreon.com/posts/stylized-lava-32245619)
@@ -128,6 +135,7 @@
 - [Shader Graph: Sprite Outline Effects](https://www.patreon.com/posts/shader-graph-32245554)
 - [changinc colors](https://www.patreon.com/posts/quick-game-art-39412122)
 - [sprite swap](https://www.patreon.com/posts/ui-sprite-shader-43816363)
+- [shaderquest](https://halisavakis.com/category/shaderquest/)
 
 ## unity animation checklist 
 
