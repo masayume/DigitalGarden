@@ -20,9 +20,13 @@
 - [C# storing coordinates](https://markheath.net/post/coord-performance-versus-readability)
 - [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 
-## Assets
+## Assets & Libraries
 - [awesome-unity high quality assets](https://github.com/RyanNielson/awesome-unity) ★★
 - unity 2D movement controller [video](https://www.youtube.com/watch?v=SVACshnciMk), [github](https://github.com/krthush/2d-unity-movement)
+- [github repositories with most stars](https://github.com/topics/unity?o=desc&s=stars)
+- [ZeroFormatter - fast deserializer](https://github.com/neuecc/ZeroFormatter)
+- [Unity Library](https://github.com/UnityCommunity/UnityLibrary)
+- [uTinyRipper](https://github.com/mafaca/UtinyRipper)
 
 ## Animation
 - [Mecanim 2D RPG Movement - Unity3D](https://www.youtube.com/watch?v=TU6wflRqT5Q)
@@ -30,8 +34,11 @@
 
 ## Audio
 - [fundamentals of game audio in 2021](https://www.youtube.com/watch?v=B9yxkJuHLek)
+- [Unity Scripts Audio](https://github.com/michidk/Unity-Script-Collection#sound--music)
+- [Arpie Musical Toy](https://github.com/keijiro/arpie)
 
 ## C#
+- [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection) ★
 - [github topics: C#](https://github.com/topics/csharp)
 - [important classes](https://docs.unity3d.com/Manual/ScriptingImportantClasses.html9)
 
@@ -39,6 +46,7 @@
 - [Barracuda][https://docs.unity3d.com/Packages/com.unity.barracuda@1.0]
 - [waifu2xBarracuda][https://github.com/keijiro/Waifu2xBarracuda]
 - [export tensorflow, keras, pytorch to ONNX][https://docs.unity3d.com/Packages/com.unity.barracuda@1.0/manual/Exporting.html]
+- [Deep Reinforcement Learning Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)
 
 ## Resources
 - [unity list](https://unitylist.com/) ★★
@@ -49,10 +57,16 @@
 - [card deck](https://assetstore.unity.com/packages/3d/props/tools/free-playing-cards-pack-154780)
 - [beginner-2D-game-resources](https://unity.com/how-to/beginner-2D-game-resources)
 - [Creating a 2D Platformer (E01. set-up)](https://www.youtube.com/watch?v=MbWK8bCAU2w)
+- [Awesome Unity Open Source on GitHub](https://github.com/baba-s/awesome-unity-open-source-on-github)
 
 ## Projects
+- [Unity Scripts](https://github.com/michidk/Unity-Script-Collection)
 - [2D sample project: Lost Crypt](https://blogs.unity3d.com/2019/12/18/download-our-new-2d-sample-project-lost-crypt/)
 - [Keijiro Takahashi, Unity Technologies Japan][https://github.com/keijiro]
+- [Unity Movement AI](https://github.com/sturdyspoon/unity-movement-ai)
+
+## Procedural
+- [Procedural Toolkit](https://github.com/Syomus/ProceduralToolkit)
 
 ## Level Design
 - [github topics: maze generation](https://github.com/topics/maze-generator?l=c%23)
@@ -63,6 +77,8 @@
 ## Video
 - [Video: Creating a 2D Platformer #1](https://www.youtube.com/watch?v=MbWK8bCAU2w)
 
+## Fx
+- [Sprite Glow](https://github.com/Elringus/SpriteGlow)
 
 # Unity 3D
 
@@ -90,12 +106,6 @@
 
 ## Animation 
 - [Animation Rigging in Unity](https://www.youtube.com/watch?v=Htl7ysv10Qs&feature=youtu.be)
-
-## FX
-- [minion's art](https://minionsart.github.io/tutorials/)
-- [fireworks](https://www.youtube.com/watch?v=iCEHarLRCzI)    
-- [overlay effects](https://www.patreon.com/posts/2d-sprite-33606001)
-- [dissolving logo](https://www.youtube.com/watch?v=O9TaweiZFDU) 
 
 ## Machine Learning ML
 - [ML agents hummingbirds](https://learn.unity.com/course/ml-agents-hummingbirds)
@@ -127,7 +137,7 @@
 - [math tutorials](https://www.habrador.com/tutorials/math/)
 - [3d rotation](http://www.fastgraph.com/makegames/3drotation/) 
 
-## Shaders
+## Shaders & Fx
 - [Grass Geometry Shader with Interactivity](https://www.patreon.com/posts/grass-geometry-1-40090373)
 - [simple toon shader](https://alexanderameye.github.io/simple-toon)
 - [Stylized Lava Shader](https://www.patreon.com/posts/stylized-lava-32245619)
@@ -136,6 +146,14 @@
 - [changinc colors](https://www.patreon.com/posts/quick-game-art-39412122)
 - [sprite swap](https://www.patreon.com/posts/ui-sprite-shader-43816363)
 - [shaderquest](https://halisavakis.com/category/shaderquest/)
+- [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+- [Unity VFX Shader Graph](https://github.com/keijiro/Eyeball)
+- [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
+- [VFX Graphs with Shader Graph](https://github.com/keijiro/ProcCharVfx)
+- [minion's art](https://minionsart.github.io/tutorials/)
+- [fireworks](https://www.youtube.com/watch?v=iCEHarLRCzI)    
+- [overlay effects](https://www.patreon.com/posts/2d-sprite-33606001)
+- [dissolving logo](https://www.youtube.com/watch?v=O9TaweiZFDU) 
 
 ## unity animation checklist 
 
