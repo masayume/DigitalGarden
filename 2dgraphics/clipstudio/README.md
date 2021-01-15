@@ -27,6 +27,9 @@
 * [free resources](https://misschroma.blogspot.it/2016/12/clip-studio-paint-aggiornamenti.html)
 * [gradient map](https://www.youtube.com/watch?v=7Cx9v1KM-ks)
 * [How to put an overlay that gives a three-dimensional effect easily][https://tips.clip-studio.com/en-us/articles/4119]
+* [8 Techniques for Scene Transitions in Webtoons](https://tips.clip-studio.com/en-us/articles/4093)
+* [Webtoon 101](https://tips.clip-studio.com/en-us/articles/4143)
+* [synthesis mode full explanation](https://tips.clip-studio.com/en-us/articles/4162)
 
 ## Official Clip Studio Tips & Tutorials
 
