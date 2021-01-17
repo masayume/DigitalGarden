@@ -42,13 +42,17 @@
 * [VIDEO: GGEZ rust game engine ](https://www.youtube.com/watch?v=oBdZtank14A)
 * [VIDEO: random walker using GGEZ](https://www.youtube.com/watch?v=NCcP98RonaA)
 * [VIDEO: Texture Synthesis with Rust by Anastasia Opara](https://github.com/EmbarkStudios/texture-synthesis)
-* [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
 * [From C# to Rust](https://dev.to/sebnilsson/from-c-to-rust-introduction-4650)
 * [Anastasia Opara - Texture Syntehsis](https://github.com/anopara/texture-synthesis)
 * [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
 * [soloud, game audio library](https://www.reddit.com/r/rust/comments/ih2aly/soloud_crate_first_release/)
 * [egui WASM windows interface](https://github.com/emilk/egui)
 * [merge k-sorted arrays](https://dev.to/creativcoder/merge-k-sorted-arrays-in-rust-1b2f)
+
+## Webassembly
+* [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
+* [WebAssembly and Rust: There and Back Again](https://codeburst.io/webassembly-and-rust-there-and-back-again-9ad76f61d616)
+* [A practical guide to WebAssembly memory](https://radu-matei.com/blog/practical-guide-to-wasm-memory/)
 
 ## games
 * [A Game in Rust](https://www.youtube.com/watch?v=Ktwl97Ph-SI&list=RDCMUCaYhcUwRBNscFNUKTjgPFiA&index=5)

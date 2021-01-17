@@ -2,8 +2,10 @@
 
 ## general
 
-
 - [pythonawesome](https://pythonawesome.com/)
+- [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
+
+## video
 
 - [VIDEO - 12 beginner projects](https://www.youtube.com/watch?v=8ext9G7xspg)
 - [VIDEO - Tic-Tac-Toe](https://www.youtube.com/watch?v=8ext9G7xspg&t=2153s)
