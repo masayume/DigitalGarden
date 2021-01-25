@@ -11,6 +11,12 @@
 * [MIDI file splitter](https://github.com/markheath/midifilesplitter)
 * [TEXT](LINK)
 
+## Markov Chains
+* [Rosettacode: Markov chain text generator](https://rosettacode.org/wiki/Markov_chain_text_generator)
+* [C# Random Name Generation Using Markov Chains](https://www.codeproject.com/Articles/1151624/Random-Name-Generation-Using-Markov-Chains)
+* [MarkVSharp .NET library](https://github.com/emacarie/MarkVSharp)
+* [Markov C# implementation of a text generator](https://github.com/7lb/Markov)
+
 ## Advanced
 * [mediator pattern & API in .NET 5](https://www.edument.se/en/blog/post/net-5-source-generators-mediatr-cqrs)
 
