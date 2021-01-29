@@ -4,6 +4,7 @@
 * [C# A to Z](https://dev.to/dotnet/c-a-to-z-prelude-e3g)
 * [C# 9.0 top level programs](https://www.stevejgordon.co.uk/playing-with-csharp-9-top-level-programs-records-and-elasticsearch-dotnet)
 * [exceptions](https://blog.ndepend.com/the-proper-usages-of-exceptions-in-c/)
+* [fluent interfaces](https://tyrrrz.me/blog/fluent-generics)
 
 ## Audio Libraries
 * [NAudio](https://github.com/naudio/NAudio)

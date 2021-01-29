@@ -1,10 +1,17 @@
 # CLIP STUDIO PAINT
 
-## books
+## Books
 
 * [Manga Studio For Dummies in E/books/ART](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
 * [Manga Studio Ex 5 Cookbook in E/books/ART](file:///E:/books/ART/Manga%20Studio%20Ex%205%20Cookbook.pdf)
 * [Mastering Manga Studio 5 in E/books/ART](file:///E:/books/ART/Mastering%20Manga%20Studio%205.pdf)
+
+## lineart
+* [15 Quick Tips to Improve your Digital Lineart!](https://tips.clip-studio.com/en-us/articles/3891)
+* [Lineart: Techniques and Tools.](https://tips.clip-studio.com/en-us/articles/3879)
+* [Line art with continuous curve - for beginners](https://tips.clip-studio.com/en-us/articles/3146)
+* [Tips for better line art](https://tips.clip-studio.com/en-us/articles/3828)
+* [5 Methods for Perfecting your Lineart](https://tips.clip-studio.com/en-us/articles/3868)
 
 ## Tips & Tutorials
 
