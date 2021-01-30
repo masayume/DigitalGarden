@@ -162,7 +162,6 @@
 * [Blender: Make your own halftone shader](https://www.youtube.com/watch?v=Go8ivK00Y-A)
 * [Blender 2.81 / 2.82 How to Make a Metal Material](https://www.youtube.com/watch?v=wxuDRtrS_YI)
 * [Blender 2.82 Eevee | Procedural Paper Texture](https://www.youtube.com/watch?v=05-GDQtJvjc)
-* [Blender 3D: Pixel Art Tutorial](https://www.youtube.com/watch?v=FxspGqoKcaE)
 * [Blender 2.8/EEVEE Toon Shader Tutorial - Part 1 - How to Have Multiple Light Sources](https://www.youtube.com/watch?v=TpWI2rU8iF0)
 * [Textures instead of boolean operations](https://www.youtube.com/watch?v=DrWVHBeko2E)
 * [All 80+ Blender material nodes explained in under 30 minutes](https://www.youtube.com/watch?v=cQ0qtcSymDI)
@@ -212,7 +211,6 @@
 * [The BNPR Show #18: Hid the Bunnies](https://www.youtube.com/watch?v=_gZQOL2HCeE)
 * [Tutorial: Ghibli/BoTW Anime Stylized Grass in Blender wth EEVEE](https://www.youtube.com/watch?v=6hyztL8btlY)
 * [NPR PENCIL LOOK - Not only a shader](https://www.youtube.com/watch?v=_reT6PwJRkg&t=280s&ab_channel=ToniMortero)
-* [Pixelate your renders](https://www.youtube.com/watch?v=dphzvXJB9uM)
 * [2.79 ADDING CONTROLLERS ON THE FORMAT KEYS](https://www.youtube.com/watch?v=MuqJbm99wE0)
 * Ghibli Nausicaä inspired shaders for blender  [video](https://www.youtube.com/watch?v=zD8hX-KSq4g) [shader](https://gumroad.com/l/ZCpLj)
 * [2.79 MATERIALS TOON SHADER, TEXTURES AND OUTLINE](https://www.youtube.com/watch?v=8L6FLzJGg4Q)
@@ -224,12 +222,15 @@
 * [Storyboard Animatic Tutorial - 1 of 6 - Basics, UI, Modes,Canvas](https://www.youtube.com/watch?list=PLeV-rteYibcvBvW-WNPMtajsaaGfGay6Y&v=H0BufKAE8fY) 
 
 ## pixelart
+* [setting the Eevee render samples to one for a cleaner, more #pixelart look](https://twitter.com/lettier/status/1352508750716940288)
+* [Pixelate your renders](https://www.youtube.com/watch?v=dphzvXJB9uM)
 * [3D PixelArt Camper in Blender](https://www.youtube.com/watch?v=WE0qRRRjF-g)
 * [Making animated PIXEL ART with Blender 2.8 in 12 Minutes](https://www.youtube.com/watch?v=cLnyKRfBFsQ)
 * [Creating a Low Poly Pixel Texture 3D Asset in Blender 2.8+](https://www.youtube.com/watch?v=yh6785-ff8k)
 * [Blender 3D: Pixel Art Tutorial](https://www.youtube.com/watch?v=FxspGqoKcaE)
 * [3D to 2D pixel in-depth Blender Tutorial](https://www.youtube.com/watch?v=vIKJ1AqfI0Q)
 * [Rendering in the Pokemon 3DS Shading Style in Blender](https://www.youtube.com/watch?v=tI5mtH4mVVc)
+* [Blender 3D: Pixel Art Tutorial](https://www.youtube.com/watch?v=FxspGqoKcaE)
 
 ## ANIMATION
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
