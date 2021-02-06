@@ -18,7 +18,6 @@
 
 ## General
 - [C# storing coordinates](https://markheath.net/post/coord-performance-versus-readability)
-- [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 
 ## Assets & Libraries
 - [awesome-unity high quality assets](https://github.com/RyanNielson/awesome-unity) ★★
@@ -138,9 +137,11 @@
 - [3d rotation](http://www.fastgraph.com/makegames/3drotation/) 
 
 ## Shaders & Fx
+- [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 - [Grass Geometry Shader with Interactivity](https://www.patreon.com/posts/grass-geometry-1-40090373)
 - [simple toon shader](https://alexanderameye.github.io/simple-toon)
 - [Stylized Lava Shader](https://www.patreon.com/posts/stylized-lava-32245619)
+- [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [VIDEO: Brackeys, dissolve](https://www.youtube.com/watch?v=5dzGj9k8Qy8) 
 - [Shader Graph: Sprite Outline Effects](https://www.patreon.com/posts/shader-graph-32245554)
 - [changinc colors](https://www.patreon.com/posts/quick-game-art-39412122)

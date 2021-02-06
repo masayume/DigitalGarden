@@ -54,6 +54,8 @@
 * [WebAssembly and Rust: There and Back Again](https://codeburst.io/webassembly-and-rust-there-and-back-again-9ad76f61d616)
 * [A practical guide to WebAssembly memory](https://radu-matei.com/blog/practical-guide-to-wasm-memory/)
 * [A Single-Page Web App in XAML, WebAssembly & Uno Platform](https://platform.uno/blog/how-to-build-a-single-page-web-app-in-xaml-and-c-with-webassembly-using-uno-platform/)
+* [WebAssembly and Rust: There and Back Again](https://codeburst.io/webassembly-and-rust-there-and-back-again-9ad76f61d616)
+* [Choosing Between Blazor Server or WebAssembly](https://baldbeardedbuilder.com/blog/choosing-between-blazor-server-or-web-assembly)
 
 ## games
 * [A Game in Rust](https://www.youtube.com/watch?v=Ktwl97Ph-SI&list=RDCMUCaYhcUwRBNscFNUKTjgPFiA&index=5)
