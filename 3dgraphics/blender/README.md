@@ -70,6 +70,7 @@
 * [Blender 2.8 3D Cabinet Model Critique & Fix | How to Sell 3D Models](https://www.youtube.com/watch?v=WAaeKdveezU)
 * [Lost blendfile found: Celestine Breakdown](https://www.youtube.com/watch?v=KaFpPyiEBNI)
 * [model genesis 8 people from Daz Studio](https://www.daz3d.com/genesis-8-people)
+* [3D Posed People](https://renderpeople.com/free-3d-people/)
 
 # Tools & Tips
 * [A Beautiful Cut - Blender Boolean](https://www.youtube.com/watch?v=Gj2ZjpiDUWY)
