@@ -15,8 +15,7 @@
 * [Blazor Hello World app](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/create)
 * [dev.to top/month](https://dev.to/t/blazor/top/month)
 * [video: Blazor: C# in the Browser - Brian Jablonsky](https://www.youtube.com/watch?v=z6cAmskMVdY)
-* [TEXT](LINK)
-* [TEXT](LINK)
+* [Publishing a Blazor WebAssembly application to GitHub](https://www.meziantou.net/publishing-a-blazor-webassembly-application-to-github-pages.htm)
 
 ## Markov Chains
 * [Rosettacode: Markov chain text generator](https://rosettacode.org/wiki/Markov_chain_text_generator)
