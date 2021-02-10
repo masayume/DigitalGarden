@@ -10,6 +10,12 @@
 * [NAudio](https://github.com/naudio/NAudio)
 * [NLayer - fully managed MP3 to WAV decoder](https://github.com/naudio/NLayer)
 * [MIDI file splitter](https://github.com/markheath/midifilesplitter)
+
+## Blazor
+* [Blazor Hello World app](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/create)
+* [dev.to top/month](https://dev.to/t/blazor/top/month)
+* [video: Blazor: C# in the Browser - Brian Jablonsky](https://www.youtube.com/watch?v=z6cAmskMVdY)
+* [TEXT](LINK)
 * [TEXT](LINK)
 
 ## Markov Chains
