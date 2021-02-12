@@ -19,6 +19,7 @@
 * [Publishing a Blazor WebAssembly application to GitHub](https://www.meziantou.net/publishing-a-blazor-webassembly-application-to-github-pages.htm)
 * [blazorstrap - blazor + bootstrap](https://blazorstrap.io/)
 * [gamedev: asset loading, state machine, keyboard events, layout, sound etc.](https://www.davideguida.com/category/programming/gamedev/)
+* [source generators to find routable components](https://andrewlock.net/using-source-generators-to-find-all-routable-components-in-a-webassembly-app/)
 
 ## Markov Chains
 * [Rosettacode: Markov chain text generator](https://rosettacode.org/wiki/Markov_chain_text_generator)
