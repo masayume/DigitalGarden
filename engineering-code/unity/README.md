@@ -104,6 +104,7 @@
 - [space invaders github](https://github.com/cbpetersen/space-invaders-unity)
 
 ## Animation 
+- [Mixamo ★](https://www.masayume.it/blog/content/3d-con-pochi-click-mixamo)
 - [Animation Rigging in Unity](https://www.youtube.com/watch?v=Htl7ysv10Qs&feature=youtu.be)
 
 ## Machine Learning ML
