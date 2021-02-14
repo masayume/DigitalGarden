@@ -21,6 +21,9 @@
 * [gamedev: asset loading, state machine, keyboard events, layout, sound etc.](https://www.davideguida.com/category/programming/gamedev/)
 * [source generators to find routable components](https://andrewlock.net/using-source-generators-to-find-all-routable-components-in-a-webassembly-app/)
 
+## WASM
+* [Debugging WASM with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
+
 ## Markov Chains
 * [Rosettacode: Markov chain text generator](https://rosettacode.org/wiki/Markov_chain_text_generator)
 * [C# Random Name Generation Using Markov Chains](https://www.codeproject.com/Articles/1151624/Random-Name-Generation-Using-Markov-Chains)
