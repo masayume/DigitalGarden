@@ -20,6 +20,7 @@
 * [blazorstrap - blazor + bootstrap](https://blazorstrap.io/)
 * [gamedev: asset loading, state machine, keyboard events, layout, sound etc.](https://www.davideguida.com/category/programming/gamedev/)
 * [source generators to find routable components](https://andrewlock.net/using-source-generators-to-find-all-routable-components-in-a-webassembly-app/)
+* [VIDEO Blazor: C# in the browser](https://www.youtube.com/watch?v=z6cAmskMVdY)
 
 ## WASM
 * [Debugging WASM with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
