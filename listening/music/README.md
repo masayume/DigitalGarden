@@ -35,4 +35,5 @@
 * Chris Huelsbeck [deepsid](http://deepsid.chordian.net/?file=/MUSICIANS/H/Huelsbeck_Chris/)
 * Tim Follin [deepsid](http://deepsid.chordian.net/?file=/MUSICIANS/F/Follin_Tim/)
 * Ben Daglish [deepsid](http://deepsid.chordian.net/?file=/MUSICIANS/D/Daglish_Ben/)
+* [VG Score Attack](https://www.facebook.com/groups/vgscoreattack/)
 
