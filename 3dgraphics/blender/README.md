@@ -234,6 +234,7 @@
 * [Blender 3D: Pixel Art Tutorial](https://www.youtube.com/watch?v=FxspGqoKcaE)
 
 ## ANIMATION
+* [2.92 | How to use Geometry Nodes to make Procedural Motion Graphics ★](https://www.youtube.com/watch?v=PVmDgrr75nE)
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
 * [Ultra Satisfying Animations | Easy](https://www.youtube.com/watch?v=Uq4OLSRgSQE)
 * [ANIMATION Cut-out animation in Blender 2.78 (with CoaTools)](https://www.youtube.com/watch?&v=_IcXTg4OQMU)
