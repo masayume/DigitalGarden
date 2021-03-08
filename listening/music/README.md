@@ -1,5 +1,8 @@
 # MUSIC
 
+## Services
+* [amazon music purchased](https://music.amazon.it/recently/purchased9)
+
 ## Tools
 * [The Eternal Jukebox](https://eternalbox.dev/jukebox_index.html)
 
