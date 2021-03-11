@@ -31,6 +31,7 @@
 ## Animation
 - [Mecanim 2D RPG Movement - Unity3D](https://www.youtube.com/watch?v=TU6wflRqT5Q)
 - [2D animation](https://www.youtube.com/watch?v=hkaysu1Z-N8)
+- [animate 3d avatar with mixamo](https://readyplayer.me/blog/3d-avatars-unity-sdk-get-started)
 
 ## Audio
 - [fundamentals of game audio in 2021](https://www.youtube.com/watch?v=B9yxkJuHLek)
@@ -95,6 +96,7 @@
 
 ## Tips
 - [Edge Detection](https://alexanderameye.github.io/edgedetection)
+- [Presets 101 - default component values](https://www.youtube.com/watch?v=PohHqy2cuZM)
 
 ## Resources
 - [LEGO](https://blogs.unity3d.com/2020/10/23/start-creating-games-with-virtual-lego-bricks-in-our-new-lego-microgame)
@@ -139,6 +141,7 @@
 - [3d rotation](http://www.fastgraph.com/makegames/3drotation/) 
 
 ## Shaders & Fx
+- [Matrix shader graph tutorial](https://www.youtube.com/watch?v=pWPD4PDsSnc)
 - [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 - [Grass Geometry Shader with Interactivity](https://www.patreon.com/posts/grass-geometry-1-40090373)
 - [simple toon shader](https://alexanderameye.github.io/simple-toon)
