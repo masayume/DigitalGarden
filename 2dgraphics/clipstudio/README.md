@@ -37,6 +37,9 @@
 * [8 Techniques for Scene Transitions in Webtoons](https://tips.clip-studio.com/en-us/articles/4093)
 * [Webtoon 101](https://tips.clip-studio.com/en-us/articles/4143)
 * [synthesis mode full explanation](https://tips.clip-studio.com/en-us/articles/4162)
+* [The science of skin tone for artist](https://tips.clip-studio.com/en-us/articles/4437)
+* [perspective Rulers](https://tips.clip-studio.com/en-us/articles/4455)
+* [How to draw a high-speed cut-out manga background](https://tips.clip-studio.com/en-us/articles/4474)
 
 ## Official Clip Studio Tips & Tutorials
 
