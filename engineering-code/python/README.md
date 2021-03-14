@@ -6,6 +6,9 @@
 - [pythonawesome](https://pythonawesome.com/)
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
 
+## Flask
+- [Flask course etc.](https://www.masayume.it/blog/content/docker-e-flask)
+
 ## video
 
 - [VIDEO - 12 beginner projects](https://www.youtube.com/watch?v=8ext9G7xspg)
