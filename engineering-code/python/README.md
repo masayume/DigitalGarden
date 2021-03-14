@@ -2,6 +2,7 @@
 
 ## general
 
+- [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 - [pythonawesome](https://pythonawesome.com/)
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
 
