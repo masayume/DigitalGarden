@@ -40,6 +40,11 @@
 * [The science of skin tone for artist](https://tips.clip-studio.com/en-us/articles/4437)
 * [perspective Rulers](https://tips.clip-studio.com/en-us/articles/4455)
 * [How to draw a high-speed cut-out manga background](https://tips.clip-studio.com/en-us/articles/4474)
+* [How to draw weapons with symmetry ruler: sword](https://tips.clip-studio.com/en-us/articles/2744)
+
+## drawing with 3d models
+* [Hand Gestures with sketch and 3D models](https://tips.clip-studio.com/en-us/articles/3261)
+* [Drawing Work Uniforms with 3D Models!](https://tips.clip-studio.com/en-us/articles/3123)
 
 ## Official Clip Studio Tips & Tutorials
 
