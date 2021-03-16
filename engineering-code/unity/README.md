@@ -8,6 +8,8 @@
 ## General 2D Links
 - [Unity Learn](learn.unity.com) ★
 - [Unity 2D @ reddit](https://www.reddit.com/r/Unity2D/) ★
+- [TNTC feature tutorials](https://www.youtube.com/c/TNTCProject/videos) ★
+- [Mix and Jam feature tutorials](https://www.youtube.com/c/MixandJam/videos) ★
 - [VIDEO Unity 2018 full course](https://www.youtube.com/watch?v=6zD14z6TWLs&t=161s)
 - [2D movement](https://www.youtube.com/watch?v=dwcT-Dch0bA) 
 - [input system](https://www.youtube.com/watch?v=Pzd8NhcRzVo)
