@@ -6,6 +6,7 @@
 - [VIDEO Math for Game Devs](https://www.youtube.com/watch?v=MOYiVLEnhrw&list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
 
 ## General 2D Links
+- [A lightning round of great tips for 2D games ★★★](https://blogs.unity3d.com/2021/02/09/a-lightning-round-of-great-tips-for-2d-games/) 
 - [Unity Learn](learn.unity.com) ★
 - [Unity 2D @ reddit](https://www.reddit.com/r/Unity2D/) ★
 - [TNTC feature tutorials](https://www.youtube.com/c/TNTCProject/videos) ★
