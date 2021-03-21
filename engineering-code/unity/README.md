@@ -2,8 +2,9 @@
 
 - [TEXT](https://www.youtube.com/watch?v=Tpak3yIkS5M)
 
-## Fundamentals - Not Unity specific
+## Fundamentals & Tips - Not Unity specific
 - [VIDEO Math for Game Devs](https://www.youtube.com/watch?v=MOYiVLEnhrw&list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
+- [tips from the community ★★](https://blogs.unity3d.com/2021/01/06/become-a-better-unity-developer-with-these-tips-from-the-community)
 
 ## General 2D Links
 - [A lightning round of great tips for 2D games ★★★](https://blogs.unity3d.com/2021/02/09/a-lightning-round-of-great-tips-for-2d-games/) 
