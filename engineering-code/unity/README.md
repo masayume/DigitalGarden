@@ -34,6 +34,7 @@
 - [Mecanim 2D RPG Movement - Unity3D](https://www.youtube.com/watch?v=TU6wflRqT5Q)
 - [2D animation](https://www.youtube.com/watch?v=hkaysu1Z-N8)
 - [animate 3d avatar with mixamo](https://readyplayer.me/blog/3d-avatars-unity-sdk-get-started)
+- [New 2D Animation Package for Traditional Sprite Animation](https://www.gamasutra.com/blogs/KyleKukshtel/20210224/377838/Using_Unitys_New_2D_Animation_Package_for_Traditional_Sprite_Animation.php)
 
 ## Audio
 - [fundamentals of game audio in 2021](https://www.youtube.com/watch?v=B9yxkJuHLek)
