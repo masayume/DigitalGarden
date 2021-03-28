@@ -1,5 +1,10 @@
 # aseprite
 
+## refrences
+* [pixelart @ masayume.it](https://www.masayume.it/blog/category/pixelart)
+* [Pedro Medeiros Pixel Art Tutorials](https://saint11.org/blog/pixel-art-tutorials/)
+
+
 ## sites
 
 * [reddit aseprite](https://www.reddit.com/r/aseprite/)
