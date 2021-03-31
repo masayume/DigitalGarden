@@ -1,5 +1,8 @@
 # CLIP STUDIO PAINT
 
+## Process
+* [Professional illustration process: Shikimi](https://tips.clip-studio.com/en-us/series/87)
+
 ## Books
 
 * [Manga Studio For Dummies in E/books/ART](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
@@ -41,6 +44,7 @@
 * [perspective Rulers](https://tips.clip-studio.com/en-us/articles/4455)
 * [How to draw a high-speed cut-out manga background](https://tips.clip-studio.com/en-us/articles/4474)
 * [How to draw weapons with symmetry ruler: sword](https://tips.clip-studio.com/en-us/articles/2744)
+* [How to draw manga style hair with these 2 steps](https://www.youtube.com/watch?v=QpJIeHU1uQ8)
 
 ## drawing with 3d models
 * [Hand Gestures with sketch and 3D models](https://tips.clip-studio.com/en-us/articles/3261)
