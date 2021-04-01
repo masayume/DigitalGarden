@@ -3,6 +3,7 @@
 ## refrences
 * [pixelart @ masayume.it](https://www.masayume.it/blog/category/pixelart)
 * [Pedro Medeiros Pixel Art Tutorials](https://saint11.org/blog/pixel-art-tutorials/)
+* [How To Use References Effectively](https://www.youtube.com/watch?v=xbi6e8vQ_kY)
 
 
 ## sites
