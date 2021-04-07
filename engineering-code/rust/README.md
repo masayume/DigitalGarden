@@ -17,6 +17,7 @@
 * [The Rust community’s crate registry](https://crates.io/)
 * [Rustlings ★](https://github.com/rust-lang/rustlings)
 * [Intro to Rust for JS programmers](https://www.sitepoint.com/rust-tutorial-introduction-javascript-devs/)
+* [Rust error handling](https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj)
 
 ## popular packages
 * [clap (for parsing command-line arguments)](https://crates.io/crates/clap)
