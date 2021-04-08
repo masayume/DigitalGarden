@@ -50,6 +50,9 @@
 * [egui WASM windows interface](https://github.com/emilk/egui)
 * [merge k-sorted arrays](https://dev.to/creativcoder/merge-k-sorted-arrays-in-rust-1b2f)
 
+## Projects
+* [A clone of SQLite in rust](https://dev.to/thepolyglotprogrammer/what-would-sqlite-look-like-if-written-in-rust-part-3-ool)
+
 ## Webassembly
 * [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
 * [WebAssembly and Rust: There and Back Again](https://codeburst.io/webassembly-and-rust-there-and-back-again-9ad76f61d616)
