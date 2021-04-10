@@ -5,6 +5,7 @@
 * [C# 9.0 top level programs](https://www.stevejgordon.co.uk/playing-with-csharp-9-top-level-programs-records-and-elasticsearch-dotnet)
 * [exceptions](https://blog.ndepend.com/the-proper-usages-of-exceptions-in-c/)
 * [fluent interfaces](https://tyrrrz.me/blog/fluent-generics)
+* [What's Cool in C# 8 and .NET Core 3](https://visualstudiomagazine.com/articles/2021/04/08/csharp-8-net-core-3.aspx?m=1)
 
 ## Audio Libraries
 * [NAudio](https://github.com/naudio/NAudio)
