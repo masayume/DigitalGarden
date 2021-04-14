@@ -15,6 +15,7 @@
 * [Line art with continuous curve - for beginners](https://tips.clip-studio.com/en-us/articles/3146)
 * [Tips for better line art](https://tips.clip-studio.com/en-us/articles/3828)
 * [5 Methods for Perfecting your Lineart](https://tips.clip-studio.com/en-us/articles/3868)
+* [Creating Art without Outlines](https://tips.clip-studio.com/en-us/articles/4610)
 
 ## Tips & Tutorials
 
@@ -45,16 +46,18 @@
 * [How to draw a high-speed cut-out manga background](https://tips.clip-studio.com/en-us/articles/4474)
 * [How to draw weapons with symmetry ruler: sword](https://tips.clip-studio.com/en-us/articles/2744)
 * [How to draw manga style hair with these 2 steps](https://www.youtube.com/watch?v=QpJIeHU1uQ8)
+* [How to create an elemental magic brush](https://tips.clip-studio.com/en-us/articles/4605)
+* [How to make magical summon effect for animation scene](https://tips.clip-studio.com/en-us/articles/4621)
 
 ## drawing with 3d models
 * [Hand Gestures with sketch and 3D models](https://tips.clip-studio.com/en-us/articles/3261)
 * [Drawing Work Uniforms with 3D Models!](https://tips.clip-studio.com/en-us/articles/3123)
 
 ## Official Clip Studio Tips & Tutorials
-
 * [Drawing and Painting Portraits](https://tips.clip-studio.com/en-us/articles/4023)
 * [How to Draw a Variety of Facial Expressions!](https://tips.clip-studio.com/en-us/articles/1329)
-
+* [Customizing your Clip Studio Paint Workspace](https://tips.clip-studio.com/en-us/articles/4626)
+* [Optimize your Workspace](https://tips.clip-studio.com/en-us/articles/4522)
 
 ## Brushes
 * [watercolor brushes](https://www.dropbox.com/s/thod4k8jbl7tvst/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E7%AD%86.zip?dl=0)
