@@ -21,6 +21,7 @@
 * [blazorstrap - blazor + bootstrap](https://blazorstrap.io/)
 * [gamedev: asset loading, state machine, keyboard events, layout, sound etc.](https://www.davideguida.com/category/programming/gamedev/)
 * [source generators to find routable components](https://andrewlock.net/using-source-generators-to-find-all-routable-components-in-a-webassembly-app/)
+* [The pain points of C# source generators](https://dev.to/turnerj/the-pain-points-of-c-source-generators-lb0)
 * [VIDEO Blazor: C# in the browser](https://www.youtube.com/watch?v=z6cAmskMVdY)
 * [Using source generators to generate a menu component in a Blazor app](https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app/)
 
