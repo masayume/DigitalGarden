@@ -6,6 +6,7 @@
 * [exceptions](https://blog.ndepend.com/the-proper-usages-of-exceptions-in-c/)
 * [fluent interfaces](https://tyrrrz.me/blog/fluent-generics)
 * [What's Cool in C# 8 and .NET Core 3](https://visualstudiomagazine.com/articles/2021/04/08/csharp-8-net-core-3.aspx?m=1)
+* [Deploying C# Web Applications with Docker](https://platform.uno/blog/deploying-c-web-applications-with-docker/)
 
 ## Audio Libraries
 * [NAudio](https://github.com/naudio/NAudio)

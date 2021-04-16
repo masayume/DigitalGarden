@@ -2,6 +2,7 @@
 
 ## Examples
 
+* [favourite Linux or Unix command of all time](https://twitter.com/nixcraft/status/1381304605179437056?s=09)
 * [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0)
 * [Linux Commands for Developers](https://dev.to/ptuladhar3/linux-commands-for-developers-17j?s=09)
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
