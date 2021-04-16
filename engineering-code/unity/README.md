@@ -3,6 +3,7 @@
 - [TEXT](https://www.youtube.com/watch?v=Tpak3yIkS5M)
 
 ## Fundamentals & Tips - Not Unity specific
+- [Game Development for Total Beginners - Free Unity Course](https://www.freecodecamp.org/news/game-development-for-beginners-unity-course/)
 - [VIDEO Math for Game Devs](https://www.youtube.com/watch?v=MOYiVLEnhrw&list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V)
 - [tips from the community ★★](https://blogs.unity3d.com/2021/01/06/become-a-better-unity-developer-with-these-tips-from-the-community)
 
