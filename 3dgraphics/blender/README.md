@@ -51,6 +51,7 @@
 * [2.8 Inset Tool in Blender](https://www.youtube.com/watch?v=lJSf6Y83ZCo)
 
 # Resources
+* [Epic Metahuman Creator](https://metahuman.unrealengine.com/)
 * free [3D models](https://free3d.com/3d-models/) [FBX](https://free3d.com/3d-models/fbx)
 * [Mr Mannequin Tools for Blender](https://github.com/Jim-Kroovy/Mr-Mannequins-Tools)
 * [Blender Export Animations to UE4 and Unity](https://www.youtube.com/watch?v=Vg1F7f4Sm18)
