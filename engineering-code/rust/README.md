@@ -52,6 +52,7 @@
 
 ## Projects
 * [A clone of SQLite in rust](https://dev.to/thepolyglotprogrammer/what-would-sqlite-look-like-if-written-in-rust-part-3-ool)
+* [REST API with Rust + Warp](https://dev.to/rogertorres/rest-api-with-rust-warp-1-introduction-342e)
 
 ## Webassembly
 * [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
