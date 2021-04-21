@@ -78,6 +78,7 @@
 - [Procedural Toolkit](https://github.com/Syomus/ProceduralToolkit)
 
 ## Level Design
+- [LDtk Level Design Toolkit ★★★](https://www.masayume.it/blog/content/ldtk-level-designer-toolkit)
 - [github topics: maze generation](https://github.com/topics/maze-generator?l=c%23)
 - [Dungeon Template Library](https://github.com/sitRyo/DungeonTemplateLibraryUnity)
 - [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)
