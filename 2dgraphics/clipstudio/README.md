@@ -74,3 +74,12 @@
 * [using reference](https://www.youtube.com/watch?v=ZwKz6QcWSoY)
 * [coloring](https://www.youtube.com/watch?v=O2qCjlKE-8k&list=WL&index=128)
 * [5 Steps To Setting Up A Comic Page in Clip Studio PAINT](http://blog.smithmicro.com/2015/09/15/manga-studio/5-steps-to-setting-up-a-comic-page) 
+
+## Coloring
+* [Adjust Colors with Correction Layers](https://tips.clip-studio.com/en-us/articles/3620)
+* [Auto-Colorize mit AI-Technologie in Clip Studio Paint](https://tips.clip-studio.com/en-us/articles/3110)
+* [An Intro to Correction Layers](https://tips.clip-studio.com/en-us/articles/3700)
+* [Blending Modes: Normal](https://tips.clip-studio.com/en-us/articles/4166)
+* [Coloring the Greyscale - Gradient Map & Contour Line Paint](https://tips.clip-studio.com/en-us/articles/2438)
+* [Gradients to enhance character coloring.](https://tips.clip-studio.com/en-us/articles/2459)
+* [Mastering the fill tool: ② Closed area fill](https://tips.clip-studio.com/en-us/articles/591)
