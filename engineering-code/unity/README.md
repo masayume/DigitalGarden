@@ -9,6 +9,7 @@
 
 ## General 2D Links
 - [A lightning round of great tips for 2D games ★★★](https://blogs.unity3d.com/2021/02/09/a-lightning-round-of-great-tips-for-2d-games/) 
+- [Unity Curated Tutorial list] (https://unity.stelabouras.com/) ★★
 - [Unity Learn](learn.unity.com) ★
 - [Unity 2D @ reddit](https://www.reddit.com/r/Unity2D/) ★
 - [TNTC feature tutorials](https://www.youtube.com/c/TNTCProject/videos) ★
@@ -27,6 +28,7 @@
 
 ## Assets & Libraries
 - [awesome-unity high quality assets](https://github.com/RyanNielson/awesome-unity) ★★
+- [Magica Cloth](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) ★
 - unity 2D movement controller [video](https://www.youtube.com/watch?v=SVACshnciMk), [github](https://github.com/krthush/2d-unity-movement)
 - [github repositories with most stars](https://github.com/topics/unity?o=desc&s=stars)
 - [ZeroFormatter - fast deserializer](https://github.com/neuecc/ZeroFormatter)
