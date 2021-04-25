@@ -27,6 +27,7 @@
 * [DAZ Model Importer (Blender Add-on) Part 1/2](https://www.youtube.com/watch?v=s9PvR43kTuo)
 * [2.9 Creating a SCI-FI Ocean Scene in EEVEE](https://www.youtube.com/watch?v=KXMrg_xEoYw)
 * [Stylized Character Workflow with Blender](https://www.youtube.com/watch?v=f-mx-Jfx9lA)
+* [Splash Screen - Geometry Nodes Process](https://www.youtube.com/watch?v=SsaNfzO2Hfw)
 
 # Add-ons
 * [NLA - ACTIONS clips DEMYSTIFIED (2020) Export to Unity](https://www.youtube.com/watch?v=-SQdHehksJw)
