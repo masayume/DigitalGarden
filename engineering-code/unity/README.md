@@ -170,6 +170,7 @@
 - [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
 - [VFX Graphs with Shader Graph](https://github.com/keijiro/ProcCharVfx)
 - [minion's art](https://minionsart.github.io/tutorials/)
+- [video: potion liquid wobble shader graph](https://www.youtube.com/watch?app=desktop&v=eIZgPAZx56s)
 - [fireworks](https://www.youtube.com/watch?v=iCEHarLRCzI)    
 - [overlay effects](https://www.patreon.com/posts/2d-sprite-33606001)
 - [dissolving logo](https://www.youtube.com/watch?v=O9TaweiZFDU) 
