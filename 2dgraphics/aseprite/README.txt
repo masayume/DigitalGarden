@@ -1,6 +1,10 @@
 # aseprite
 
-## refrences
+## tips & workflow
+* [Aseprite official tips](https://twitter.com/aseprite/status/1124442198651678720)
+
+
+## references
 * [pixelart @ masayume.it](https://www.masayume.it/blog/category/pixelart)
 * [Pedro Medeiros Pixel Art Tutorials](https://saint11.org/blog/pixel-art-tutorials/)
 * [How To Use References Effectively](https://www.youtube.com/watch?v=xbi6e8vQ_kY)
