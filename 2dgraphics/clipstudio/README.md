@@ -17,6 +17,9 @@
 * [5 Methods for Perfecting your Lineart](https://tips.clip-studio.com/en-us/articles/3868)
 * [Creating Art without Outlines](https://tips.clip-studio.com/en-us/articles/4610)
 
+## webtoon
+* [Update: Webtoon Features: Template, Pages, Slice, Crop](https://www.youtube.com/watch?app=desktop&v=6vheFi1EGS8)
+
 ## Tips & Tutorials
 
 * [tips of the month](https://tips.clip-studio.com/en-us/tips-of-the-month)
