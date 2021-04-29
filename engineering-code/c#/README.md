@@ -29,6 +29,9 @@
 ## WASM
 * [Debugging WASM with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
 
+## Web
+* [C# Web Applications](https://dev.to/saoud/c-web-applications-48en)
+
 ## Markov Chains
 * [Rosettacode: Markov chain text generator](https://rosettacode.org/wiki/Markov_chain_text_generator)
 * [C# Random Name Generation Using Markov Chains](https://www.codeproject.com/Articles/1151624/Random-Name-Generation-Using-Markov-Chains)
