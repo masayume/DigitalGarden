@@ -13,6 +13,56 @@
 ## Japanese books
 - [unko kanji](E:\Desktop\NIHONGO\UNKOKANJI\unkokanji)
 
+## Japanese listening
+- [Hakumusume](http://hukumusume.com/douwa/English/index.html)
+- [Hakumusume my school year](http://www.hukumusume.com/douwa/0_6/0nen.html)
+- [CosCom News](https://www.coscom.co.jp/)
+- [TEXT](LINK)
+- [TEXT](LINK)
+
+## Japanese reading easy
+- [Old Fairy Tales](http://life.ou.edu/stories/)
+- [ehonnavi](https://www.ehonnavi.net/)
+- [wasabi](https://www.wasabi-jpn.com/japanese-lessons/fairy-tales-and-short-stories-with-easy-japanese/)
+
+## Japanese reading intermediate
+- [watanoc](http://watanoc.com/)
+- [hirogaru](https://hirogaru-nihongo.jp/)
+- [matcha](https://matcha-jp.com/easy/)
+- [nippontalk](http://www.nippontalk.com/en)
+- [nhk news easy](https://www3.nhk.or.jp/news/easy/)
+- [hiragana times](https://hiraganatimes.com/)
+- [wasabi manga](https://www.wasabi-jpn.com/japanese-lessons/materials-for-japanese-lessons-intensive-reading/)
+
+## Japanese reading advanced news
+- [NHK](https://www.nhk.or.jp/)
+- [yomiuri](https://www.yomiuri.co.jp/)
+- [mainichi](https://mainichi.jp/)
+- [asahi](https://www.asahi.com/)
+
+## Japanese reading advanced books & magazines
+- [Aozora Bunko](https://www.aozora.gr.jp/)
+- [gutenberg jp](https://www.gutenberg.org/browse/languages/ja)
+- [Shousetsuka ni narou](http://syosetu.com/)
+- [magazinelib](https://magazinelib.com/japan/)
+
+## Japanese reading advanced manga
+- [comic-walker](https://comic-walker.com/)
+- [Sai Zen Sen](https://sai-zen-sen.jp/)
+- [comico](https://www.comico.jp/)
+
+## Japanese reading advanced Sites
+- [Rocket News](https://rocketnews24.com/)
+- [Hatena Bookmarking](https://b.hatena.ne.jp/)
+- [1000moji](https://www.1000moji.com/)
+- [Toyo Keizai](https://toyokeizai.net/)
+- [BuzzFeed Japan](https://www.buzzfeed.com/jp#.sbzX5VlBA)
+- [lifehacker](https://www.lifehacker.jp/)
+- [TEXT](LINK)
+- [TEXT](LINK)
+
+
+
 ## Japanese video:
 - [netflix shows in japanese](https://www.japanesepod101.com/blog/2020/02/25/netflix-shows-in-japanese)
 
