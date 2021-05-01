@@ -1,7 +1,7 @@
 # python
 
 ## general
-
+- [Code Examples – Sample Script Coding Tutorial](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
 - [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 - [pythonawesome](https://pythonawesome.com/)
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
