@@ -1,5 +1,8 @@
-// synch online: 
-// https://github.com/masayume/DigitalGarden/blob/main/engineering-code/unity/GAMEDEV.unity.code.techniques.infogen.txt 
+/*
+  synch online: 
+ https://github.com/masayume/DigitalGarden/blob/main/engineering-code/unity/GAMEDEV.unity.code.techniques.infogen.txt 
+ code git/DigitalGarden/engineering-code/unity/GAMEDEV.unity.code.techniques.infogen.txt
+*/
 
 /*
     [raycast][visualdebug][collider] with [ground] code example from https://youtu.be/ZanjE9en5k0?t=3700
