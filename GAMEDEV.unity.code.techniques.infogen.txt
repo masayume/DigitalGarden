@@ -1,0 +1,75 @@
+/*
+    [raycast][visualdebug][collider] with [ground] code example from https://youtu.be/ZanjE9en5k0?t=3700
+    example featured in /home/masayume/DATA/E/UNITY.PROJECTS/2021-1-PLATFORM/MegamanTutorial/
+    PlayerController.cs script
+*/
+    private void FixedUpdate() {
+        isGrounded = false; // determine if touching the ground
+        Color raycastColor;
+        RaycastHit2D raycastHit;
+        float raycastDistance = 0.05f;
+        int layerMask = 1 << LayerMask.NameToLayer("Ground");
+        // ground check
+        Vector3 box_origin = box2d.bounds.center; 
+        box_origin.y = box2d.bounds.min.y + (box2d.bounds.extents.y / 4f); 
+        Vector3 box_size = box2d.bounds.size;
+        box_size.y = box2d.bounds.size.y / 4f; // mini box unter the player
+        // check if touching down layer
+        raycastHit = Physics2D.BoxCast(box_origin, box_size, 0f, Vector2.down, raycastDistance, layerMask);
+        if (raycastHit.collider != null)
+        {
+            isGrounded = true;
+        }
+        // raycast draw debug lines, visible in the Scene (green: touches; red: no touch)
+        raycastColor = (isGrounded) ? Color.green : Color.red;
+        Debug.DrawRay(box_origin + new Vector3(box2d.bounds.extents.x, 0), Vector2.down * (box2d.bounds.extents.y / 4f + raycastDistance), raycastColor);
+        Debug.DrawRay(box_origin - new Vector3(box2d.bounds.extents.x, 0), Vector2.down * (box2d.bounds.extents.y / 4f + raycastDistance), raycastColor);
+        Debug.DrawRay(box_origin - new Vector3(box2d.bounds.extents.x, box2d.bounds.extents.y / 4f + raycastDistance), Vector2.right * (box2d.bounds.extents.x * 2), raycastColor);
+
+    }
+
+/*
+    [coroutines] code example from https://www.youtube.com/watch?v=K2NJuTA7-l4
+*/
+
+public GameObject objectToSpawn;
+public Transform spawnPoint;
+
+Coroutine currentCoroutine = null;
+
+[Range(0,5)]
+public float waitTime = 0.5;
+
+IEnumerator SpawnCoroutine()
+{
+	while (true)
+	{
+		Instantiate(objectToSpawn, spawnPoint.transform.position, Quaternion.identity);
+		yield return new WaitForSeconds(waitTime); // wait for 1 secondo and then go on
+
+	}
+}
+
+IEnumerator StopAfter(float timeToWait)
+{
+	yield return new WaitForSeconds(timeToWait); // wait for 1 secondo and then go on
+	Debug.Log("Stopping the other routine");
+	StopCoroutine(currentCoroutine);
+
+}
+
+void Start() 
+{
+	currentCoroutine = StartCoroutine(SpawnCoroutine());
+	StartCoroutine(StopAfter(3.0f));
+
+}
+
+/*
+    [TITLE] code example from https://www.youtube.com/watch?v=VVVVVVVVVVVVV
+*/
+
+/*
+    [TITLE] code example from https://www.youtube.com/watch?v=VVVVVVVVVVVVV
+*/
+

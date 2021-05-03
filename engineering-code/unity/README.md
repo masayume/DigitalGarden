@@ -50,6 +50,7 @@
 - [Arpie Musical Toy](https://github.com/keijiro/arpie)
 
 ## C#
+- [GAMEDEV.unity.code.techniques.infogen.txt](https://github.com/masayume/)
 - [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection) ★
 - [github topics: C#](https://github.com/topics/csharp)
 - [important classes](https://docs.unity3d.com/Manual/ScriptingImportantClasses.html9)
