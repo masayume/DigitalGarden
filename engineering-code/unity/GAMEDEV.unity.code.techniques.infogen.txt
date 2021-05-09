@@ -4,10 +4,11 @@
  code git/DigitalGarden/engineering-code/unity/GAMEDEV.unity.code.techniques.infogen.txt
 */
 
-/*
+/*  ============================================================================================
     [array][vector][direction][gameobject] code example from https://youtu.be/2yWY_hpb7B0?t=3854
     example featured in /home/masayume/DATA/E/UNITY.PROJECTS/2021-1-PLATFORM/MegamanTutorial/
     PlayerDefeatEffect.cs script
+    ============================================================================================
 */
 
 
@@ -42,11 +43,13 @@
     } 
 
 
-/*
+/*  ============================================================================================
     [raycast][visualdebug][collider] with [ground] code example from https://youtu.be/ZanjE9en5k0?t=3700
     example featured in /home/masayume/DATA/E/UNITY.PROJECTS/2021-1-PLATFORM/MegamanTutorial/
     PlayerController.cs script
+    ============================================================================================
 */
+
     private void FixedUpdate() {
         isGrounded = false; // determine if touching the ground
         Color raycastColor;
@@ -72,8 +75,9 @@
 
     }
 
-/*
+/*  ============================================================================================
     [coroutines] code example from https://www.youtube.com/watch?v=K2NJuTA7-l4
+    ============================================================================================
 */
 
 public GameObject objectToSpawn;
@@ -111,13 +115,14 @@ void Start()
 
 
 
-/*
-    ***** [animation][stop][frame][event] code example from https://youtu.be/mWKK4Rr3-OQ?t=4700 *****
+/*  ============================================================================================
+    [animation][stop][frame][event] code example from https://youtu.be/mWKK4Rr3-OQ?t=4700
     example featured in /home/masayume/DATA/E/UNITY.PROJECTS/2021-1-PLATFORM/MegamanTutorial/
     PlayerController.cs script;     
 
     Added ANIMATION EVENT in the animation editor at the second to last frame
     that calls the StopDamageAnimation() function in the PlayerController  
+    ============================================================================================
 */
 
     void StopDamageAnimation()
@@ -128,9 +133,30 @@ void Start()
 
     }
 
+/*  ============================================================================================
+    [animation][bezier][enemy][math] code example from https://youtu.be/Xwj8_z9OrFw
+    example featured in /home/masayume/DATA/E/UNITY.PROJECTS/2021-1-PLATFORM/MegamanTutorial/
+    UtilityFunctions.cs script
+    ============================================================================================
+*/
+
+    public static Vector3 CalculateQuadraticBezierPoint(Vector3 p0, Vector3 p1, Vector3 p2, float t)
+    {
+        // return = (1 - t)2 P0 + 2(1 - t)tP1 + t2P2
+        //             u              u         tt
+        //            uu * P0 + 2 * u * t * P1 + tt * P2
+        float   u   = 1 - t;
+        float   tt  = t * t;
+        float   uu  = u * u;
+        Vector3 p   = uu * p0;
+        p           += 2 * u * t * p1;
+        p           += tt * p2;
+        return p;
+    }
 
 /*
     ***** [TITLE] code example from https://www.youtube.com/watch?v=VVVVVVVVVVVVV *****
+    ============================================================================================
 */
 
 
