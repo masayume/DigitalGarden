@@ -154,9 +154,71 @@ void Start()
         return p;
     }
 
-/*
+/*  ============================================================================================
+    [create][enemy][checklist] code example from https://www.youtube.com/watch?v=7sJIuVru5Gk 
+    ============================================================================================
+*/
+
+01 	- create new empty object "Enemy" in scene
+02 	- reset transform position
+03 	- create child empty object "HitBox"
+04 	- set tag "Enemy"
+05 	- set layer "Enemy" (the HitBox is unaffected (untagged,default))
+06 	- drag EnemyController script (RequireComponent auto adds the components needed)
+		Rigidbody2D, Sprite Renderer, BoxCollider2D, Animator 
+07 	- make Rigidbody kinematic; continuous collision detection; Never sleep mode; lock z for 2D
+08 	- put sprite in the sprite renderer; set order in layer (10)
+09 	- reset box collider; copy component to HitBox; check isTrigger
+10 	- create Animator ("enemyname"); create Animation ("enemy_action")
+11 	- set animation state in animator (create state from (animation) selected clip)
+12 	-
+13 	-
+14 	-
+15 	-
+16 	-
+17 	-
+18 	-
+19 	-
+20 	-
+
+Animation Override Controller
+
+00 	- Create "main Animator"
+01 	- Create Animation Override Controller ("Enemy_state")
+02 	- Create Animation 
+03 	- put "main animator" in Override Controller
+04 	- put animation in Override Controller
+05 	- turn on/keep off "loop time"
+06 	- select gameobject; drag animator and THEN drag graphics in animation frames
+07 	- 
+08 	- 
+09 	- 
+10 	- 
+11 	- 
+12 	- 
+
+
+
+/*  ============================================================================================
     ***** [TITLE] code example from https://www.youtube.com/watch?v=VVVVVVVVVVVVV *****
     ============================================================================================
 */
+
+/*  ============================================================================================
+    ***** [TITLE] code example from https://www.youtube.com/watch?v=VVVVVVVVVVVVV *****
+    ============================================================================================
+*/
+
+/*  ============================================================================================
+    ***** [TITLE] code example from https://www.youtube.com/watch?v=VVVVVVVVVVVVV *****
+    ============================================================================================
+*/
+
+
+
+
+
+
+
 
 
