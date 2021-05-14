@@ -1,5 +1,6 @@
 # CLIP STUDIO PAINT
 
+
 ## Process
 * [Professional illustration process: Shikimi](https://tips.clip-studio.com/en-us/series/87)
 
@@ -19,6 +20,7 @@
 
 ## webtoon
 * [Update: Webtoon Features: Template, Pages, Slice, Crop](https://www.youtube.com/watch?app=desktop&v=6vheFi1EGS8)
+* [How to paint a color cartoon (webtoon)](https://tips.clip-studio.com/en-us/articles/4733)
 
 ## Tips & Tutorials
 
@@ -27,6 +29,7 @@
 * [TIPS: How to Create Awesome Emoticons!](https://tips.clip-studio.com/en-us/articles/2981)
 * [TIPS: How to Create STICKERS](https://tips.clip-studio.com/en-us/articles/3687)
 * [tutti i post e tutorial su manga studio](http://patriziamandanici.blogspot.it/2012/11/tutti-i-post-e-tutorial-su-manga-studio.html)
+* [Transform Functions | Where to use them](https://tips.clip-studio.com/en-us/articles/4680)
 * [TUTORIALS](https://www.youtube.com/channel/UC4wqU8VKN-MrDCowrq9nkOA/videos)
 * [mangastudioitalia su facebook](https://www.facebook.com/groups/mangastudioitalia/)
 * [Clip Studio Paint Basics 2](https://www.youtube.com/watch?v=WkLrMGpWayw) ★
