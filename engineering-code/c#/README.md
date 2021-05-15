@@ -1,6 +1,6 @@
 # C#
 
-# General
+## General
 * [My Favorite C# Features](https://dev.to/dotnet/my-favorite-c-features-part-1-strong-types-implicit-types-anonymous-types-and-target-types-12a5), [part #2](https://dev.to/dotnet/my-favorite-c-features-part-2-linq-57kd), [part #3](https://dev.to/dotnet/my-favorite-c-features-part-3-nullability-2mcg), [part #4](https://dev.to/dotnet/my-favorite-c-features-part-4-project-structure-454p) 
 * [C# A to Z](https://dev.to/dotnet/c-a-to-z-prelude-e3g)
 * [C# 9.0 top level programs](https://www.stevejgordon.co.uk/playing-with-csharp-9-top-level-programs-records-and-elasticsearch-dotnet)
@@ -28,6 +28,7 @@
 * [Using source generators to generate a menu component in a Blazor app](https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app/)
 
 ## WASM
+* [WebAssembly Weekly](https://wasmweekly.news/)
 * [Debugging WASM with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
 
 ## Web
