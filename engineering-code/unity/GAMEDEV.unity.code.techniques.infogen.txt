@@ -171,15 +171,20 @@ void Start()
 09 	- reset box collider; copy component to HitBox; check isTrigger
 10 	- create Animator ("enemyname"); create Animation ("enemy_action")
 11 	- set animation state in animator (create state from (animation) selected clip)
-12 	-
-13 	-
-14 	-
-15 	-
-16 	-
-17 	-
-18 	-
-19 	-
-20 	-
+
+/*  ============================================================================================
+    [state][enemy][checklist] code example from https://youtu.be/_3_zmku30hM?t=2855
+    example featured in /home/masayume/DATA/E/UNITY.PROJECTS/2021-1-PLATFORM/MegamanTutorial/
+    MambuController.cs:90 script    
+    ============================================================================================
+*/
+
+01  - animator.Play("state_animation")
+02 	- rb2d.velocity = new Vector2(((isFacingRight) ? moveSpeed : -moveSpeed), rb2d.velocity.y); // manage movement
+03 	- closedTimer -= Time.deltaTime; // update state timer
+04 	- if (closedTimer < 0) { change state actions, reset new state timer, reset new action timer } 
+
+
 
 Animation Override Controller
 
