@@ -7,6 +7,7 @@
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
 
 ## tutorial
+- [KIVY games and mobile apps with python](https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/)
 - [A Directory Tree Generator Tool in Python](https://realpython.com/directory-tree-generator-python/)
 - [A Complete Yet Simple Guide to Move from Excel to Python](https://towardsdatascience.com/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039)
 - [How to Create Mathematical Animations like 3Blue1Brown Using Python](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
