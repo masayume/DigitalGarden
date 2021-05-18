@@ -188,7 +188,7 @@ void Start()
 11 	- set animation state in animator (create state from (animation) selected clip)
 
 /*  ============================================================================================
-    [state][enemy][checklist] code example from https://youtu.be/_3_zmku30hM?t=2855
+    [state][enemy][animation][checklist] code example from https://youtu.be/_3_zmku30hM?t=2855
     example featured in /home/masayume/DATA/E/UNITY.PROJECTS/2021-1-PLATFORM/MegamanTutorial/
     MambuController.cs:90 script    
     ============================================================================================
@@ -199,7 +199,52 @@ void Start()
 03 	- closedTimer -= Time.deltaTime; // update state timer
 04 	- if (closedTimer < 0) { change state actions, reset new state timer, reset new action timer } 
 
-
+01  - bool isTeleporting
+02  - [SerializeField] float teleportSpeed = -10f;  
+03  - [SerializeField] AudioClip teleportClip; 
+04  - public enum TeleportState { Descending, Landed, Idle } 
+05  - [SerializeField] TeleportState teleportState;  
+06  - Update()
+        if (isTeleporting)
+        {
+            switch (teleportState)
+            {
+                case TeleportState.Descending:
+                    // force this to false so the jumped landed sound isn't played
+                    isJumping = false;
+                    if (isGrounded)
+                    {
+                        teleportState = TeleportState.Landed;
+                    }
+                    break;
+                case TeleportState.Landed:
+                    // events in the animation will be called
+                    animator.speed = 1;
+                    break;
+                case TeleportState.Idle:
+                    Teleport(false);
+                    break;
+            }
+            return;
+        }
+...
+    public void Teleport(bool teleport)
+    {
+        if (teleport)
+        {
+            isTeleporting = true;
+            FreezeInput(true);
+            animator.Play("Player_Teleport");
+            animator.speed = 0;
+            teleportState = TeleportState.Descending;
+            rb2d.velocity = new Vector2(rb2d.velocity.x, teleportSpeed);
+        }
+        else
+        {
+            isTeleporting = false;
+            FreezeInput(false);
+        }
+    }
 
 Animation Override Controller
 
@@ -298,6 +343,22 @@ Animation Override Controller
 	remove 7B and add script to Button
 	"+" to add the PlayerController GameObject ("Player")
 	select PlayerController function (MobileShootWrapper, MobilejumpWrapper)
+
+/*  ============================================================================================
+    [PUBLISH][ANDROID][checklist] code example from https://www.youtube.com/watch?v=hMdSK5fZTX8
+    ============================================================================================
+*/
+
+01 - 
+02 - 
+03 - 
+05 - 
+06 - 
+07 - 
+08 - 
+09 - 
+10 - 
+
 
 
 /*  ============================================================================================
