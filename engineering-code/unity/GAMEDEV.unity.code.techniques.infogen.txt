@@ -318,6 +318,144 @@ Animation Override Controller
     }
 
 /*  ============================================================================================
+    [random][probabilities] code example from https://youtu.be/ldQd7bx3Wis?t=3996
+    GameManager.cs
+    ============================================================================================
+*/
+        
+
+    private ItemScript.ItemTypes PickRandomBonusItem()
+    {
+        float[] probabilities = {
+            12, 53, 15, 15, 2, 2, 1, 12, 16
+        };
+        // sum of all probabilities
+        float total = 0;
+
+        // item types indexed to match probabilities
+        ItemScript.ItemTypes[] items = {
+            ItemScript.ItemTypes.Nothing,
+            ItemScript.ItemTypes.BonusBall,
+            ItemScript.ItemTypes.WeaponEnergySmall,
+            ItemScript.ItemTypes.LifeEnergySmall,
+            ItemScript.ItemTypes.WeaponEnergyBig,
+            ItemScript.ItemTypes.LifeEnergyBig,
+            ItemScript.ItemTypes.ExtraLife,
+            ItemScript.ItemTypes.Nothing,
+            ItemScript.ItemTypes.BonusBall
+        };
+        // add up all the probability values to get the total
+        foreach (float prob in probabilities)
+        {
+            total += prob;
+        }
+
+        // pick a point in the total
+        float randomPoint = UnityEngine.Random.value * total;
+
+        // use the chosen index value to get the item type to return
+        for (int i = 0; i < probabilities.Length; i++)
+        {
+            if (randomPoint < probabilities[i])
+            {
+                //return i;
+                return items[i];
+            }
+            else
+            {
+                randomPoint -= probabilities[i];
+            }
+        }
+        //return probabilities.Length - 1;
+        return items[probabilities.Length - 1];
+    }
+
+
+
+
+/*  ============================================================================================
+    [enum][random][runtimeAnimatorController] code example from https://youtu.be/ldQd7bx3Wis?t=3519
+    ItemScript.cs
+    ============================================================================================
+*/
+
+    public enum BonusBallColors { Random, Blue, Gray, Green, Orange, Red };
+    [SerializeField] BonusBallColors bonusBallColor = BonusBallColors.Blue;
+...
+    public void SetBonusBallColor(BonusBallColors color)
+    {
+        if (itemType == ItemTypes.BonusBall)
+        {
+            bonusBallColor = color;
+            SetBonusBallAnimatorController();
+        }
+    }
+
+    void SetBonusBallAnimatorController()
+    {
+        // get bonus ball color
+        BonusBallColors color = bonusBallColor;
+
+        // if random pick a bonus ball color
+        if (color == BonusBallColors.Random)
+        {
+            color = (BonusBallColors)UnityEngine.Random.Range(
+                1, Enum.GetNames(typeof(BonusBallColors)).Length);
+        }
+
+        // set color animator controller
+        switch (color)
+        {
+            case BonusBallColors.Blue:
+                animator.runtimeAnimatorController = racBonusBallBlue;
+                break;
+...                
+
+
+
+/*  ============================================================================================
+    [collision][OnCollisionEnter2D][generate][event] code example from https://youtu.be/ldQd7bx3Wis?t=3808
+    ItemScript.cs
+    ============================================================================================
+*/
+     
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            PlayerController player = other.gameObject.GetComponent<PlayerController>();
+
+            if (lifeEnergy > 0)
+            {
+                player.ApplyLifeEnergy(lifeEnergy);
+            }
+
+            if (weaponEnergy > 0)
+            {
+                player.ApplyWeaponEnergy(weaponEnergy);
+            }
+
+            if (bonusPoints > 0)
+            {
+                // call game manager to add bonus points
+                GameManager.Instance.AddBonusPoints(bonusPoints);
+            }
+
+            // play item sound
+            if (itemClip != null)
+            {
+                SoundManager.Instance.Play(itemClip);
+            }
+
+            // remove the item
+            Destroy(gameObject);
+        }
+    }    
+
+
+
+/*  ============================================================================================
     [GUI][EVENTS][COMPILE] code example from https://youtu.be/6mNIHsvc1mo 
     ============================================================================================
 */
@@ -375,7 +513,6 @@ Animation Override Controller
     ***** [TITLE] code example from https://www.youtube.com/watch?v=VVVVVVVVVVVVV *****
     ============================================================================================
 */
-
 
 
 
