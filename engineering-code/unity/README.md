@@ -106,6 +106,7 @@
 - [VIDEO: Implementing an Ability System | Prototype Serie](https://www.youtube.com/watch?v=Jv9jGyIWelU&)
 - [general tips](http://www.gamedev.net/page/resources/_/business/production-and-management/getting-games-done-r3564)
 - [general tips](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg/playlists)
+* [Let's Model GAME ASSETS in 10" -> UNITY ★](https://www.youtube.com/watch?v=hK5N_dTDMPw)
 
 ## Tips
 - [Edge Detection](https://alexanderameye.github.io/edgedetection)
