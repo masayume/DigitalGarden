@@ -21,6 +21,7 @@
 * [GitHub Actions best practices for Rust projects](https://dev.to/infinyon/github-actions-best-practices-for-rust-projects-1j9p)
 * [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
 
+
 ## popular packages
 * [clap (for parsing command-line arguments)](https://crates.io/crates/clap)
 * [rand (for random number generation)](https://crates.io/crates/rand)
@@ -68,6 +69,7 @@
 
 ## Web
 * [Deploy A Rust Website on Heroku](https://dev.to/xinnks/deploy-a-rust-website-on-heroku-1l45)
+* [State Management With WebAssembly & Rust](https://dev.to/seanwatters/state-management-with-webassembly-rust-5a1g)
 
 ## games
 * [A Game in Rust](https://www.youtube.com/watch?v=Ktwl97Ph-SI&list=RDCMUCaYhcUwRBNscFNUKTjgPFiA&index=5)
