@@ -483,6 +483,12 @@ Animation Override Controller
 	select PlayerController function (MobileShootWrapper, MobilejumpWrapper)
 
 /*  ============================================================================================
+    [CAMERA][EVENTS][transition] code example from https://www.youtube.com/watch?v=qTidxf4EJoU
+    CameraTransition.cs
+    ============================================================================================
+*/
+
+/*  ============================================================================================
     [PUBLISH][ANDROID][checklist] code example from https://www.youtube.com/watch?v=hMdSK5fZTX8
     ============================================================================================
 */

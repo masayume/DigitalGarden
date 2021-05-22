@@ -68,6 +68,7 @@
 * [Choosing Between Blazor Server or WebAssembly](https://baldbeardedbuilder.com/blog/choosing-between-blazor-server-or-web-assembly)
 
 ## Web
+* [2D Web Rendering with Rust](https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31)
 * [Deploy A Rust Website on Heroku](https://dev.to/xinnks/deploy-a-rust-website-on-heroku-1l45)
 * [State Management With WebAssembly & Rust](https://dev.to/seanwatters/state-management-with-webassembly-rust-5a1g)
 
