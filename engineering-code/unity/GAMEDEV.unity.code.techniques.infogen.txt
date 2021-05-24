@@ -488,6 +488,27 @@ Animation Override Controller
     ============================================================================================
 */
 
+TransitionState.PreDelay:
+    CallEventBeforePreDelay()
+        TransitionEventCall.BothBeforeDelay:
+            CallPreTransitionEvent();
+        TransitionEventCall.OnEnterBeforeDelay:
+            CallPreTransitionEvent();
+        TransitionEventCall.OnExitBeforeDelay:
+            CallPreTransitionEvent();
+
+TransitionState.Transition:
+
+TransitionState.PostDelay:
+    CallEventBeforePostDelay()
+        TransitionEventCall.BothBeforeDelay:
+            CallPostTransitionEvent();
+        TransitionEventCall.OnEnterBeforeDelay:
+            CallPostTransitionEvent();
+        TransitionEventCall.OnExitBeforeDelay:
+            CallPostTransitionEvent();
+
+
 /*  ============================================================================================
     [PUBLISH][ANDROID][checklist] code example from https://www.youtube.com/watch?v=hMdSK5fZTX8
     ============================================================================================
