@@ -54,6 +54,7 @@
 * [merge k-sorted arrays](https://dev.to/creativcoder/merge-k-sorted-arrays-in-rust-1b2f)
 
 ## Projects
+* [RustDesk ★](https://github.com/rustdesk/rustdesk)
 * [A clone of SQLite in rust](https://dev.to/thepolyglotprogrammer/what-would-sqlite-look-like-if-written-in-rust-part-3-ool)
 * [REST API with Rust + Warp](https://dev.to/rogertorres/rest-api-with-rust-warp-1-introduction-342e)
 * [How to use Rust web framework Warp](https://dev.to/steadylearner/how-to-use-rust-warp-web-framework-2b4e)
