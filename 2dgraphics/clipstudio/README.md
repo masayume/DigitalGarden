@@ -10,17 +10,21 @@
 * [Manga Studio Ex 5 Cookbook in E/books/ART](file:///E:/books/ART/Manga%20Studio%20Ex%205%20Cookbook.pdf)
 * [Mastering Manga Studio 5 in E/books/ART](file:///E:/books/ART/Mastering%20Manga%20Studio%205.pdf)
 
-## lineart
+## lineart, inking
 * [15 Quick Tips to Improve your Digital Lineart!](https://tips.clip-studio.com/en-us/articles/3891)
 * [Lineart: Techniques and Tools.](https://tips.clip-studio.com/en-us/articles/3879)
 * [Line art with continuous curve - for beginners](https://tips.clip-studio.com/en-us/articles/3146)
 * [Tips for better line art](https://tips.clip-studio.com/en-us/articles/3828)
 * [5 Methods for Perfecting your Lineart](https://tips.clip-studio.com/en-us/articles/3868)
 * [Creating Art without Outlines](https://tips.clip-studio.com/en-us/articles/4610)
+* [How to Ink Like a Pro](https://tips.clip-studio.com/en-us/articles/3784)
 
 ## webtoon
 * [Update: Webtoon Features: Template, Pages, Slice, Crop](https://www.youtube.com/watch?app=desktop&v=6vheFi1EGS8)
 * [How to paint a color cartoon (webtoon)](https://tips.clip-studio.com/en-us/articles/4733)
+* [8 Techniques for Scene Transitions in Webtoons](https://tips.clip-studio.com/en-us/articles/4093)
+* [Webtoon 101](https://tips.clip-studio.com/en-us/articles/4143   )
+* [Simple Character Coloring for Webtoon](https://tips.clip-studio.com/en-us/articles/4105)
 
 ## Tips & Tutorials
 

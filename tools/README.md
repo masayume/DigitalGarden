@@ -7,3 +7,7 @@
 ## WEB
 
 * [CD from github to netlify](https://app.netlify.com/)
+* [Awesome Privacy Services List ★](https://github.com/pluja/awesome-privacy)
+
+
+
