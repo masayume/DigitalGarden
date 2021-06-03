@@ -246,10 +246,29 @@ void Start()
         }
     }
 
-Animation Override Controller
+Animation Override Controller - https://youtu.be/SKHyh2fQWo8?t=718
+
+00 	- Create Animator Controller ("ScrewDriver")
+01 	- Create Animation(s) ("ScrewDriver_Closed", "ScrewDriver_Open")
+02 	- Add Animation(s) to "ScrewDriver" Animator Controller (select animation -> Create State -> from Selected Clip )
+03 	- Create Animation Override Controller ("ScrewDriver_Blue")
+04 	- Create Animation(s) ("ScrewDriver_ClosedBlue", "ScrewDriver_OpenBlue")
+05 	- Drag "ScrewDriver" AC in "ScrewDriver_Blue" Controller slot
+06 	- Drag "ScrewDriver_ClosedBlue", "ScrewDriver_OpenBlue" animations into AOC animation slots
+07 	- Set "Sample Rate" into animations "ScrewDriver_ClosedBlue", "ScrewDriver_OpenBlue" (1 if static, 12 if dynamic & set loop time)
+08 	- Drag "ScrewDriver_Blue" AOC to Controller slot in Animator of prototype GameObject in Scene
+09 	- with GO selected Drag sprite(s) to animation(s): "ScrewDriver_ClosedBlue", "ScrewDriver_OpenBlue"
+10 	- press "Record" to Set Colliders for every frame (GO & HitBox); check with preview
+11 	- add Events of Frames
+00 	- TEXT
+00 	- TEXT
+00 	- TEXT
+00 	- TEXT
+00 	- TEXT
+00 	- TEXT
+
 
 00 	- Create "main Animator"
-01 	- Create Animation Override Controller ("Enemy_state")
 02 	- Create Animation 
 03 	- put "main animator" in Override Controller
 04 	- put animation in Override Controller
