@@ -1,5 +1,8 @@
 # rust
 
+## start
+* [my first cup of rust](https://dev.to/nfrankel/my-first-cup-of-rust-7ha)
+
 ## general
 * [Rust Homepage](https://www.rust-lang.org/)
 * [Ownership Model](https://doc.rust-lang.org/rust-by-example/scope.html)
@@ -41,6 +44,7 @@
 ## docs & video
 * [rust by example next exercise](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
 * [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+* [VIDEO: Creative Rust](https://www.youtube.com/watch?v=VJUhINt5dF0)
 * [RUST for VIDEOGAMES](https://arewegameyet.rs/)
 * [VIDEO: Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 * [VIDEO: GGEZ rust game engine ](https://www.youtube.com/watch?v=oBdZtank14A)
