@@ -246,7 +246,7 @@ void Start()
         }
     }
 
-Animation Override Controller - https://youtu.be/SKHyh2fQWo8?t=718
+Animation Override Controller [animator][override][controller][checklist] - https://youtu.be/SKHyh2fQWo8?t=718
 
 00 	- Create Animator Controller ("ScrewDriver")
 01 	- Create Animation(s) ("ScrewDriver_Closed", "ScrewDriver_Open")
@@ -260,11 +260,14 @@ Animation Override Controller - https://youtu.be/SKHyh2fQWo8?t=718
 09 	- with GO selected Drag sprite(s) to animation(s): "ScrewDriver_ClosedBlue", "ScrewDriver_OpenBlue"
 10 	- press "Record" to Set Colliders for every frame (GO & HitBox); check with preview
 11 	- add Events of Frames
-00 	- TEXT
-00 	- TEXT
-00 	- TEXT
-00 	- TEXT
-00 	- TEXT
+12 	- Duplicate AOC "ScrewDriver_Blue" for more colors/variations ("ScrewDriver_Orange")
+13 	- Duplicate AOC animation for corresponding color/variation ("ScrewDriver_ClosedOrange", "ScrewDriver_OpenOrange")
+14 	- Drag "ScrewDriver_ClosedOrange", "ScrewDriver_OpenOrange" in AOC  ScrewDriver_Orange
+15 	- Edit ScrewDriver_Orange dragging in GO Animator Controller slot
+16 	- Edit frames and properties
+17 	- Set main Screwdriver Animator Contoller in GO Animator Controller Slot (must be the main one, not a variant)
+18 	- Set RAC Screwdriver Controllers in public reference for Blue and Orange (the variants go here)
+19 	- Create ScrewDriver prefab dragging the GO in Prefabs folder.
 00 	- TEXT
 
 
@@ -502,6 +505,90 @@ Animation Override Controller - https://youtu.be/SKHyh2fQWo8?t=718
 	select PlayerController function (MobileShootWrapper, MobilejumpWrapper)
 
 /*  ============================================================================================
+    [CAMERA][Scene][transition] code example from https://www.youtube.com/watch?v=l01M9aSzxs8?t=1360
+    GameManager.cs
+    ============================================================================================
+*/
+
+01 -    Move "Audio Listener" Component from CAMERA to the Sound Manager GO
+02 -    Create Prefab folders: "Managers", "Players" and move GameManager, SoundManager in "Managers" folder and Player in "Players" folder
+03 -    Rename Default Scene in "Scenes" to "Main Scene"
+04 -    Create "Main Scene" empty GO; Create Scripts MainScene, TitleScreen; 
+05 -    Create new scene in Scenes: "Title Screen", from "Main Camera": Remove "Audio Listener"; Clear Flags "Solid Color", Black; Size: 1.5  
+06 -    Create new GO "Title Screen", Add Script TitleScreen; Add Empty GO with graphics for "Background", "Main Title"
+07 -    Create new UI Canvas; Set "Canvas Scaler": Scale with Screen Size; Add "TitleText" TMP; (drop FONT in TMP Fonts & Materials)
+08 -    Drag GameManager, SoundManager from the Prefabs into "Title Screen" Scene 
+09 -    in GameManager.cs script add 
+    bool startNextScene;
+    enum GameStates { TitleScreen, MainScene };
+    public GameState gameState = GameStates.TitleScreen;
+
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    // called when the game is terminated
+    private void OnDisable()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        // init functions for each scene / game state
+        switch (gameState)
+        {
+            case GameStates.TitleScreen:
+                StartTitleScreen();
+                break;
+            case GameStates.MainScene:
+                StartMainScene();
+                break;
+        }
+    }
+
+    private void Update()
+    {
+        // game loop functions for each scene / game state
+        switch (gameState)
+        {
+            case GameStates.TitleScreen:
+                TitleScreenLoop();
+                break;
+            case GameStates.MainScene:
+                MainSceneLoop();
+                break;
+        }
+    }
+
+    public void StartNextScene()
+    {
+        // flag to trigger starting the next scene
+        // scenes call this function to tell the GameManager they're done
+        startNextScene = true;
+    }
+
+    private void StartTitleScreen()
+    {
+        // add any init code here for title screen
+    }
+
+    private void TitleScreenLoop()
+    {
+        // scene change triggered by StartNextScene()
+        if (startNextScene)
+        {
+            // can do other things here before loading the next scene
+            startNextScene = false;
+            gameState = GameStates.MainScene;
+            SceneManager.LoadScene("Main Scene");
+        }
+    }
+...
+
+
+/*  ============================================================================================
     [CAMERA][EVENTS][transition] code example from https://www.youtube.com/watch?v=qTidxf4EJoU
     CameraTransition.cs
     ============================================================================================
@@ -529,19 +616,31 @@ TransitionState.PostDelay:
 
 
 /*  ============================================================================================
+    [CINEMATIC][CUTSCENES][no-timeline] code example from https://www.youtube.com/watch?v=Gw9-O3KZHwEU
+    CameraTransition.cs 
+    ============================================================================================
+*/
+
+01 - text
+02 - text
+03 - text
+04 - text
+05 - text
+06 - text
+07 - text
+08 - text
+09 - text
+10 - text
+
+
+
+
+
+/*  ============================================================================================
     [PUBLISH][ANDROID][checklist] code example from https://www.youtube.com/watch?v=hMdSK5fZTX8
     ============================================================================================
 */
 
-01 - 
-02 - 
-03 - 
-05 - 
-06 - 
-07 - 
-08 - 
-09 - 
-10 - 
 
 
 
