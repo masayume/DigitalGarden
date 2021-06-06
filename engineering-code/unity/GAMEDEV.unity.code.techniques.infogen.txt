@@ -616,21 +616,75 @@ TransitionState.PostDelay:
 
 
 /*  ============================================================================================
-    [CINEMATIC][CUTSCENES][no-timeline] code example from https://www.youtube.com/watch?v=Gw9-O3KZHwEU
-    CameraTransition.cs 
+    [CINEMATIC][CUTSCENES][TIME-BASED][no-timeline] code example from https://www.youtube.com/watch?v=Gw9-O3KZHwEU
+    GameManager.cs, IntroScene.cs  
     ============================================================================================
 */
 
-01 - text
-02 - text
-03 - text
-04 - text
-05 - text
-06 - text
-07 - text
-08 - text
-09 - text
+01 - Add new "IntroScene" in the GameManager.cs GameStates
+    public enum GameStates { TitleScreen, IntroScene, MainScene };
+02 - in OnSceneLoaded(...), call function StartIntroScene() in switch (gameState)
+        switch (gameState)
+        {
+            ...
+            case GameStates.IntroScene:
+                StartIntroScene();
+                break;
+            ...
+        }
+
+03 - in Update(), call function IntroSceneLoop() in switch (gameState)
+        switch (gameState)
+        {
+            ...
+            case GameStates.IntroScene:
+                IntroSceneLoop();
+                break;
+            ...
+        }
+04 - TitleScreenLoop will go into IntroScene:
+    if (startNextScene)
+    {
+        startNextScene = false;
+        gameState = GameStates.IntroScene;
+        SceneManager.LoadScene("Intro Scene");
+
+    }
+05 - new functions IntroScene(), IntroSceneLoop(). IntroSceneLoop() startNextScene goes into "Main Scene"
+06 - utility functions to handle timeline (UtilityFunctions.cs)
+
+    // Time functions for animated storytelling
+    public static bool InTime(float runTime, float xTime) // xTime is a specific time
+    {
+        return (runTime >= xTime && runTime < (xTime + Time.deltaTime));
+    }
+
+    public static bool InTime(float runTime, float startTime, float endTime) // true when runtime is within startTime:endTime time range
+    {
+        return (runTime >= startTime && runTime < endTime);
+    }
+
+    public static bool UntilTime(float runTime, float startTime) // true until StartTime
+    {
+        return (runTime < startTime);
+    }
+
+    public static bool OverTime(float runTime, float endTime) // true when runTime is over endTime
+    {
+        return (runTime >= endTime);
+    }
+07 - Create new Scene, create empty GO to attach the IntroScene.cs script; drag in GameManager (update Game State to the Scene name), SoundManager
+     Create UI Canvas - Scaler: Scale with Screen Size, Create "RunTime" UI Text (no TMPro) as timeline debug
+08 - in Canvas create TMPro "DialogueText"; in the script set "using System; using TMPro; using UnityEngine.UI;" (to handle strings)
+09 - bool inputDetected to skip text, fadeTimer, fadeDelay for crossfade, runtime, progress to see progress 
 10 - text
+11 - text
+12 - text
+13 - text
+14 - text
+15 - text
+16 - text
+17 - text
 
 
 
