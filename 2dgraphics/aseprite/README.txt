@@ -2,7 +2,7 @@
 
 ## tips & workflow
 * [Aseprite official tips](https://twitter.com/aseprite/status/1124442198651678720)
-
+* [Aseprite quick tip-panels](https://github.com/MapleGecko/aseprite_quick-tips)
 
 ## references
 * [pixelart @ masayume.it](https://www.masayume.it/blog/category/pixelart)
