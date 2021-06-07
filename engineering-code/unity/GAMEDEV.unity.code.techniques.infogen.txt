@@ -676,12 +676,59 @@ TransitionState.PostDelay:
 07 - Create new Scene, create empty GO to attach the IntroScene.cs script; drag in GameManager (update Game State to the Scene name), SoundManager
      Create UI Canvas - Scaler: Scale with Screen Size, Create "RunTime" UI Text (no TMPro) as timeline debug
 08 - in Canvas create TMPro "DialogueText"; in the script set "using System; using TMPro; using UnityEngine.UI;" (to handle strings)
-09 - bool inputDetected to skip text, fadeTimer, fadeDelay for crossfade, runtime, progress to see progress 
-10 - text
-11 - text
-12 - text
-13 - text
-14 - text
+09 - bool inputDetected to skip text, fadeTimer, fadeDelay for crossfade, runtime, progress to see progress.
+        Text runTimeText, TextMeshProUGUI tmpDialogueText, playerRunPoints[], enum IntroStates to handle the scene transitions in Intro Scene
+10 - set all insideLab children to transparent (show OutsideLab)
+        foreach (Transform child in insideLab.transform)
+        {
+            child.gameObject.GetComponent<SpriteRenderer>().color = Color.clear;
+        }
+11 - Start() captures the starting time and play music
+        startTime = Time.time;
+        SoundManager.Instance.MusicSource.clip = musicClip;
+        SoundManager.Instance.MusicSource.volume = 0.75f;
+        SoundManager.Instance.MusicSource.loop = false;
+        SoundManager.Instance.MusicSource.Play();
+12 - Update(1). Constantly updates runTime from startTime and shows it:
+        runTime = Time.time - startTime;
+        runTimeText.text = showRunTime ? String.Format("RunTime: {0:0.00}", runTime) : "";
+13 - Update(2): check player input (to skip); switch (introState) to progress trough cinematic. Calls next scene at the end.
+            case IntroStates.NextScene:
+                // tell GameManager to trigger the next scene
+                if (!calledNextScene)
+                {
+                    GameManager.Instance.StartNextScene();
+                    calledNextScene = true;
+                }
+                break;
+14 - Update(3): for each introState state in the switch. Like a timeline.
+    OutSideLab: @ 2 seconds set first Dialogue Line, @ 5 seconds set the second, @ 8 seconds fades
+                if (UtilityFunctions.InTime(runTime, 2.0f))
+                {
+                    tmpDialogueText.text = dialogueStrings[0];
+                }    
+                if (UtilityFunctions.InTime(runTime, 5.0f))
+                {
+                    tmpDialogueText.text = dialogueStrings[1];
+                }
+                if (UtilityFunctions.OverTime(runTime, 8.0f))
+                {
+                    introState = IntroStates.ScreenFade1;
+                }
+    ScreenFade1: progress = 0:1 is a % of where we are from A to B. Used as alpha channel for the colors of the children of this scene (fade in).
+    when progress reaches 1 switch to next scene: InsideLab
+    InsideLab: set dialogue, remove dialogue, megaman runs in, 
+                if (UtilityFunctions.InTime(runTime, 17.0f, 20.0f))
+                {
+                    if (player.transform.position.x >= playerRunPoints[0])
+                    {
+                        player.GetComponent<PlayerController>().SimulateMoveLeft();
+                    }
+                    else
+                    {
+                        player.GetComponent<PlayerController>().SimulateMoveStop();
+                    }
+                }
 15 - text
 16 - text
 17 - text
