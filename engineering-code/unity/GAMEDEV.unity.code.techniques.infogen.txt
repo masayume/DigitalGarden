@@ -617,7 +617,9 @@ TransitionState.PostDelay:
 
 /*  ============================================================================================
     [CINEMATIC][CUTSCENES][TIME-BASED][no-timeline] code example from https://www.youtube.com/watch?v=Gw9-O3KZHwEU
-    GameManager.cs, IntroScene.cs  
+    GameManager.cs, IntroScene.cs, 
+    [CINEMATIC][CUTSCENES][TIME-BASED][DIALOGUE] code exampe from https://youtu.be/Gw9-O3KZHwE?t=6600
+    MainScene.cs  
     ============================================================================================
 */
 
@@ -729,11 +731,19 @@ TransitionState.PostDelay:
                         player.GetComponent<PlayerController>().SimulateMoveStop();
                     }
                 }
-15 - text
-16 - text
-17 - text
 
-
+01B - Check if player crossed a trigger position for dialogue box to appear;  Start time; Stop Player Input
+                    if (player.transform.position.x >= startSeqBeginPoint)
+                    {
+                        // get start time
+                        startTime = Time.time;
+                        // freeze the player input and stop movement
+                        player.GetComponent<PlayerController>().FreezeInput(true);
+                        Vector2 playerVelocity = player.GetComponent<Rigidbody2D>().velocity;
+                        player.GetComponent<Rigidbody2D>().velocity = new Vector2(0, playerVelocity.y);
+                        // go to the dr. light hologram state
+                        levelState = LevelStates.Hologram;
+                    }
 
 
 
