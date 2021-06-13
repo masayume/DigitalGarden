@@ -1,5 +1,8 @@
 # C#
 
+## New
+* [Low Ceremony, High Value: A Tour of Minimal APIs in .NET 6](https://dev.to/daveabrock/low-ceremony-high-value-a-tour-of-minimal-apis-in-net-6-59ep)
+
 ## General
 * [C#: A Beginner‘s Best Choice](https://dev.to/theoluchijune/c-a-beginner-s-best-choice-2idj)
 * [My Favorite C# Features](https://dev.to/dotnet/my-favorite-c-features-part-1-strong-types-implicit-types-anonymous-types-and-target-types-12a5), [part #2](https://dev.to/dotnet/my-favorite-c-features-part-2-linq-57kd), [part #3](https://dev.to/dotnet/my-favorite-c-features-part-3-nullability-2mcg), [part #4](https://dev.to/dotnet/my-favorite-c-features-part-4-project-structure-454p) 
