@@ -1,4 +1,7 @@
-# Packages
+## NEXT
+- [★ WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+
+## Packages
 - [★ OPEN UPM](https://openupm.com/packages/)
 
 # Unity 2D

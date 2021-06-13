@@ -745,6 +745,50 @@ TransitionState.PostDelay:
                         levelState = LevelStates.Hologram;
                     }
 
+/*  ============================================================================================
+    [SHADER][SPRITE][COLOR-CHANGE] code example from https://youtu.be/lfrQU83e5-A?t=2571
+    url: https://gamedevelopment.tutsplus.com/tutorials/how-to-use-a-shader-to-dynamically-swap-a-sprites-colors--cms-25129
+    better use grayscale assets for this method. Starting colors must be unique.
+    ColorSwap.cs + ColorSwap.shader; PlayerController.cs
+    ============================================================================================
+*/
+
+00 - In the new folder Shaders create a "Standard Surface Shader" called "ColorSwap"   
+01 - In the "Materials" folder create a "ColorSwap" material and assign the shader to the material   
+02 - In the "Player" prefab change the SpriteRenderer Material with the new "ColorSwap"   
+03 - Create a new Script: "ColorSwap" and add it to the "Player" prefab  
+        // save the color swap texture to local storage for debugging
+        //byte[] data = mColorSwapTex.EncodeToPNG();
+        //File.WriteAllBytes(Application.dataPath + "/../ColorSwapTexture.png", data);
+04 - In PlayerController.cs get access to the script ColorSwap and define the red channel values to swap to other colors in SwapIndex
+
+    ColorSwap colorSwap;
+...    
+  private enum SwapIndex
+    {
+        Primary = 64,   // darker shade of gray
+        Secondary = 128 // lighter shade of gray
+    }
+05 - in Start() init all the weapons to the max and get component of ColorSwap
+        for (int i = 0; i < playerWeaponStructs.Length; i++)
+        {
+            playerWeaponStructs[i].currentEnergy = playerWeaponStructs[i].maxEnergy;
+        }        
+        colorSwap = GetComponent<ColorSwap>();    
+06 - call ColorSwap in SetWeapon, switch on PlayerWeapon, replace sprite, set visibility
+        switch (playerWeapon)
+        {
+            case PlayerWeapons.Default:
+                colorSwap.SwapColor((int)SwapIndex.Primary, ColorSwap.ColorFromInt(0x0073F7));
+                colorSwap.SwapColor((int)SwapIndex.Secondary, ColorSwap.ColorFromInt(0x00FFFF));    
+...
+                colorSwap.SwapColor((int)SwapIndex.Primary, ColorSwap.ColorFromInt(0x0073F7));
+                colorSwap.SwapColor((int)SwapIndex.Secondary, ColorSwap.ColorFromInt(0x00FFFF));
+                UIEnergyBars.Instance.SetImage(UIEnergyBars.EnergyBars.PlayerWeapon, UIEnergyBars.EnergyBarTypes.MagnetBeam);
+...                
+07 - Randomly set the weapon with "T" key  
+            SetWeapon((PlayerWeapons)UnityEngine.Random.Range(0, Enum.GetValues(typeof(PlayerWeapons)).Length));  
+
 
 
 /*  ============================================================================================
