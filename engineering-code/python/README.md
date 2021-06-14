@@ -21,6 +21,9 @@
 ## Graphics
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
 
+## CLI Tools
+- [httpie - A light but powerful open source HTTP client](https://dev.to/elenalape/apis-101-getting-started-with-httpie-2o9g)
+
 ## Flask
 - [Flask course etc.](https://www.masayume.it/blog/content/docker-e-flask)
 
