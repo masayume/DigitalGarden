@@ -58,6 +58,7 @@
 * [How to draw manga style hair with these 2 steps](https://www.youtube.com/watch?v=QpJIeHU1uQ8)
 * [How to create an elemental magic brush](https://tips.clip-studio.com/en-us/articles/4605)
 * [How to make magical summon effect for animation scene](https://tips.clip-studio.com/en-us/articles/4621)
+* [Upgrade your Chibi with These Steps](https://tips.clip-studio.com/en-us/articles/4940)
 
 ## drawing with 3d models
 * [Hand Gestures with sketch and 3D models](https://tips.clip-studio.com/en-us/articles/3261)
