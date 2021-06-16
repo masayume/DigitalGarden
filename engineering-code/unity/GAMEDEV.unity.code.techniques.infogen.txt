@@ -129,6 +129,28 @@ void Start()
 }
 
 
+/*  ============================================================================================
+    [damage][event] code example from https://youtu.be/HMBecp6KNpE?t=1644
+    example featured in /home/masayume/DATA/E/UNITY.PROJECTS/2021-1-PLATFORM/MegamanTutorial/
+    PlayerController.cs script; 
+    BombScript.cs code example from https://youtu.be/HMBecp6KNpE?t=2284    
+    ============================================================================================
+*/
+using UnityEngine.Events;
+...
+    [Header("Enemy Events")]
+    public UnityEvent TakeDamageEvent;  // Events are Invoke() from appropriate Functions
+    public UnityEvent DefeatEvent;      // to know WHEN something is happening
+...
+    public void TakeDamage(int damage)
+    {
+        // take damage if not invincible
+        if (!isInvincible)
+        {
+            // invoke take damage event
+            TakeDamageEvent.Invoke();   //
+
+
 
 /*  ============================================================================================
     [animation][stop][frame][event] code example from https://youtu.be/mWKK4Rr3-OQ?t=4700
