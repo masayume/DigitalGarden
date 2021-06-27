@@ -1,5 +1,9 @@
 # BASH
 
+## General
+* [Pure Bash Bible @ masayume](https://www.masayume.it/blog/content/pure-bash-bible)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+
 ## Examples
 
 * [favourite Linux or Unix command of all time](https://twitter.com/nixcraft/status/1381304605179437056?s=09)

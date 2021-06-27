@@ -5,6 +5,7 @@
 - [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 - [pythonawesome](https://pythonawesome.com/)
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
+- []()
 
 ## tutorial
 - [KIVY games and mobile apps with python](https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/)
@@ -12,7 +13,7 @@
 - [A Complete Yet Simple Guide to Move from Excel to Python](https://towardsdatascience.com/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039)
 - [How to Create Mathematical Animations like 3Blue1Brown Using Python](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
 - [How to send emails with Python](https://dev.to/aahnik/how-to-send-emails-with-python-simply-explained-for-beginners-hea)
-- [txt](link)
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 
 ## AI & ML
 - [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/)

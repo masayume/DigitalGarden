@@ -13,7 +13,7 @@ Digital Garden - Meta Knowledge Management
 
 ## Digital Garden Links
 
-- [Awesome Lists](https://github.com/sindresorhus/awesome)
+- [Awesome Lists ★](https://github.com/sindresorhus/awesome)
 - [Learn Anything](https://github.com/learn-anything/learn-anything)
 - [Reference Article](https://dev.to/aurelio/how-i-remember-everything-i-learn-19mi)
 - [Introduction and guidelines](https://wiki.nikitavoloboev.xyz/)
