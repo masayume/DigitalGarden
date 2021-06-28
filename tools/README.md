@@ -20,3 +20,7 @@
 ## PRESENTATION
 * [Slidev](https://github.com/slidevjs/slidev), [my](https://www.masayume.it/blog/content/tool-presentazione-online-slidev)
 
+## GRAPHICS AUTOMATION
+* [Python Pillow](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
+* [Imagemagick](https://www.masayume.it/blog/content/imagemagick)
+
