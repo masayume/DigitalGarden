@@ -14,6 +14,9 @@
 * [Deploying C# Web Applications with Docker](https://platform.uno/blog/deploying-c-web-applications-with-docker/)
 * [C# Pipe Extensions](https://dev.to/winstonpuckett/introducing-c-pipe-extensions-5d0j)
 
+## Packages
+* [https://nuget.info/packages](https://nuget.info/) [NuGet Package Explorer as a Web App](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
+
 ## Audio Libraries
 * [NAudio](https://github.com/naudio/NAudio)
 * [NLayer - fully managed MP3 to WAV decoder](https://github.com/naudio/NLayer)
