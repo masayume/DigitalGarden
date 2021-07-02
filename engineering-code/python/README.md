@@ -19,6 +19,9 @@
 - [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/)
 - [txt](link)
 
+## Data Analytics
+- [Teach Yourself Data Analytics in 30 Days](https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/)
+
 ## Graphics
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
 
