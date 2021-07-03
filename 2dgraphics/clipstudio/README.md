@@ -3,9 +3,9 @@
 
 ## Process
 * [Professional illustration process: Shikimi](https://tips.clip-studio.com/en-us/series/87)
+* [@emeldraws favorite techniques](https://twitter.com/emeldraws/status/1393561482059673606)
 
 ## Books
-
 * [Manga Studio For Dummies in E/books/ART](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
 * [Manga Studio Ex 5 Cookbook in E/books/ART](file:///E:/books/ART/Manga%20Studio%20Ex%205%20Cookbook.pdf)
 * [Mastering Manga Studio 5 in E/books/ART](file:///E:/books/ART/Mastering%20Manga%20Studio%205.pdf)
@@ -27,7 +27,6 @@
 * [Simple Character Coloring for Webtoon](https://tips.clip-studio.com/en-us/articles/4105)
 
 ## Tips & Tutorials
-
 * [tips of the month](https://tips.clip-studio.com/en-us/tips-of-the-month)
 * [Clip Studio Paint - Tips & Tricks](https://www.youtube.com/watch?v=FB87LgdXub8)
 * [TIPS: How to Create Awesome Emoticons!](https://tips.clip-studio.com/en-us/articles/2981)
