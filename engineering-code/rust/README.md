@@ -77,6 +77,7 @@
 * [2D Web Rendering with Rust](https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31)
 * [Deploy A Rust Website on Heroku](https://dev.to/xinnks/deploy-a-rust-website-on-heroku-1l45)
 * [State Management With WebAssembly & Rust](https://dev.to/seanwatters/state-management-with-webassembly-rust-5a1g)
+* [Rust on the front-end](https://dev.to/nfrankel/rust-on-the-front-end-hen)
 
 ## games
 * [A Game in Rust](https://www.youtube.com/watch?v=Ktwl97Ph-SI&list=RDCMUCaYhcUwRBNscFNUKTjgPFiA&index=5)
