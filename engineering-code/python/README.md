@@ -15,6 +15,9 @@
 - [How to send emails with Python](https://dev.to/aahnik/how-to-send-emails-with-python-simply-explained-for-beginners-hea)
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 
+## Tips
+- [How do I find the location of Python module sources?](https://stackoverflow.com/questions/269795/how-do-i-find-the-location-of-python-module-sources)
+
 ## AI & ML
 - [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/)
 - [txt](link)
