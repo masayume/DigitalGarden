@@ -64,6 +64,7 @@
 - [waifu2xBarracuda][https://github.com/keijiro/Waifu2xBarracuda]
 - [export tensorflow, keras, pytorch to ONNX][https://docs.unity3d.com/Packages/com.unity.barracuda@1.0/manual/Exporting.html]
 - [Deep Reinforcement Learning Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course)
+- [Barracuda segment detection model](https://github.com/keijiro/MlsdBarracuda)
 
 ## Resources
 - [unity list](https://unitylist.com/) ★★
