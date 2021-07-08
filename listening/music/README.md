@@ -1,5 +1,8 @@
 # MUSIC
 
+## Recommendations
+* [Flawless Albums ★](https://twitter.com/TheRecordOn/status/1412587364489306117)
+
 ## Services
 * [amazon music purchased](https://music.amazon.it/recently/purchased9)
 
