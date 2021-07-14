@@ -75,6 +75,7 @@
 * [A Single-Page Web App in XAML, WebAssembly & Uno Platform](https://platform.uno/blog/how-to-build-a-single-page-web-app-in-xaml-and-c-with-webassembly-using-uno-platform/)
 * [WebAssembly and Rust: There and Back Again](https://codeburst.io/webassembly-and-rust-there-and-back-again-9ad76f61d616)
 * [Choosing Between Blazor Server or WebAssembly](https://baldbeardedbuilder.com/blog/choosing-between-blazor-server-or-web-assembly)
+* [Using WebAssembly threads from C, C++ and Rust](https://web.dev/webassembly-threads)
 
 ## Web
 * [2D Web Rendering with Rust](https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31)
