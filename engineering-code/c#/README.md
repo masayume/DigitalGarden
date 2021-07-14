@@ -34,6 +34,7 @@
 * [The pain points of C# source generators](https://dev.to/turnerj/the-pain-points-of-c-source-generators-lb0)
 * [VIDEO Blazor: C# in the browser](https://www.youtube.com/watch?v=z6cAmskMVdY)
 * [Using source generators to generate a menu component in a Blazor app](https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app/)
+* [Why build Single Page Apps in Blazor](https://dev.to/dotnet/why-build-single-page-apps-in-blazor-103m)
 
 ## WASM
 * [WebAssembly Weekly](https://wasmweekly.news/)
