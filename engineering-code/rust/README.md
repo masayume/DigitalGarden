@@ -24,6 +24,7 @@
 * [GitHub Actions best practices for Rust projects](https://dev.to/infinyon/github-actions-best-practices-for-rust-projects-1j9p)
 * [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
 * [Testing input and output in Rust command line applications](https://dev.to/jkreeftmeijer/testing-input-and-output-in-rust-command-line-applications-56p5)
+* [First steps with Docker + Rust](https://dev.to/rogertorres/first-steps-with-docker-rust-30oi)
 
 ## Concepts
 * [Concept Clarification: Deref vs AsRef vs Borrow vs Cow](https://dev.to/zhanghandong/rust-concept-clarification-deref-vs-asref-vs-borrow-vs-cow-13g6)
