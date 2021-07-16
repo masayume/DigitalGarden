@@ -1,6 +1,5 @@
 # CLIP STUDIO PAINT
 
-
 ## Process
 * [Professional illustration process: Shikimi](https://tips.clip-studio.com/en-us/series/87)
 * [@emeldraws favorite techniques](https://twitter.com/emeldraws/status/1393561482059673606)
@@ -25,6 +24,8 @@
 * [8 Techniques for Scene Transitions in Webtoons](https://tips.clip-studio.com/en-us/articles/4093)
 * [Webtoon 101](https://tips.clip-studio.com/en-us/articles/4143   )
 * [Simple Character Coloring for Webtoon](https://tips.clip-studio.com/en-us/articles/4105)
+- [How to Turn 3D Materials into Pretty Webtoon Backgrounds](https://tips.clip-studio.com/en-us/articles/5044)
+- [Combine pattern brush and cross hatching (Kakeami)](https://tips.clip-studio.com/en-us/articles/5076)
 
 ## Tips & Tutorials
 * [tips of the month](https://tips.clip-studio.com/en-us/tips-of-the-month)

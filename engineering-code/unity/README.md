@@ -174,6 +174,7 @@
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [Unity VFX Shader Graph](https://github.com/keijiro/Eyeball)
 - [Geometry Grass Shader for URP](https://www.patreon.com/posts/geometry-grass-47447321)
+- [Compute Shader Interactive Grass + Updated Painter Tool](https://www.patreon.com/posts/compute-shader-53587750)
 - [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
 - [VFX Graphs with Shader Graph](https://github.com/keijiro/ProcCharVfx)
 - [minion's art](https://minionsart.github.io/tutorials/)
