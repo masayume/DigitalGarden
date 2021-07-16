@@ -20,8 +20,9 @@ Digital Garden - Meta Knowledge Management
 
 ## Digital Garden Examples
 
-- [Nikita Voloboev example](https://github.com/nikitavoloboev/knowledge)
+- [Nikita Voloboev example ★](https://github.com/nikitavoloboev/knowledge)
 - [Richard Litt example](https://github.com/RichardLitt/meta-knowledge)
+- [Build your own ★](https://github.com/danistefanovic/build-your-own-x)
 
 ## Digital Garden Info
 
