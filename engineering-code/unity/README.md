@@ -101,8 +101,6 @@
 
 # Unity 3D
 
-
-
 ## General links
 - [VIDEO: codemonkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/playlists)
 - [VIDEO: gunpoint author](https://www.youtube.com/watch?v=K2OGes1-b6E)
@@ -128,6 +126,7 @@
 ## Animation 
 - [Mixamo ★](https://www.masayume.it/blog/content/3d-con-pochi-click-mixamo)
 - [Animation Rigging in Unity](https://www.youtube.com/watch?v=Htl7ysv10Qs&feature=youtu.be)
+- [How to Jump in Unity 3D: Jumping Like Mario - Built-In Character Controller #3](https://www.youtube.com/watch?v=h2r3_KjChf4)
 
 ## Machine Learning ML
 - [ML agents hummingbirds](https://learn.unity.com/course/ml-agents-hummingbirds)
