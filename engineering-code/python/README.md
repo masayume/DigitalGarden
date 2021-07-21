@@ -1,13 +1,23 @@
 # python
 
 ## general
+- [basic lessons, friendly web based interface](https://www.learnpython.org/)
 - [Code Examples – Sample Script Coding Tutorial](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
 - [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 - [pythonawesome](https://pythonawesome.com/)
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
 - [Advanced Python Typing - 10 part](https://dev.to/sobolevn/series/364)
+- [freecodecamp VIDEO](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+## advanced
+- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+- [Moving To Python From Other Languages](https://wiki.python.org/moin/MovingToPythonFromOtherLanguages)
+- [A Guide to Python’s Magic Methods](https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf)
+- [Transforming Code into Beautiful, Idiomatic Python VIDEO](https://www.youtube.com/watch?v=OSGv2VnC0go&ab_channel=NextDayVideo)
+- [lecture from Python creator Guido van Rossum](https://www.youtube.com/watch?v=7kn7NtlV6g0)
 
 ## tutorial
+- [manipulate a 3D scene](https://codetheblocks.com/tutorials/introduction)
 - [KIVY games and mobile apps with python](https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/)
 - [A Directory Tree Generator Tool in Python](https://realpython.com/directory-tree-generator-python/)
 - [A Complete Yet Simple Guide to Move from Excel to Python](https://towardsdatascience.com/a-complete-yet-simple-guide-to-move-from-excel-to-python-d664e5683039)
