@@ -3,6 +3,13 @@
 ## Process
 * [Professional illustration process: Shikimi](https://tips.clip-studio.com/en-us/series/87)
 * [@emeldraws favorite techniques](https://twitter.com/emeldraws/status/1393561482059673606)
+* [Creating Poseable 3D Models For Clip Studio Paint Using Blender](https://www.youtube.com/watch?v=iDGyj-zxerU)
+* [How to: Import 3D models](https://www.youtube.com/watch?v=DLAQjp_rxw4)
+* [Animation 101 | Zedrin](https://www.youtube.com/watch?v=3y8euAjlcXI)
+* [4 simple tricks for hand-drawn Animation | Zedrin](https://www.youtube.com/watch?v=cizV4fR2FsI)
+* [The best tools for animation clean-up! | Zedrin](https://www.youtube.com/watch?v=lXe2TYiTR5M)
+* [Make quick concept art with this exercise! | AlbaBG](https://www.youtube.com/watch?v=Y1zsZFaxxYw)
+* [Drawing perfect backgrounds with perspective rulers](https://www.youtube.com/watch?v=4L6ZBjOS48M)
 
 ## Books
 * [Manga Studio For Dummies in E/books/ART](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
