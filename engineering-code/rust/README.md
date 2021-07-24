@@ -28,6 +28,7 @@
 
 ## Concepts
 * [Concept Clarification: Deref vs AsRef vs Borrow vs Cow](https://dev.to/zhanghandong/rust-concept-clarification-deref-vs-asref-vs-borrow-vs-cow-13g6)
+* [Smart Pointers in Rust: What, why and how?](https://dev.to/rogertorres/smart-pointers-in-rust-what-why-and-how-oma)
 
 ## popular packages
 * [clap (for parsing command-line arguments)](https://crates.io/crates/clap)
