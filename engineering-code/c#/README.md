@@ -13,6 +13,7 @@
 * [What's Cool in C# 8 and .NET Core 3](https://visualstudiomagazine.com/articles/2021/04/08/csharp-8-net-core-3.aspx?m=1)
 * [Deploying C# Web Applications with Docker](https://platform.uno/blog/deploying-c-web-applications-with-docker/)
 * [C# Pipe Extensions](https://dev.to/winstonpuckett/introducing-c-pipe-extensions-5d0j)
+* [Enums in C#: Hidden Pitfalls](https://dev.to/vasilievserg/enums-in-c-hidden-pitfalls-3254)
 
 ## Packages
 * [https://nuget.info/packages](https://nuget.info/) [NuGet Package Explorer as a Web App](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
