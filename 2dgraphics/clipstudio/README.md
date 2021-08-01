@@ -59,6 +59,8 @@
 * [Webtoon 101](https://tips.clip-studio.com/en-us/articles/4143)
 * [synthesis mode full explanation](https://tips.clip-studio.com/en-us/articles/4162)
 * [The science of skin tone for artist](https://tips.clip-studio.com/en-us/articles/4437)
+* [Easy Skin Painting Process!](https://tips.clip-studio.com/en-us/articles/4476)
+* [How to shade skin](https://tips.clip-studio.com/en-us/articles/4326)
 * [perspective Rulers](https://tips.clip-studio.com/en-us/articles/4455)
 * [How to draw a high-speed cut-out manga background](https://tips.clip-studio.com/en-us/articles/4474)
 * [How to draw weapons with symmetry ruler: sword](https://tips.clip-studio.com/en-us/articles/2744)
