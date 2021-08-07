@@ -31,6 +31,7 @@
 ## AI & ML
 - [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/)
 - [how to operate VQGAN+CLIP by Katherine Crowson](https://docs.google.com/document/d/1Lu7XPRKlNhBQjcKr8k8qRzUzbBW7kzxb5Vu72GMRn2E/edit)
+- [Use PySpark for Data Processing and Machine Learning](https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/)
 - [txt](link)
 
 ## Data Analytics
