@@ -37,6 +37,10 @@
 * [Using source generators to generate a menu component in a Blazor app](https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app/)
 * [Why build Single Page Apps in Blazor](https://dev.to/dotnet/why-build-single-page-apps-in-blazor-103m)
 
+## Projects
+* [Next level console apps with Spectre.Console](https://dev.to/joaofbantunes/next-level-console-apps-with-spectre-console-1opn)
+* [text](link)
+
 ## WASM
 * [WebAssembly Weekly](https://wasmweekly.news/)
 * [Debugging WASM with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
