@@ -1,8 +1,9 @@
 ## NEXT
 - [★ WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
 
-## Packages
+## Packages & Libraries
 - [★ OPEN UPM](https://openupm.com/packages/)
+- [★ Dungeon Generation](https://www.masayume.it/blog/content/generare-labirinti-maze-generation)
 
 # Unity 2D
 
