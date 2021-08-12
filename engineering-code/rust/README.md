@@ -1,17 +1,17 @@
 # rust
 
 ## start
-* [my first cup of rust](https://dev.to/nfrankel/my-first-cup-of-rust-7ha)
+* [my first cup of rust](https://dev.to/nfrankel/series/12992)
 
 ## general
 * [Rust Homepage](https://www.rust-lang.org/)
 * [Ownership Model](https://doc.rust-lang.org/rust-by-example/scope.html)
-* [Cargo](https://doc.rust-lang.org/cargo/)
 * [Rustup installer](https://rustup.rs/)
 * [Specifying dependencies](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 * [The Rust Book](https://doc.rust-lang.org/book/)
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/hello.html)
 * [The Rust Standard Library](https://doc.rust-lang.org/std/)
+* [Cargo](https://doc.rust-lang.org/cargo/)
 * [The Cargo Book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 * [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html)
 * [Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
