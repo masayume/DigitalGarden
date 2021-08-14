@@ -1,5 +1,26 @@
 ## A list of Blender 2.8x - 2.9x tutorials, by argument
 
+# ABSOLUTE BEST CHANNELS
+* [★ Blender Guru](https://www.youtube.com/user/AndrewPPrice)
+* [★ Polygon Runway](https://www.youtube.com/c/PolygonRunway/featured)
+* [★ Grant Abbitt](https://www.youtube.com/c/GrantAbbitt/featured)
+* [★ Ducky 3D](https://80.lv/articles/80-level-ratings-best-youtube-channels-with-blender-tutorials/Ducky%203D)
+* [★ William Landgren](https://www.youtube.com/channel/UC_v-Rg-FYBUfkF4GLcMDEcg)
+* [★ Chipp Walters](https://www.youtube.com/c/ChippWalters/featured)
+* [★ CG Geek](https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ)
+
+# ABSOLUTE BEST
+* [2.92 Turn Anything Into ASCII Art with Shader Nodes](https://www.youtube.com/watch?v=9R_JBq3Hm6E)
+* [microchip landscape](https://www.youtube.com/watch?v=l3zI2ep74DU)
+* [procedural Anime style clouds and starry nightsky](https://www.youtube.com/watch?v=m4aOZm6auxQ)
+* [procedural hatching and manga shaders for EEVEE](https://www.youtube.com/watch?v=2ZR5XIjBmho)
+* [proceduralism in Blender](https://www.youtube.com/channel/UCGMyyn2FdEFcDfP1wQRh5lQ)
+* [kitbash like a pro](https://www.masayume.it/blog/content/kitbash-pack)
+* [Blender 3D Stylized Character Street Samurai Falling](https://www.youtube.com/watch?v=MDa7WTzM_v4)
+* [Procedural Flowers with Sverchok](https://www.youtube.com/watch?app=desktop&v=FELFjIw-0d8)
+* [Let's Model GAME ASSETS in 10" -> UNITY](https://www.youtube.com/watch?v=hK5N_dTDMPw)
+* [original illustration hybrid workflow](https://www.youtube.com/watch?v=n84rjTPQFlU)
+
 ## Fundamentals & General
 * [2.9 The BEST Places to Learn Blender](https://www.youtube.com/watch?v=-cfz7CQqDVs)
 * [7 KEY MISTAKES Blender Beginners Make](https://www.youtube.com/watch?v=zQVr9qyM00w)
@@ -17,8 +38,14 @@
 * [Phase - 1, Part - 1, 3D Production Pipeline (PPT) For Beginners](https://www.youtube.com/watch?v=sFUg3wm4TMY)
 * [2.8 - All Constraints Explained with Example | Transform Constraints | Free Project File](https://www.youtube.com/watch?v=81SiXoAWXuU)
 * [2.8 #0.1 : 25 New Keyboard Shortcuts](https://www.youtube.com/watch?v=l8NqCUqJGy0)
+* [Pose Library v2.0 ★](https://code.blender.org/2021/05/pose-library-v2-0/)
+* [near-isometry, material-level color quantization ★](https://twitter.com/MrmoTarius/status/1336751434340196354)
+
+# EASY projects
+* [Blender for Beginners: Easy Froggy!](https://www.youtube.com/watch?v=rEBwBrRzyhw)
 
 ## Projects & Workflow
+* [retro plexiglass](https://www.masayume.it/blog/content/pixel-games-retro-diorama-cubetti-trasparenti)
 * [Character Animation Tutorial: Model and Rig a Cute Robot](https://www.youtube.com/watch?v=ufvM2ixj2FI)
 * [Behind the Scenes: Animated Comic with Grease Pencil](https://www.blendernation.com/2020/02/26/behind-the-scenes-animated-comic-with-grease-pencil)
 * [2.83 Grease Pencil: Comic style from reference (part 2)](https://www.youtube.com/watch?v=YeQSoa5HVLA)
@@ -27,7 +54,8 @@
 * [DAZ Model Importer (Blender Add-on) Part 1/2](https://www.youtube.com/watch?v=s9PvR43kTuo)
 * [2.9 Creating a SCI-FI Ocean Scene in EEVEE](https://www.youtube.com/watch?v=KXMrg_xEoYw)
 * [Stylized Character Workflow with Blender](https://www.youtube.com/watch?v=f-mx-Jfx9lA)
-* [Splash Screen - Geometry Nodes Process](https://www.youtube.com/watch?v=SsaNfzO2Hfw)
+* [2.91 System Fix](https://www.youtube.com/watch?v=HYvhwX_oCAo)
+* [3.0 toon robot modeling, rigging, animation](https://www.youtube.com/watch?v=uEnIUdnZ3o0)
 
 # Add-ons
 * [NLA - ACTIONS clips DEMYSTIFIED (2020) Export to Unity](https://www.youtube.com/watch?v=-SQdHehksJw)
@@ -47,9 +75,9 @@
 * [2.8x - Painterly Shader for Blender ](https://www.youtube.com/watch?v=cByqTrPb4Hk)
 * [Photographer Blender addon - Version 3 and Physical Lights](https://www.youtube.com/watch?v=oESoAYLyHrs)
 * [2.8 Sketchfab Addon](https://www.youtube.com/watch?v=vi4AGvoQecA)
-* [2.8 Impossible Geometry Addon: The Paradox Toolkit](https://www.youtube.com/watch?v=tf6iKm49Eyk)
 * [2.82 - free Addon - How to work with the Bool Tool](https://www.youtube.com/watch?v=T7oU39ROzTk)
 * [2.8 Inset Tool in Blender](https://www.youtube.com/watch?v=lJSf6Y83ZCo)
+* [MixnMax Material Mixer](https://gumroad.com/l/MixnMax) [video](https://www.youtube.com/watch?v=3RJVeVTO2pU)
 
 # Resources
 * [Epic Metahuman Creator](https://metahuman.unrealengine.com/)
@@ -74,8 +102,12 @@
 * [Lost blendfile found: Celestine Breakdown](https://www.youtube.com/watch?v=KaFpPyiEBNI)
 * [model genesis 8 people from Daz Studio](https://www.daz3d.com/genesis-8-people)
 * [3D Posed People](https://renderpeople.com/free-3d-people/)
+* [2.9 Use Sketchfab to Enhance Product Renders](https://www.youtube.com/watch?v=hAvdiGqocNM)
+* [The Grove Release 10](https://80.lv/articles/blender-based-the-grove-release-10-is-now-available/)
+* [poly.pizza](http://poly.pizza/search/rabbit)
 
 # Tools & Tips
+* [Blender Secrets](https://www.blendersecrets.org/)
 * [A Beautiful Cut - Blender Boolean](https://www.youtube.com/watch?v=Gj2ZjpiDUWY)
 * [Baking Normal maps from Multires modifier](https://www.youtube.com/watch?v=4WCuMszwM2U)
 * [TEXT & CURVES with CUSTOM BEVELS](https://www.youtube.com/watch?v=zc3k4CxomWI)
@@ -138,6 +170,10 @@
 * [2.80 Procedural Landscapes](https://www.youtube.com/watch?v=yrMee2gcS20)
 * [How to model pencils, Blender tutorial for beginners, step by step](https://www.youtube.com/watch?v=OaB92KsvOtM)
 * [Bevel Tutorial full Version](https://www.youtube.com/watch?v=danFScVQErY&list=PLtJCUHbFvRPpCZz8-7trv5kYMjuGxJN5U&index=4)
+* [How I Sculpt a Character in 5 minutes - The Queen's Gambit](https://www.youtube.com/watch?v=Lso8KitmchY)
+* [How I Sculpt a Character in 5 minutes - Princess Zelda](https://www.youtube.com/watch?v=3iJwc2qE5Lc)
+* [Creating Ghibli-Style Clouds](https://80.lv/articles/tutorial-creating-ghibli-style-clouds-in-blender/)
+* [2.90 Shaping Models With BMesh](https://behreajj.medium.com/shaping-models-with-bmesh-in-blender-2-9-2f4fcc889bf0)
 
 ## Meshes
 * [MESH 	quad remesher](https://exoside.com/quadremesher/)
@@ -177,6 +213,8 @@
 * [Texturing a Pen Tip in Blender - Bic Pen Breakdown](https://www.youtube.com/watch?v=3Q1h9wG9Oyg)
 * [Vector Displacement Part 1 - Procedural Textures](https://www.youtube.com/watch?v=aEeBAxjvY8U)
 * [Surface Imperfections Tutorial (Procedural Shading)](https://www.youtube.com/watch?v=67tWv6Hp_w0)
+* [Procedural hatching and manga shaders for EEVEE](https://gumroad.com/l/tcKOI)
+* [Woven](https://twitter.com/HotdogNugget/status/1390536228890501123)
 
 ## Lighting & Rendering
 * [LIGHTING](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
@@ -192,6 +230,7 @@
 * [Eevee Essentials: Real-Time Rendering in Blender (Basic and Advanced Techniques)](https://cgcookie.com/articles/eevee-essential-features-walkthrough-part-one)
 * [Advanced Glass Shader in Eevee](https://www.youtube.com/watch?v=TqQgRXbevQw)
 * [2.8 Perfectly Baked Bevels for Blender EEVEE](https://www.youtube.com/watch?v=nAU-9cxB3Mk)
+* [EEVEE](https://www.amandasantini.com/02-eevee-is-better-than-you-may-thi)
 
 ## NPR & Toon shading
 * [Blender NPR](https://docs.google.com/presentation/d/1kaXR4RwxuZ-ih4_psfkdepg20incjeZyln4faOvWR_g/) 	
@@ -211,7 +250,6 @@
 * [Introduction to Animation Nodes Tutorial Series for Beginners](https://www.youtube.com/watch?list=PLpJWHl1fB7BFm8Ph-DJ_jswjhfbdZC3-I&v=FBGzZuQaQVs)
 * [Working with Manga Shader for Blender](https://80.lv/articles/tutorial-working-with-manga-shader-for-blender/)
 * [Blender 2.8/EEVEE - Toon Shader Tutorial - P.1 - How to Have Multiple Light Sources](https://www.youtube.com/watch?v=TpWI2rU8iF0)
-* [greasepencil lifehack](https://twitter.com/luamono/status/1239983662176841730)
 * [The BNPR Show #18: Hid the Bunnies](https://www.youtube.com/watch?v=_gZQOL2HCeE)
 * [Tutorial: Ghibli/BoTW Anime Stylized Grass in Blender wth EEVEE](https://www.youtube.com/watch?v=6hyztL8btlY)
 * [NPR PENCIL LOOK - Not only a shader](https://www.youtube.com/watch?v=_reT6PwJRkg&t=280s&ab_channel=ToniMortero)
@@ -219,11 +257,18 @@
 * Ghibli Nausicaä inspired shaders for blender  [video](https://www.youtube.com/watch?v=zD8hX-KSq4g) [shader](https://gumroad.com/l/ZCpLj)
 * [2.79 MATERIALS TOON SHADER, TEXTURES AND OUTLINE](https://www.youtube.com/watch?v=8L6FLzJGg4Q)
 * [How to make hatching shaders in Blender](https://www.youtube.com/watch?v=508pwYME-w4)
+* [Reimu Toon Workflow Overview](https://www.youtube.com/watch?v=nGj_oHtR4os&feature=emb_title)
+* [The most basic NPR shaders](https://bnpr.gitbook.io/bnpr/shaders/the-most-basic-npr-shaders)
+* [Malt NPR renderer](https://github.com/bnpr/Malt)
+* [GBFVS Shading in Blender](https://www.youtube.com/watch?v=c-oa-2rzfIU)
+* [Zeta Granblue fantasy shader in Blender - Demystifying stylized light](https://www.youtube.com/watch?v=UUvAFpyQF3U)
 
 ## Grease Pencil
 * [2.9 import a SVG and convert it to Grease Pencil](https://www.youtube.com/watch?v=mUkZCuT9EG0)
 * [Grease Pencil Face Rig 4 - Bender | Grease Pencil Rigging](https://www.youtube.com/watch?v=AtUbR1kXOQw)
 * [Storyboard Animatic Tutorial - 1 of 6 - Basics, UI, Modes,Canvas](https://www.youtube.com/watch?list=PLeV-rteYibcvBvW-WNPMtajsaaGfGay6Y&v=H0BufKAE8fY) 
+* [Hand Draw Animation](https://www.youtube.com/watch?v=pS4eFKaHWhg)
+* [greasepencil lifehack](https://twitter.com/luamono/status/1239983662176841730)
 
 ## pixelart
 * [setting the Eevee render samples to one for a cleaner, more #pixelart look](https://twitter.com/lettier/status/1352508750716940288)
@@ -235,9 +280,9 @@
 * [3D to 2D pixel in-depth Blender Tutorial](https://www.youtube.com/watch?v=vIKJ1AqfI0Q)
 * [Rendering in the Pokemon 3DS Shading Style in Blender](https://www.youtube.com/watch?v=tI5mtH4mVVc)
 * [Blender 3D: Pixel Art Tutorial](https://www.youtube.com/watch?v=FxspGqoKcaE)
+* [pixelize nodes](https://imgur.com/VOKi9tt)
 
 ## ANIMATION
-* [2.92 | How to use Geometry Nodes to make Procedural Motion Graphics ★](https://www.youtube.com/watch?v=PVmDgrr75nE)
 * [Motion Designers Should Be Considering Blender 2.8](https://www.mographmentor.com/industry/why-motion-designers-should-be-considering-blender-2-8/)
 * [Ultra Satisfying Animations | Easy](https://www.youtube.com/watch?v=Uq4OLSRgSQE)
 * [ANIMATION Cut-out animation in Blender 2.78 (with CoaTools)](https://www.youtube.com/watch?&v=_IcXTg4OQMU)
@@ -265,6 +310,23 @@
 * [Combining 2D And 3D To Create An Animated Storyboard](https://www.youtube.com/watch?v=CIqKac_-BdI)
 * [Retarget Addon and Tutorial](https://www.youtube.com/watch?v=EG-VCMkVpxg)
 * [2.9 Easy Psychedelic Animations - Abstract Motion Graphics](https://www.youtube.com/watch?v=mbrDxrFicVc)
+* [Retargeting ★★★](https://www.youtube.com/watch?v=AutNCxcK0Xc)
+* [creating an animated line drawing in blender](https://lesterbanks.com/2012/07/creating-an-animated-line-drawing-in-blender/)
+* [Eevee Animated Fire || Anime Fire Tutorial](https://www.youtube.com/watch?v=I7zNgHxyn8I)
+* [Sprite animations on particles 01 - Advanced Procedural Textures](https://www.youtube.com/watch?v=Xvjdy7tX1f8)
+* [Sprite animations on particles 02 - Advanced Procedural Textures](https://www.youtube.com/watch?v=XP5DUOvu0JM)
+* [Sprite animations on particles 03 - Advanced Procedural Textures](https://www.youtube.com/watch?v=ftwUp98SMm0)
+
+# geometry nodes
+* [Attributes?! - Geometry Nodes 101](https://www.youtube.com/watch?v=R_cQogD0KJ8)
+* [Geometry Nodes: A 1st Look (For Beginners) 1/2](https://www.youtube.com/watch?v=JvBTxd2rRgk)
+* [Geometry Nodes: A 1st Look (For Beginners) 2/2](https://www.youtube.com/watch?v=DTsEiCfrbXo)
+* [Geometry Nodes project](https://developer.blender.org/tag/geometry_nodes/)
+* [2.92 | How to use Geometry Nodes to make Procedural Motion Graphics ★](https://www.youtube.com/watch?v=PVmDgrr75nE)
+* [2.92 | How to use Geometry Nodes to make Procedural Motion Graphics ★](https://www.youtube.com/watch?v=PVmDgrr75nE)
+* [Splash Screen - Geometry Nodes Process](https://www.youtube.com/watch?v=SsaNfzO2Hfw)
+* [2.8 Impossible Geometry Addon: The Paradox Toolkit](https://www.youtube.com/watch?v=tf6iKm49Eyk)
+* [GScatter plugin](https://80.lv/articles/g-scatter-a-new-free-scattering-plugin-for-blender/), [EASY MODE for Geometry Nodes? - GScatter Addon](https://www.youtube.com/watch?v=mdLcu2RYPtI)
 
 ## Rigging
 * [RIGGING 2.8 Tutorial : Rig ANY Character for Animation](https://www.youtube.com/watch?v=SBYb1YmaOMY)
@@ -278,6 +340,8 @@
 * [Character Rigging in Blender 04a - Creating a Simple FK Spine Rig](https://www.youtube.com/watch?v=4uHY_GuKVSM)
 * [2.8 Rig ANY Character for Animation in 10 Minutes!](https://www.youtube.com/watch?v=SBYb1YmaOMY)
 * [2.79 How to use Rigify Addon (PitchiPoy Version) – Rigging Tool](https://www.youtube.com/watch?v=2OiowaAVzi8)
+* [2.92: Anime Girl Body Rigging - Problems And How I Fix It ](https://www.youtube.com/watch?v=485NJYD7k48)
+* [EASILY RIG Anime Hair and Cloth](https://www.youtube.com/watch?app=desktop&v=Q2L8NsAthF8&feature=share)
 
 ## Camera
 * [Animate Handheld Cameras in Blender](https://www.youtube.com/watch?v=w9EUFud9zGE)
@@ -295,6 +359,9 @@
 * [FX light flicker Sneakers](https://www.youtube.com/playlist?list=PLoGhuFDN7nEGDg6fSGX6ts-KnS0BGGJ-6)
 * [Blender 2.8x with EEVEE Retro-futuristic wireframe transition effect](https://www.youtube.com/watch?v=VmWH4LRnB58)
 * [FX_FireShader](https://www.youtube.com/watch?v=pjzG9I7BWng)
+* [Procedural shaders for stylized/anime medieval buildings](https://www.youtube.com/watch?v=Y1UVOVauRcM)
+* [Create a Procedural Hatching Shader](https://www.youtube.com/watch?app=desktop&v=KXD2eQe3F8Q&feature=emb_title)
+* [Realtime 3D Spiral Noise FX](https://lateasusual.com/b/tutorials/spiral_noise.html)
 
 ## Modular & Scripting
 * [An Introduction to Scripting [Python - bpy]](https://www.youtube.com/watch?v=cyt0O7saU4Q&list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb-)
