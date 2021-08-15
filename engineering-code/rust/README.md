@@ -71,6 +71,7 @@
 * [Cross Platform Apps with Svelte, Redis and Rust](https://www.masayume.it/blog/content/cross-platform-desktop-apps-con-svelte-redis-e-rust)
 * [Command-Line interfaces](https://dev.to/cthutu/rust-7-command-line-interfaces-4084)
 * [Procedural Melody Generation in Rust](https://dev.to/deciduously/teaching-numbers-how-to-sing-3c8l)
+* [End-to-End Encryption in 51 lines](https://dev.to/mrinal/build-end-to-end-encryption-in-51-lines-of-rust-340p)
 
 ## Webassembly
 * [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
