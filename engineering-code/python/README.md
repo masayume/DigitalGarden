@@ -32,6 +32,10 @@
 - [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/)
 - [how to operate VQGAN+CLIP by Katherine Crowson](https://docs.google.com/document/d/1Lu7XPRKlNhBQjcKr8k8qRzUzbBW7kzxb5Vu72GMRn2E/edit)
 - [Use PySpark for Data Processing and Machine Learning](https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/)
+- [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](https://github.com/ermongroup/SDEdit)
+- [CLIPDraw: Exploring Text-to-Drawing Synthesis](https://kvfrans.com/clipdraw-exploring-text-to-drawing-synthesis/), [The art of asking nicely](https://www.aiweirdness.com/the-art-of-asking-nicely/amp/), [VQGAN + CLIP blue whales swimming through neon city prompts](https://twitter.com/ak92501/status/1413360535685435396), [Introduction to VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
+- [FaceBlit](https://github.com/AnetaTexler/FaceBlit), [paper and explanation](https://ondrejtexler.github.io/faceblit/)
+- [txt](link)
 - [txt](link)
 
 ## Data Analytics
