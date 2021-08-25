@@ -24,6 +24,7 @@
 - [How to Create Mathematical Animations like 3Blue1Brown Using Python](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
 - [How to send emails with Python](https://dev.to/aahnik/how-to-send-emails-with-python-simply-explained-for-beginners-hea)
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
+- [FastAPI Course – Code APIs Quickly](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)
 
 ## Tips
 - [How do I find the location of Python module sources?](https://stackoverflow.com/questions/269795/how-do-i-find-the-location-of-python-module-sources)

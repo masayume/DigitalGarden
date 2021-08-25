@@ -5,9 +5,6 @@
 * [@emeldraws favorite techniques](https://twitter.com/emeldraws/status/1393561482059673606)
 * [Creating Poseable 3D Models For Clip Studio Paint Using Blender](https://www.youtube.com/watch?v=iDGyj-zxerU)
 * [How to: Import 3D models](https://www.youtube.com/watch?v=DLAQjp_rxw4)
-* [Animation 101 | Zedrin](https://www.youtube.com/watch?v=3y8euAjlcXI)
-* [4 simple tricks for hand-drawn Animation | Zedrin](https://www.youtube.com/watch?v=cizV4fR2FsI)
-* [The best tools for animation clean-up! | Zedrin](https://www.youtube.com/watch?v=lXe2TYiTR5M)
 * [Make quick concept art with this exercise! | AlbaBG](https://www.youtube.com/watch?v=Y1zsZFaxxYw)
 * [Drawing perfect backgrounds with perspective rulers](https://www.youtube.com/watch?v=4L6ZBjOS48M)
 
@@ -24,6 +21,17 @@
 * [5 Methods for Perfecting your Lineart](https://tips.clip-studio.com/en-us/articles/3868)
 * [Creating Art without Outlines](https://tips.clip-studio.com/en-us/articles/4610)
 * [How to Ink Like a Pro](https://tips.clip-studio.com/en-us/articles/3784)
+
+## Animation
+* [How to animate an illustration on CSP](https://tips.clip-studio.com/en-us/articles/4827)
+* [Animate Your Existing Characters | Keyframes Tutorial](https://tips.clip-studio.com/en-us/articles/4261)
+* [How to Animate a Scene Using Keyframes & 2D Cameras](https://tips.clip-studio.com/en-us/articles/4276)
+* [Basic Walk Cycle with Keyframes](https://tips.clip-studio.com/en-us/articles/4285)
+* [Practicing Short Animations, aka Moving Illustrations or Ugoira](https://tips.clip-studio.com/en-us/articles/953)
+* [The best tools for animation clean-up! | Zedrin](https://www.youtube.com/watch?v=lXe2TYiTR5M)
+* [How to make magical summon effect for animation scene](https://tips.clip-studio.com/en-us/articles/4621)
+* [Animation 101 | Zedrin](https://www.youtube.com/watch?v=3y8euAjlcXI)
+* [4 simple tricks for hand-drawn Animation | Zedrin](https://www.youtube.com/watch?v=cizV4fR2FsI)
 
 ## webtoon
 * [Update: Webtoon Features: Template, Pages, Slice, Crop](https://www.youtube.com/watch?app=desktop&v=6vheFi1EGS8)
@@ -66,7 +74,6 @@
 * [How to draw weapons with symmetry ruler: sword](https://tips.clip-studio.com/en-us/articles/2744)
 * [How to draw manga style hair with these 2 steps](https://www.youtube.com/watch?v=QpJIeHU1uQ8)
 * [How to create an elemental magic brush](https://tips.clip-studio.com/en-us/articles/4605)
-* [How to make magical summon effect for animation scene](https://tips.clip-studio.com/en-us/articles/4621)
 * [Upgrade your Chibi with These Steps](https://tips.clip-studio.com/en-us/articles/4940)
 
 ## drawing with 3d models
