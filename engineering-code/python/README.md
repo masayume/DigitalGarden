@@ -39,6 +39,14 @@
 - [txt](link)
 - [txt](link)
 
+## Markov Chains
+- [VIDEO - MARKOV CHAINS text composer](https://www.youtube.com/watch?v=8ext9G7xspg&t=9109s)
+- [Markov Chains in Python: Beginner Tutorial](https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial)
+- [Introduction To Markov Chains | Markov Chains in Python | Edureka](https://www.youtube.com/watch?v=Gs2xtNzogSY)
+- [Markov Chain in Python Tutorial](https://www.upgrad.com/blog/markov-chain-in-python-tutorial/)
+- [Markov Chain Analysis and Simulation using Python](https://towardsdatascience.com/markov-chain-analysis-and-simulation-using-python-4507cee0b06e)
+- [Markov Chain: Simple example with Python][https://medium.com/@balamurali_m/markov-chain-simple-example-with-python-985d33b14d19]
+
 ## Data Analytics
 - [Teach Yourself Data Analytics in 30 Days](https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/)
 
