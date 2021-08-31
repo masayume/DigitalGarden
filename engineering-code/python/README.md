@@ -30,6 +30,7 @@
 - [How do I find the location of Python module sources?](https://stackoverflow.com/questions/269795/how-do-i-find-the-location-of-python-module-sources)
 
 ## AI & ML
+- [ML subreddit](https://www.reddit.com/r/MachineLearning/)
 - [Python AI: How to Build a Neural Network & Make Predictions](https://realpython.com/python-ai-neural-network/)
 - [how to operate VQGAN+CLIP by Katherine Crowson](https://docs.google.com/document/d/1Lu7XPRKlNhBQjcKr8k8qRzUzbBW7kzxb5Vu72GMRn2E/edit)
 - [Use PySpark for Data Processing and Machine Learning](https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/)
