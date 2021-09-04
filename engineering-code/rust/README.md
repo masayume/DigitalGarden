@@ -42,6 +42,7 @@
 * [piston (for game development)](https://crates.io/crates/piston)
 * [bevy (for game development)](https://crates.io/crates/bevy)
 * [rust game library "good game easily"](https://github.com/ggez/ggez)
+* [★ Amethyst: data-driven and data-oriented game engine](https://github.com/amethyst/amethyst)
 
 ## Rust Libraries
 * [RUST LIBS](https://github.com/nikitavoloboev/knowledge/blob/master/programming-languages/rust/rust-libraries/rust-libraries.md)
