@@ -37,7 +37,7 @@
 - [SDEdit: Image Synthesis and Editing with Stochastic Differential Equations](https://github.com/ermongroup/SDEdit)
 - [CLIPDraw: Exploring Text-to-Drawing Synthesis](https://kvfrans.com/clipdraw-exploring-text-to-drawing-synthesis/), [The art of asking nicely](https://www.aiweirdness.com/the-art-of-asking-nicely/amp/), [VQGAN + CLIP blue whales swimming through neon city prompts](https://twitter.com/ak92501/status/1413360535685435396), [Introduction to VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
 - [FaceBlit](https://github.com/AnetaTexler/FaceBlit), [paper and explanation](https://ondrejtexler.github.io/faceblit/)
-- [txt](link)
+- [customizable UI components around your model](https://github.com/gradio-app/gradio)
 - [txt](link)
 
 ## Markov Chains
@@ -51,7 +51,7 @@
 ## Data Analytics
 - [Teach Yourself Data Analytics in 30 Days](https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/)
 
-## Graphics
+## Graphics and UI
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
 
 ## CLI Tools
