@@ -31,6 +31,7 @@
 * [Blazor Hello World app](https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/create)
 * [awesome blazor LIST](https://github.com/AdrienTorris/awesome-blazor)
 * [dev.to top/month](https://dev.to/t/blazor/top/month)
+* [Simple report app with Blazor in 10 minutes](https://dev.to/juliianikitina/simple-report-app-with-blazor-in-10-minutes-5h22)
 * [video: Blazor: C# in the Browser - Brian Jablonsky](https://www.youtube.com/watch?v=z6cAmskMVdY)
 * [Publishing a Blazor WebAssembly application to GitHub](https://www.meziantou.net/publishing-a-blazor-webassembly-application-to-github-pages.htm)
 * [blazorstrap - blazor + bootstrap](https://blazorstrap.io/)
