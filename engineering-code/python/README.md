@@ -1,5 +1,8 @@
 # python
 
+## main
+- [brython - python in the browser](https://github.com/brython-dev/brython)
+
 ## general
 - [basic lessons, friendly web based interface](https://www.learnpython.org/)
 - [Code Examples – Sample Script Coding Tutorial](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
@@ -54,6 +57,7 @@
 
 ## Graphics and UI
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
+- [git python-pillow](https://github.com/python-pillow/Pillow)
 
 ## CLI Tools
 - [httpie - A light but powerful open source HTTP client](https://dev.to/elenalape/apis-101-getting-started-with-httpie-2o9g)
