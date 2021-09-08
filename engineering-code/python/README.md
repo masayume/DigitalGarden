@@ -28,6 +28,7 @@
 
 ## Tips
 - [How do I find the location of Python module sources?](https://stackoverflow.com/questions/269795/how-do-i-find-the-location-of-python-module-sources)
+- [Filtering list of tuples based on condition](https://stackoverflow.com/questions/69025133/filtering-list-of-tuples-based-on-condition)
 
 ## AI & ML
 - [ML subreddit](https://www.reddit.com/r/MachineLearning/)
