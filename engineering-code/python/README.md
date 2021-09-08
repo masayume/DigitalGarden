@@ -1,7 +1,7 @@
 # python
 
 ## main
-- [brython - python in the browser](https://github.com/brython-dev/brython)
+- [brython - python in the browser](https://github.com/brython-dev/brython), [Exploring Brython](https://towardsdatascience.com/run-python-code-on-websites-exploring-brython-83c43fb7ac5f)
 
 ## general
 - [basic lessons, friendly web based interface](https://www.learnpython.org/)
