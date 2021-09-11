@@ -19,6 +19,9 @@
 * [Optimization of .NET applications](https://dev.to/vasilievserg/optimization-of-net-applications-a-big-result-of-small-edits-12he)
 * [Yield Return Explained !](https://dev.to/ahmedadel/yield-return-explained-262d)
 
+## Tips
+* [5 (Extreme) Performance Tips in C#](https://dev.to/dotnetsafer/5-extreme-performance-tips-in-c-1ipe)
+
 ## Packages
 * [https://nuget.info/packages](https://nuget.info/) [NuGet Package Explorer as a Web App](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
 
