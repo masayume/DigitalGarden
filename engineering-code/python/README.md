@@ -11,6 +11,7 @@
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
 - [Advanced Python Typing - 10 part](https://dev.to/sobolevn/series/364)
 - [freecodecamp VIDEO](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [★ Algorithms and Data Structures in Python](https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/)
 
 ## advanced
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
@@ -18,6 +19,7 @@
 - [A Guide to Python’s Magic Methods](https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf)
 - [Transforming Code into Beautiful, Idiomatic Python VIDEO](https://www.youtube.com/watch?v=OSGv2VnC0go&ab_channel=NextDayVideo)
 - [lecture from Python creator Guido van Rossum](https://www.youtube.com/watch?v=7kn7NtlV6g0)
+- [Solidity, Blockchain, and Smart Contracts - VIDEO](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/)
 
 ## tutorial
 - [manipulate a 3D scene](https://codetheblocks.com/tutorials/introduction)
