@@ -60,6 +60,7 @@
 ## Graphics and UI
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
 - [git python-pillow](https://github.com/python-pillow/Pillow)
+- [Python GUIs for Humans](https://github.com/PySimpleGUI/PySimpleGUI)
 
 ## CLI Tools
 - [httpie - A light but powerful open source HTTP client](https://dev.to/elenalape/apis-101-getting-started-with-httpie-2o9g)
