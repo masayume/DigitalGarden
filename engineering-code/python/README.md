@@ -21,6 +21,9 @@
 - [lecture from Python creator Guido van Rossum](https://www.youtube.com/watch?v=7kn7NtlV6g0)
 - [Solidity, Blockchain, and Smart Contracts - VIDEO](https://www.freecodecamp.org/news/learn-solidity-blockchain-and-smart-contracts-in-a-free/)
 
+## libraries
+- [Borb: Read, write, and edit PDF files](https://borbpdf.com/)
+
 ## tutorial
 - [manipulate a 3D scene](https://codetheblocks.com/tutorials/introduction)
 - [KIVY games and mobile apps with python](https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/)
