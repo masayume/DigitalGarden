@@ -48,6 +48,7 @@
 * [RUST LIBS](https://github.com/nikitavoloboev/knowledge/blob/master/programming-languages/rust/rust-libraries/rust-libraries.md)
 * [github topics: rust](https://github.com/topics/rust)
 * [networking with Tokyo](https://dev.to/rogertorres/rust-tokio-stack-overview-runtime-9fh)
+* [Seed: front-end framework for creating fast and reliable web apps](https://github.com/seed-rs/seed)
 
 ## docs & video
 * [rust by example next exercise](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
