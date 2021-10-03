@@ -7,6 +7,7 @@
 * [Rust Homepage](https://www.rust-lang.org/)
 * [Ownership Model](https://doc.rust-lang.org/rust-by-example/scope.html)
 * [Rustup installer](https://rustup.rs/)
+* [Thought you loved Python? Wait until you meet Rust](https://thenextweb.com/news/thought-you-loved-python-meet-rust-programming-syndication)
 * [Specifying dependencies](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 * [The Rust Book](https://doc.rust-lang.org/book/)
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/hello.html)
