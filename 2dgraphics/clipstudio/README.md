@@ -87,7 +87,6 @@
 * [Optimize your Workspace](https://tips.clip-studio.com/en-us/articles/4522)
 
 ## Brushes
-* [watercolor brushes](https://www.dropbox.com/s/thod4k8jbl7tvst/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E7%AD%86.zip?dl=0)
 * [painterly brushes](http://lapinbeau.deviantart.com/art/Manga-Studio-5-Clip-Studio-Paint-Brush-Pack-619455926)
 * [gouache brushes](http://roastedstix.deviantart.com/art/Gouache-Brush-Set-for-Manga-Studio-Dry-Brysh-v-2-613973487)
 * [brush pack](http://roastedstix.deviantart.com/art/Dry-Brush-Pack-for-Manga-Studio-5-Ver-1-573226543)
@@ -99,10 +98,11 @@
 * [inking 3D objects](https://www.youtube.com/watch?v=8r9_HcO1jkc)
 * [comic fonts](http://www.learncsp.com/find-free-fonts-lettering-comics/)
 * [using reference](https://www.youtube.com/watch?v=ZwKz6QcWSoY)
-* [coloring](https://www.youtube.com/watch?v=O2qCjlKE-8k&list=WL&index=128)
+* [watercolor brushes](https://www.dropbox.com/s/thod4k8jbl7tvst/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E7%AD%86.zip?dl=0)
 * [5 Steps To Setting Up A Comic Page in Clip Studio PAINT](http://blog.smithmicro.com/2015/09/15/manga-studio/5-steps-to-setting-up-a-comic-page) 
 
 ## Coloring
+* [coloring](https://www.youtube.com/watch?v=O2qCjlKE-8k&list=WL&index=128)
 * [Adjust Colors with Correction Layers](https://tips.clip-studio.com/en-us/articles/3620)
 * [Auto-Colorize mit AI-Technologie in Clip Studio Paint](https://tips.clip-studio.com/en-us/articles/3110)
 * [An Intro to Correction Layers](https://tips.clip-studio.com/en-us/articles/3700)
@@ -110,3 +110,11 @@
 * [Coloring the Greyscale - Gradient Map & Contour Line Paint](https://tips.clip-studio.com/en-us/articles/2438)
 * [Gradients to enhance character coloring.](https://tips.clip-studio.com/en-us/articles/2459)
 * [Mastering the fill tool: ② Closed area fill](https://tips.clip-studio.com/en-us/articles/591)
+* [How to Color your Comic Panels](https://tips.clip-studio.com/en-us/articles/4746)
+* [7 Tips for Coloring Comics](https://tips.clip-studio.com/en-us/articles/4707)
+* [10 Coloring Tips for Manga and Comics](https://tips.clip-studio.com/en-us/articles/4776)
+* [Painting backgrounds for webcomics](https://tips.clip-studio.com/en-us/articles/4706)
+* [Using Gradient Maps to Enhance Your Colors](https://tips.clip-studio.com/en-us/articles/2453)
+* [Step-by-step Guide on the Creation of the "Green Mechanic" Vol. 6 Cover](https://tips.clip-studio.com/en-us/articles/4620)
+
+
