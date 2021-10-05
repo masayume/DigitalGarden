@@ -12,6 +12,7 @@
 - [Advanced Python Typing - 10 part](https://dev.to/sobolevn/series/364)
 - [freecodecamp VIDEO](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [★ Algorithms and Data Structures in Python](https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/)
+- [map() Function: How to use map in python](https://dev.to/bl4ckst0n3/python-map-function-how-to-use-map-in-python-381m)
 
 ## advanced
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
