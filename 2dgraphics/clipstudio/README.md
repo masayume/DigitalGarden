@@ -33,6 +33,9 @@
 * [Animation 101 | Zedrin](https://www.youtube.com/watch?v=3y8euAjlcXI)
 * [4 simple tricks for hand-drawn Animation | Zedrin](https://www.youtube.com/watch?v=cizV4fR2FsI)
 
+## Backgrounds
+* [Photos to backgrounds](https://tips.clip-studio.com/en-us/articles/5471), [photo to Anime Background](https://tips.clip-studio.com/en-us/articles/5551), [photo to cartoon background](https://tips.clip-studio.com/en-us/articles/5532)
+
 ## webtoon
 * [Update: Webtoon Features: Template, Pages, Slice, Crop](https://www.youtube.com/watch?app=desktop&v=6vheFi1EGS8)
 * [How to paint a color cartoon (webtoon)](https://tips.clip-studio.com/en-us/articles/4733)
@@ -75,6 +78,9 @@
 * [How to draw manga style hair with these 2 steps](https://www.youtube.com/watch?v=QpJIeHU1uQ8)
 * [How to create an elemental magic brush](https://tips.clip-studio.com/en-us/articles/4605)
 * [Upgrade your Chibi with These Steps](https://tips.clip-studio.com/en-us/articles/4940)
+* [File Object in Clip Studio](https://tips.clip-studio.com/en-us/articles/5519)
+* [Kaleidoscope on File Object](https://tips.clip-studio.com/en-us/articles/5484)
+* [Video Recording](https://tips.clip-studio.com/en-us/articles/5556), [Timelapses](https://tips.clip-studio.com/en-us/articles/5530)
 
 ## drawing with 3d models
 * [Hand Gestures with sketch and 3D models](https://tips.clip-studio.com/en-us/articles/3261)
