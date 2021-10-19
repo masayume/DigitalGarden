@@ -185,6 +185,7 @@
 - [overlay effects](https://www.patreon.com/posts/2d-sprite-33606001)
 - [dissolving logo](https://www.youtube.com/watch?v=O9TaweiZFDU) 
 - [URP Mesh Outlines 1 : Inky Effect Outline](https://www.patreon.com/posts/urp-mesh-part-1-55990741), [2 : Directional Rim Outline](https://www.patreon.com/posts/urp-mesh-part-2-56372978), [3 : Aura Effect](https://www.patreon.com/posts/urp-mesh-part-3-56459128)
+- [VFX Breakdown : Animated Bats Particles + Shader](https://www.patreon.com/posts/vfx-breakdown-57349862)
 
 
 ## unity animation checklist 
