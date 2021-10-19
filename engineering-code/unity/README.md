@@ -165,6 +165,7 @@
 - [C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 - [Grass Geometry Shader with Interactivity](https://www.patreon.com/posts/grass-geometry-1-40090373)
 - [simple toon shader](https://alexanderameye.github.io/simple-toon)
+- [URP Mesh Outlines 1 : Inky Effect Outline](https://www.patreon.com/posts/urp-mesh-part-1-55990741), [2 : Directional Rim Outline](https://www.patreon.com/posts/urp-mesh-part-2-56372978), [3 : Aura Effect](https://www.patreon.com/posts/urp-mesh-part-3-56459128)
 - [Stylized Lava Shader](https://www.patreon.com/posts/stylized-lava-32245619)
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [VIDEO: Brackeys, dissolve](https://www.youtube.com/watch?v=5dzGj9k8Qy8) 
@@ -174,7 +175,6 @@
 - [shaderquest](https://halisavakis.com/category/shaderquest/)
 - [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - [Unity VFX Shader Graph](https://github.com/keijiro/Eyeball)
-- [URP Mesh Outlines: Inky Effect Outline](https://www.patreon.com/posts/urp-mesh-part-1-559907419)
 - [Geometry Grass Shader for URP](https://www.patreon.com/posts/geometry-grass-47447321)
 - [Compute Shader Interactive Grass + Updated Painter Tool](https://www.patreon.com/posts/compute-shader-53587750)
 - [Shader Graph Examples](https://github.com/keijiro/ShaderGraphExamples)
@@ -184,7 +184,6 @@
 - [fireworks](https://www.youtube.com/watch?v=iCEHarLRCzI)    
 - [overlay effects](https://www.patreon.com/posts/2d-sprite-33606001)
 - [dissolving logo](https://www.youtube.com/watch?v=O9TaweiZFDU) 
-- [URP Mesh Outlines 1 : Inky Effect Outline](https://www.patreon.com/posts/urp-mesh-part-1-55990741), [2 : Directional Rim Outline](https://www.patreon.com/posts/urp-mesh-part-2-56372978), [3 : Aura Effect](https://www.patreon.com/posts/urp-mesh-part-3-56459128)
 - [VFX Breakdown : Animated Bats Particles + Shader](https://www.patreon.com/posts/vfx-breakdown-57349862)
 
 
