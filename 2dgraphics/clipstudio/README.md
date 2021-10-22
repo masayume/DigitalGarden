@@ -1,5 +1,8 @@
 # CLIP STUDIO PAINT
 
+## General
+* [Tutorial di Clip Studio Paint](https://docs.google.com/document/d/1FjhHXyhc7sWW87hdfikB6sOK0mO_OcjJgNSzr17UAXg/edit)
+
 ## Process
 * [Professional illustration process: Shikimi](https://tips.clip-studio.com/en-us/series/87)
 * [@emeldraws favorite techniques](https://twitter.com/emeldraws/status/1393561482059673606)
