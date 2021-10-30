@@ -11,6 +11,7 @@
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
 - [★ Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
 - [★ Algorithms and Data Structures in Python](https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/)
+- [★ Automating with Python](https://www.freecodecamp.org/news/how-to-automate-things-using-python/)
 - [Advanced Python Typing - 10 part](https://dev.to/sobolevn/series/364)
 - [freecodecamp VIDEO](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [map() Function: How to use map in python](https://dev.to/bl4ckst0n3/python-map-function-how-to-use-map-in-python-381m)
@@ -49,7 +50,11 @@
 - [CLIPDraw: Exploring Text-to-Drawing Synthesis](https://kvfrans.com/clipdraw-exploring-text-to-drawing-synthesis/), [The art of asking nicely](https://www.aiweirdness.com/the-art-of-asking-nicely/amp/), [VQGAN + CLIP blue whales swimming through neon city prompts](https://twitter.com/ak92501/status/1413360535685435396), [Introduction to VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
 - [FaceBlit](https://github.com/AnetaTexler/FaceBlit), [paper and explanation](https://ondrejtexler.github.io/faceblit/)
 - [customizable UI components around your model](https://github.com/gradio-app/gradio)
+- [TensorFlow for Computer Vision - Full Course on Python for Machine Learning](https://www.freecodecamp.org/news/how-to-use-tensorflow-for-computer-vision/)
 - [txt](link)
+
+## NLP
+- [NLP - Natural Language Processing - spaCy](https://www.masayume.it/blog/content/nlp-natural-language-processing-spacy)
 
 ## Markov Chains
 - [VIDEO - MARKOV CHAINS text composer](https://www.youtube.com/watch?v=8ext9G7xspg&t=9109s)
