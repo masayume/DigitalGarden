@@ -85,6 +85,15 @@
 * [Kaleidoscope on File Object](https://tips.clip-studio.com/en-us/articles/5484)
 * [Video Recording](https://tips.clip-studio.com/en-us/articles/5556), [Timelapses](https://tips.clip-studio.com/en-us/articles/5530)
 
+## pixelart
+* [Easy pixel art illustrations](https://tips.clip-studio.com/en-us/articles/5333)
+* [Pixel Art is cool](https://tips.clip-studio.com/en-us/articles/5320)
+* [Animated Retro Pixel Art for Game Splash Screen](https://tips.clip-studio.com/en-us/articles/3562)
+* [How to make a PIXEL ART Animation](https://tips.clip-studio.com/en-us/articles/5314)
+* [Turn Your Illustrations into Pixel Art](https://tips.clip-studio.com/en-us/articles/5384)
+* [Pixel Art Practices Explained Simply](https://tips.clip-studio.com/en-us/articles/5360)
+* [Isometric View - Pixel Art Style](https://tips.clip-studio.com/en-us/articles/4969)
+
 ## drawing with 3d models
 * [Hand Gestures with sketch and 3D models](https://tips.clip-studio.com/en-us/articles/3261)
 * [Drawing Work Uniforms with 3D Models!](https://tips.clip-studio.com/en-us/articles/3123)
