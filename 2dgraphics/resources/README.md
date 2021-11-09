@@ -6,6 +6,7 @@
 
 ## generative
 * [generate infinite high-resolution images with diverse and complex content](https://universome.github.io/alis?s=09)
+* [this x does not exist](https://thisxdoesnotexist.com/) ★
 
 ## Artbreeder ★
 * [space, galaxies, stars etc.](https://www.artbreeder.com/i?k=c6563fb374012b3e87e86da4fd8e) 	
@@ -30,8 +31,10 @@
 ### Female character
 * [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)   
 
-## Resources
-* [this x does not exist](https://thisxdoesnotexist.com/) ★
+## stock images
+
+* [Storyset](https://storyset.com/online); [Undraw](https://undraw.co/illustrations)
+
 
 ## gif
 
@@ -51,10 +54,6 @@
 * []()
 * []()
 
-## stock images
-
-* []()
-* []()
 
 ## wallpapers
 
