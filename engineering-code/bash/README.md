@@ -3,6 +3,7 @@
 ## General
 * [Pure Bash Bible @ masayume](https://www.masayume.it/blog/content/pure-bash-bible)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [Learn the 50 Most-Used Linux & Terminal Commands](https://www.freecodecamp.org/news/learn-the-50-most-used-linux-terminal-commands/)
 
 ## Examples
 
