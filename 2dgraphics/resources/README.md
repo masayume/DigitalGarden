@@ -24,6 +24,8 @@
 * [large castle](https://www.artbreeder.com/i?k=ef3d6a27e8f967320270bd2f0ffc)   
 ### Rooms
 * [rooms](https://www.artbreeder.com/i?k=f014c34eb2d5ff83f62bd33bd000)
+### Items
+* [ghost traps, factories, pipe organs](https://www.artbreeder.com/i?k=bad2fdc0e31a6d2dfee4c0b2)
 ### Panorama
 * [waterfall](https://www.artbreeder.com/i?k=89bdcfadcace200679973fb7ac61) 	
 * [forest](https://www.artbreeder.com/i?k=660de46521b98b2cab4bb92813eb)	
