@@ -10,6 +10,12 @@
 
 ## Artbreeder ★
 * [space, galaxies, stars etc.](https://www.artbreeder.com/i?k=c6563fb374012b3e87e86da4fd8e) 	
+### Anime
+* [pissed Miku](https://www.artbreeder.com/i?k=f65856e2d61b6efbcce6f868c00d)
+, [demure short haired](https://www.artbreeder.com/i?k=c48896298229999761033f139c26)
+, [happy redhead](https://www.artbreeder.com/i?k=f1e069d6d5a8a15b15c90736a7a8)
+, [merry blue-haired](https://www.artbreeder.com/i?k=2238e4459057ad973cb355170409)
+, [curious blue-haired](https://www.artbreeder.com/i?k=11212847a02fce3a449277560a79)
 ### Women portraits
 * [portraits](https://www.artbreeder.com/i?k=c237a07d1c45c335ed1d77d6cbdf) 	
 * [portraits: korean girl](https://www.artbreeder.com/i?k=84f1b300728a3a60389ac8fc55c4)   
