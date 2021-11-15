@@ -59,10 +59,8 @@
 * [mangastudioitalia su facebook](https://www.facebook.com/groups/mangastudioitalia/)
 * [Clip Studio Paint Basics 2](https://www.youtube.com/watch?v=WkLrMGpWayw) ★
 * [official site](https://www.clipstudio.net/en/) ★
-* [How to COLOR using GRADIENT MAPS](https://www.youtube.com/watch?v=bEOf7anwW6s) ★
 * [How to turn Pictures into drawings for backgrounds](https://www.youtube.com/watch?v=ItnQPPWnvSk) ★★★
 * [retini - tones](https://tips.clip-studio.com/en-us/articles/1114)
-* [flat coloring](https://www.youtube.com/watch?v=3n7Lfp3wca8&feature=youtu.be&t=2m32s)
 * [anti overflow](https://www.youtube.com/watch?v=kTOYDSoRXdw)
 * [separate ink layer](https://www.youtube.com/watch?v=VpJAmarV1jI)
 * [How to pose 3D models (Window > Material, then All > 3D > Pose](https://www.youtube.com/watch?v=Xnn0loeFZWY)
@@ -134,5 +132,14 @@
 * [Painting backgrounds for webcomics](https://tips.clip-studio.com/en-us/articles/4706)
 * [Using Gradient Maps to Enhance Your Colors](https://tips.clip-studio.com/en-us/articles/2453)
 * [Step-by-step Guide on the Creation of the "Green Mechanic" Vol. 6 Cover](https://tips.clip-studio.com/en-us/articles/4620)
+* [flat coloring](https://www.youtube.com/watch?v=3n7Lfp3wca8&feature=youtu.be&t=2m32s)
+* [How to COLOR using GRADIENT MAPS](https://www.youtube.com/watch?v=bEOf7anwW6s) ★
+
+### Watercolors
+* [Basic Watercolor](https://tips.clip-studio.com/en-us/articles/5651)
+* [Watercoloring](https://tips.clip-studio.com/en-us/articles/5672)
+* [Advanced Watercolor Techniques & Process](https://tips.clip-studio.com/en-us/articles/5569)
+* [Watercolor style animation](https://tips.clip-studio.com/en-us/articles/5650)
+* [Spooky Digital Watercolor](https://tips.clip-studio.com/en-us/articles/5665)
 
 
