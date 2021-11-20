@@ -46,6 +46,9 @@
 ### FX
 * [awashed scenery](https://www.artbreeder.com/i?k=206ca085821d093079acaa72adf8)
 
+## Twigl
+* [Xor](https://twitter.com/XorDev/status/1461772543203987460)
+
 ## stock images
 * [Storyset](https://storyset.com/online); [Undraw](https://undraw.co/illustrations)
 
