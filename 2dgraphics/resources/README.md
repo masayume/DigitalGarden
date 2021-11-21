@@ -23,26 +23,35 @@
 , [dark haired intense girl](https://www.artbreeder.com/i?k=9f5fd1e63e6a11c3d9f852cb4c81)
 , [albino curly](https://www.artbreeder.com/i?k=edfca537b3efb938d12367955f0c)
 , [curly redhead](https://www.artbreeder.com/i?k=14d58f7bd21017f25e74ffedf8a9)
+, [misteryous](https://www.artbreeder.com/i?k=2ef4f63f8e9325dab02bd34fef1b)
 ### Men portraits
 * [guys](https://www.artbreeder.com/i?k=cf42ed1525b62478e67169ceadf8)
 ### Buildings
 * [hut](https://www.artbreeder.com/i?k=5138cb85fe72674e7c33188a38a6)
 , [castle](https://www.artbreeder.com/i?k=936fc90e3e48b817c21726d7dcfd)
-, [large castle](https://www.artbreeder.com/i?k=ef3d6a27e8f967320270bd2f0ffc)   
+, [large castle](https://www.artbreeder.com/i?k=ef3d6a27e8f967320270bd2f0ffc)
+, [house](https://www.artbreeder.com/i?k=711766c4a081cbab51e1d989d508)
 ### Rooms
 * [rooms](https://www.artbreeder.com/i?k=f014c34eb2d5ff83f62bd33bd000)
 ### Items
 * [ghost traps, factories, pipe organs](https://www.artbreeder.com/i?k=bad2fdc0e31a6d2dfee4c0b2)
 ### Panorama
 * [waterfall](https://www.artbreeder.com/i?k=89bdcfadcace200679973fb7ac61)
+, [waterfall 2](https://www.artbreeder.com/i?k=c925970ead21a9ac251be3598d18)
 , [forest](https://www.artbreeder.com/i?k=660de46521b98b2cab4bb92813eb)
+, [forest 2](https://www.artbreeder.com/i?k=ee5df585318778895958aa645587)
 , [the tree](https://www.artbreeder.com/i?k=7a7c7c486f5eb3f5ca6765bb063f)
 , [tree near a crag](https://www.artbreeder.com/i?k=af67e97e73468bdd67070be364e4)
 , [swamp](https://www.artbreeder.com/i?k=04ceafd114797f8d894bb31f2921)
 , [red caves](https://www.artbreeder.com/i?k=404e9f62196b292099eb3add2078)
 , [the pillar](https://www.artbreeder.com/i?k=a3cacc11fe9f935fa6d1bbdc175c)
+, [mountains](https://www.artbreeder.com/i?k=2b875e8374e540292d5b20ab8915)
+, [ice mountains](https://www.artbreeder.com/i?k=ee2c27e5af2b65cbe20cb36af336)
+, [volcano](https://www.artbreeder.com/i?k=212ff845fe68717577d443780881)
+, [river](https://www.artbreeder.com/i?k=39cb080bee3e97b66d96ff31b30a)
 ### Full-figure Female character
-* [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)   
+* [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)
+, [black sorceress](https://www.artbreeder.com/i?k=ae4e802fa9c33c4716c757c2261d)
 ### FX
 * [awashed scenery](https://www.artbreeder.com/i?k=206ca085821d093079acaa72adf8)
 
