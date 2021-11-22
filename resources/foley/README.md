@@ -19,6 +19,10 @@
 * [transition whooshes](https://www.asoundeffect.com/sound-library/transition-whooshes-vol-1/)
 * [coffee, beans, grinders](https://www.asoundeffect.com/sound-library/coffee-beans-grinders-roaster-and-more/)
 * [female dark spell incantation](https://www.asoundeffect.com/sound-library/dark-game-spell-incantation-voices-female/)
+* [explosions](https://www.asoundeffect.com/sound-library/explosions-close-and-distant/)
+* [witchcraft](https://www.asoundeffect.com/sound-library/witchcraft/?)
+* [industrial tools and machines](https://www.asoundeffect.com/sound-library/industrial-tools-and-machines/)
+* [magic chimes](https://www.asoundeffect.com/sound-library/magic-chimes/)
 
 ### cartoon/anime
 * [Cartoon Games](https://www.asoundeffect.com/sound-library/cartoon-games/)
@@ -28,6 +32,10 @@
 ### mood
 * [Darko: Modern Tension](https://www.asoundeffect.com/sound-library/darko/)
 * [Detective Games](https://www.asoundeffect.com/sound-library/detective-games/)
+* [dreamcatcher](https://www.asoundeffect.com/sound-library/dreamcatcher/)
+* [designer horns](https://www.asoundeffect.com/sound-library/designed-horns/)
+* [interface sounds](https://www.asoundeffect.com/sound-library/interface-sounds)
+* [spirit of SFX: winds 1](https://www.asoundeffect.com/sound-library/spirit-of-sound-effects-winds-volume-1/)
 
 ### spooky
 * [Ghostly Presences](https://www.asoundeffect.com/sound-library/ghostly-presences/)
