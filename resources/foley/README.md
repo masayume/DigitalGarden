@@ -4,6 +4,7 @@
 * [Ultimate Horror Sound Guide](https://www.asoundeffect.com/ultimate-guide-horror-sound/)
 
 ## sound design
+* [★ The Game Audio power List](https://www.asoundeffect.com/gameaudio/)
 * [★ INDEPTH Sound Design](https://www.youtube.com/c/IndepthSoundDesign/videos)
 
 ## ambience
