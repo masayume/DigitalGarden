@@ -10,6 +10,7 @@
 * [★ CG Geek](https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ)
 
 # ABSOLUTE BEST
+* [★ 2.93 Random Flow](https://www.masayume.it/blog/content/random-flow-blender)
 * [2.92 Turn Anything Into ASCII Art with Shader Nodes](https://www.youtube.com/watch?v=9R_JBq3Hm6E)
 * [microchip landscape](https://www.youtube.com/watch?v=l3zI2ep74DU)
 * [procedural Anime style clouds and starry nightsky](https://www.youtube.com/watch?v=m4aOZm6auxQ)

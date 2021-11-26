@@ -25,6 +25,14 @@
 * [Creating Art without Outlines](https://tips.clip-studio.com/en-us/articles/4610)
 * [How to Ink Like a Pro](https://tips.clip-studio.com/en-us/articles/3784)
 
+## lineless art
+* [Creating uncommon characters](https://tips.clip-studio.com/en-us/articles/4501)
+* [Creating Art without Outlines](https://tips.clip-studio.com/en-us/articles/4610)
+* [Illustration using Figure tools](https://tips.clip-studio.com/en-us/articles/5259)
+* [How To Lineless Art!](https://tips.clip-studio.com/en-us/articles/4623)
+* [How to Create Lineless Art](https://tips.clip-studio.com/en-us/articles/4521)
+* [Making Lineless Art Stand Out](https://tips.clip-studio.com/en-us/articles/4614)
+
 ## Animation
 * [How to animate an illustration on CSP](https://tips.clip-studio.com/en-us/articles/4827)
 * [Animate Your Existing Characters | Keyframes Tutorial](https://tips.clip-studio.com/en-us/articles/4261)
