@@ -24,6 +24,7 @@
 
 ## Packages
 * [https://nuget.info/packages](https://nuget.info/) [NuGet Package Explorer as a Web App](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
+* [C# Class ImageMagick.MagickImage](https://csharpdoc.hotexamples.com/class/ImageMagick/MagickImage)
 
 ## Audio Libraries
 * [NAudio](https://github.com/naudio/NAudio)
