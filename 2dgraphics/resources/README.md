@@ -18,6 +18,7 @@
 , [curious blue-haired](https://www.artbreeder.com/i?k=11212847a02fce3a449277560a79)
 ### Women portraits
 * [portraits](https://www.artbreeder.com/i?k=c237a07d1c45c335ed1d77d6cbdf)
+, [redhead](https://www.artbreeder.com/i?k=b7b4be465aaf03588049171fc38c)
 , [korean girl](https://www.artbreeder.com/i?k=84f1b300728a3a60389ac8fc55c4)
 , [vampire](https://www.artbreeder.com/i?k=69b40d0de1700d443ee981e40014)
 , [dark haired intense girl](https://www.artbreeder.com/i?k=9f5fd1e63e6a11c3d9f852cb4c81)
@@ -33,6 +34,7 @@
 , [castle](https://www.artbreeder.com/i?k=936fc90e3e48b817c21726d7dcfd)
 , [large castle](https://www.artbreeder.com/i?k=ef3d6a27e8f967320270bd2f0ffc)
 , [house](https://www.artbreeder.com/i?k=711766c4a081cbab51e1d989d508)
+, [house 2](https://www.artbreeder.com/i?k=bbcafe44d7458c41180aff1f7c6f)
 ### Rooms
 * [rooms](https://www.artbreeder.com/i?k=f014c34eb2d5ff83f62bd33bd000)
 ### Items
@@ -53,6 +55,7 @@
 , [ice mountains](https://www.artbreeder.com/i?k=ee2c27e5af2b65cbe20cb36af336)
 , [volcano](https://www.artbreeder.com/i?k=212ff845fe68717577d443780881)
 , [river](https://www.artbreeder.com/i?k=39cb080bee3e97b66d96ff31b30a)
+, [twirl](https://www.artbreeder.com/i?k=b8be7b9c319c780aa7d57751bc74)
 ### Full-figure Female character
 * [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)
 , [black sorceress](https://www.artbreeder.com/i?k=ae4e802fa9c33c4716c757c2261d)
