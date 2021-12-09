@@ -1,6 +1,7 @@
 # aseprite
 
 ## tips & workflow
+* [Aseprite Turbo Workflow + scripts](https://www.youtube.com/watch?v=hiMBVCFMj6E)
 * [Aseprite official tips](https://twitter.com/aseprite/status/1124442198651678720)
 * [Aseprite quick tip-panels](https://github.com/MapleGecko/aseprite_quick-tips)
 * [aseprite's new tilemap feature](https://twitter.com/lotovik/status/1415672957762822155)
