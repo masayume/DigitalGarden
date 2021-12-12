@@ -16,6 +16,11 @@
 , [happy redhead](https://www.artbreeder.com/i?k=f1e069d6d5a8a15b15c90736a7a8)
 , [merry blue-haired](https://www.artbreeder.com/i?k=2238e4459057ad973cb355170409)
 , [curious blue-haired](https://www.artbreeder.com/i?k=11212847a02fce3a449277560a79)
+### Full-figure Female character
+* [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)
+, [black sorceress](https://www.artbreeder.com/i?k=ae4e802fa9c33c4716c757c2261d)
+, [young sorceress](https://www.artbreeder.com/i?k=f09835c9db1a7d650817bed81431)
+, [modern girl](https://www.artbreeder.com/i?k=36b9bf7a3f32329e6c51a173c2f9)
 ### Women portraits
 * [portraits](https://www.artbreeder.com/i?k=c237a07d1c45c335ed1d77d6cbdf)
 , [redhead](https://www.artbreeder.com/i?k=b7b4be465aaf03588049171fc38c)
@@ -27,6 +32,8 @@
 , [curly redhead](https://www.artbreeder.com/i?k=14d58f7bd21017f25e74ffedf8a9)
 , [misteryous](https://www.artbreeder.com/i?k=2ef4f63f8e9325dab02bd34fef1b)
 , [with hat](https://www.artbreeder.com/i?k=2c4ed6dc4423d7ea94c10c9e7294)
+### Women side portraits
+* [black short hair](https://www.artbreeder.com/i?k=76dbd4f2df2a6a80e866)
 ### Men portraits
 * [guys](https://www.artbreeder.com/i?k=cf42ed1525b62478e67169ceadf8)
 ### Buildings
@@ -52,13 +59,11 @@
 , [the pillar](https://www.artbreeder.com/i?k=a3cacc11fe9f935fa6d1bbdc175c)
 , [ravine](https://www.artbreeder.com/i?k=49109821b7d291609496be32ddfd)
 , [mountains](https://www.artbreeder.com/i?k=2b875e8374e540292d5b20ab8915)
+, [mountain](https://www.artbreeder.com/i?k=f190b3ca826de5955b9fe39eed59)
 , [ice mountains](https://www.artbreeder.com/i?k=ee2c27e5af2b65cbe20cb36af336)
 , [volcano](https://www.artbreeder.com/i?k=212ff845fe68717577d443780881)
 , [river](https://www.artbreeder.com/i?k=39cb080bee3e97b66d96ff31b30a)
 , [twirl](https://www.artbreeder.com/i?k=b8be7b9c319c780aa7d57751bc74)
-### Full-figure Female character
-* [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)
-, [black sorceress](https://www.artbreeder.com/i?k=ae4e802fa9c33c4716c757c2261d)
 ### FX
 * [awashed scenery](https://www.artbreeder.com/i?k=206ca085821d093079acaa72adf8)
 
