@@ -16,6 +16,10 @@
 - [freecodecamp VIDEO](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [map() Function: How to use map in python](https://dev.to/bl4ckst0n3/python-map-function-how-to-use-map-in-python-381m)
 
+## Data Science &  Analytics
+- [DataCamp Data Science Course: Python 3](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
+- [Teach Yourself Data Analytics in 30 Days](https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/)
+
 ## advanced
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 - [Moving To Python From Other Languages](https://wiki.python.org/moin/MovingToPythonFromOtherLanguages)
@@ -64,9 +68,6 @@
 - [Markov Chain in Python Tutorial](https://www.upgrad.com/blog/markov-chain-in-python-tutorial/)
 - [Markov Chain Analysis and Simulation using Python](https://towardsdatascience.com/markov-chain-analysis-and-simulation-using-python-4507cee0b06e)
 - [Markov Chain: Simple example with Python][https://medium.com/@balamurali_m/markov-chain-simple-example-with-python-985d33b14d19]
-
-## Data Analytics
-- [Teach Yourself Data Analytics in 30 Days](https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/)
 
 ## Graphics and UI
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
