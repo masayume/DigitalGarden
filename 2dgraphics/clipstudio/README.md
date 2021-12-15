@@ -90,6 +90,10 @@
 * [File Object in Clip Studio](https://tips.clip-studio.com/en-us/articles/5519)
 * [Kaleidoscope on File Object](https://tips.clip-studio.com/en-us/articles/5484)
 * [Video Recording](https://tips.clip-studio.com/en-us/articles/5556), [Timelapses](https://tips.clip-studio.com/en-us/articles/5530)
+* [The Magic of Blur](https://tips.clip-studio.com/en-us/articles/5760)
+* [How to use the blur filter for black-and-white comics](https://tips.clip-studio.com/en-us/articles/5757)
+* [Enhance your comic with blur](https://tips.clip-studio.com/en-us/articles/5749)
+
 
 ## pixelart
 * [Easy pixel art illustrations](https://tips.clip-studio.com/en-us/articles/5333)
