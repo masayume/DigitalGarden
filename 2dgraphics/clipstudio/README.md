@@ -93,7 +93,7 @@
 * [The Magic of Blur](https://tips.clip-studio.com/en-us/articles/5760)
 * [How to use the blur filter for black-and-white comics](https://tips.clip-studio.com/en-us/articles/5757)
 * [Enhance your comic with blur](https://tips.clip-studio.com/en-us/articles/5749)
-
+* [Cartoon Style Vehicles](https://tips.clip-studio.com/en-us/articles/2113)
 
 ## pixelart
 * [Easy pixel art illustrations](https://tips.clip-studio.com/en-us/articles/5333)
@@ -146,6 +146,12 @@
 * [Step-by-step Guide on the Creation of the "Green Mechanic" Vol. 6 Cover](https://tips.clip-studio.com/en-us/articles/4620)
 * [flat coloring](https://www.youtube.com/watch?v=3n7Lfp3wca8&feature=youtu.be&t=2m32s)
 * [How to COLOR using GRADIENT MAPS](https://www.youtube.com/watch?v=bEOf7anwW6s) ★
+* [Let's Draw A Landscape Using Watercolor Digitally!](https://tips.clip-studio.com/en-us/articles/5630)
+* [❖ Digital Plein Air | Guide ❖](https://tips.clip-studio.com/en-us/articles/4641)
+* [Draw the sky with two simple tools.](https://tips.clip-studio.com/en-us/articles/3492)
+* [Starry Night Sky Tutorial](https://tips.clip-studio.com/en-us/articles/2493)
+* [Creating a watercolor landscape using clip studio paint](https://tips.clip-studio.com/en-us/articles/4787)
+* [How to draw cinematic sky](https://tips.clip-studio.com/en-us/articles/3573)
 
 ### Watercolors
 * [Basic Watercolor](https://tips.clip-studio.com/en-us/articles/5651)
