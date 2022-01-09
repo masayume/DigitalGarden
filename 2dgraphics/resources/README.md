@@ -17,12 +17,6 @@
 , [merry blue-haired](https://www.artbreeder.com/i?k=2238e4459057ad973cb355170409)
 , [curious blue-haired](https://www.artbreeder.com/i?k=11212847a02fce3a449277560a79)
 , [L-side short haired girl](https://www.artbreeder.com/i?k=51b969ef7908b3d214f5ce3c6ad4)
-### Full-figure Female character
-* [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)
-, [black sorceress](https://www.artbreeder.com/i?k=ae4e802fa9c33c4716c757c2261d)
-, [young sorceress](https://www.artbreeder.com/i?k=f09835c9db1a7d650817bed81431)
-, [modern girl](https://www.artbreeder.com/i?k=36b9bf7a3f32329e6c51a173c2f9)
-, [ice princess](https://www.artbreeder.com/i?k=8d5dd133d9295744b9e3faf271fe)
 ### Women portraits
 * [portraits](https://www.artbreeder.com/i?k=c237a07d1c45c335ed1d77d6cbdf)
 , [china princess](https://www.artbreeder.com/i?k=58eafd0feb5bb6199e9db88e14cd)
@@ -49,6 +43,15 @@
 , [with hat](https://www.artbreeder.com/i?k=2c4ed6dc4423d7ea94c10c9e7294)
 ### Women side portraits
 * [black short hair](https://www.artbreeder.com/i?k=76dbd4f2df2a6a80e866)
+### Full-figure Female character
+* [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)
+, [female warrior](https://www.artbreeder.com/i?k=a647f869e5d878f9a2c731c3b48f)
+, [female warrior 2](https://www.artbreeder.com/i?k=d90aa45539582a17a7f7c6591b2b)
+, [female B/N sketch](https://www.artbreeder.com/i?k=6ece62e070351cc1484d7ef877ae)
+, [black sorceress](https://www.artbreeder.com/i?k=ae4e802fa9c33c4716c757c2261d)
+, [young sorceress](https://www.artbreeder.com/i?k=f09835c9db1a7d650817bed81431)
+, [modern girl](https://www.artbreeder.com/i?k=36b9bf7a3f32329e6c51a173c2f9)
+, [ice princess](https://www.artbreeder.com/i?k=8d5dd133d9295744b9e3faf271fe)
 ### Men portraits
 * [guys](https://www.artbreeder.com/i?k=cf42ed1525b62478e67169ceadf8)
 , [korean](https://www.artbreeder.com/i?k=4022498269868ccb8d4678e6a1d5)
@@ -68,6 +71,7 @@
 * [waterfall](https://www.artbreeder.com/i?k=89bdcfadcace200679973fb7ac61)
 , [waterfall 2](https://www.artbreeder.com/i?k=c925970ead21a9ac251be3598d18)
 , [waterfall 3](https://www.artbreeder.com/i?k=75d785d4da1eb31c029c6660d248)
+, [bushes](https://www.artbreeder.com/i?k=9ccf53cb8bf2e8434d300a7fd53c)
 , [forest](https://www.artbreeder.com/i?k=1ae85644cd0c6216d2e824ad910a)
 , [forest 2](https://www.artbreeder.com/i?k=ee5df585318778895958aa645587)
 , [forest 3](https://www.artbreeder.com/i?k=d45a5df4347a1a22d34b08b36fdf)
