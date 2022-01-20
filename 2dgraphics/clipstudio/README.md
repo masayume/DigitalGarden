@@ -94,6 +94,13 @@
 * [How to use the blur filter for black-and-white comics](https://tips.clip-studio.com/en-us/articles/5757)
 * [Enhance your comic with blur](https://tips.clip-studio.com/en-us/articles/5749)
 * [Cartoon Style Vehicles](https://tips.clip-studio.com/en-us/articles/2113)
+* [9 layer tips that make it easier to draw](https://tips.clip-studio.com/en-us/articles/5817)
+* [Introducing layer functions for digital beginners!](https://tips.clip-studio.com/en-us/articles/5913)
+* [Layers for confused Artists](https://tips.clip-studio.com/en-us/articles/5833)
+* [Layers in digital art](https://tips.clip-studio.com/en-us/articles/5837)
+* [The Power of MASKING and Blending Modes for Layers](https://tips.clip-studio.com/en-us/articles/5916)
+* [Layers 101: basics of layers](https://tips.clip-studio.com/en-us/articles/5917)
+
 
 ## pixelart
 * [Easy pixel art illustrations](https://tips.clip-studio.com/en-us/articles/5333)
