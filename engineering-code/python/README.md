@@ -41,6 +41,7 @@
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 - [FastAPI Course – Code APIs Quickly](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)
 - [Create API with Python - 19h video](https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/)
+- [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
 
 ## Tips
 - [How do I find the location of Python module sources?](https://stackoverflow.com/questions/269795/how-do-i-find-the-location-of-python-module-sources)
