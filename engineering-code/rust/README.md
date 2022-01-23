@@ -79,6 +79,7 @@
 * [End-to-End Encryption in 51 lines](https://dev.to/mrinal/build-end-to-end-encryption-in-51-lines-of-rust-340p)
 * [URL Shortener with Rust, Svelte, & AWS](https://dev.to/mileswatson/url-shortener-with-rust-svelte-aws-1-intro-setup-3fli)
 * [Intelligent brute forcing](https://davidkoloski.me/blog/intelligent-brute-forcing/)
+* [desktop app with Tauri and Yew](https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe?utm_source=pocket_mylist)
 
 ## Webassembly
 * [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
