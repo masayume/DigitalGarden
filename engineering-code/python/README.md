@@ -15,6 +15,7 @@
 - [Advanced Python Typing - 10 part](https://dev.to/sobolevn/series/364)
 - [freecodecamp VIDEO](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [map() Function: How to use map in python](https://dev.to/bl4ckst0n3/python-map-function-how-to-use-map-in-python-381m)
+- [10 Useful Tools for Python Developers](https://www.makeuseof.com/python-developer-tools/)
 
 ## Data Science &  Analytics
 - [DataCamp Data Science Course: Python 3](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
