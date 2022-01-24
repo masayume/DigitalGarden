@@ -20,6 +20,7 @@
 ### Women portraits
 * [portraits](https://www.artbreeder.com/i?k=c237a07d1c45c335ed1d77d6cbdf)
 , [china princess](https://www.artbreeder.com/i?k=58eafd0feb5bb6199e9db88e14cd)
+, [asian white princess](https://www.artbreeder.com/i?k=06fe8fda3f0d6cffdf32a58e2f77)
 , [redhead](https://www.artbreeder.com/i?k=b7b4be465aaf03588049171fc38c)
 , [redhead 2](https://www.artbreeder.com/i?k=91676382ed642119dc4b7215819e)
 , [redhead side](https://www.artbreeder.com/i?k=cd422a8c80020b8c8993e86bf44d)
@@ -37,6 +38,7 @@
 , [albino curly](https://www.artbreeder.com/i?k=edfca537b3efb938d12367955f0c)
 , [albino sweet](https://www.artbreeder.com/i?k=fe6dd75f5f1cd0286bd28eb1f6e1)
 , [blonde princess](https://www.artbreeder.com/i?k=97054bc5dad3a681ee1c915cedd8)
+, [blonde young princess](https://www.artbreeder.com/i?k=82a95559d0459d8d2e828bf36f56)
 , [blonde](https://www.artbreeder.com/i?k=bebabe545284d133d72b959b0648)
 , [curly redhead](https://www.artbreeder.com/i?k=14d58f7bd21017f25e74ffedf8a9)
 , [misteryous](https://www.artbreeder.com/i?k=2ef4f63f8e9325dab02bd34fef1b)
@@ -52,6 +54,8 @@
 , [young sorceress](https://www.artbreeder.com/i?k=f09835c9db1a7d650817bed81431)
 , [modern girl](https://www.artbreeder.com/i?k=36b9bf7a3f32329e6c51a173c2f9)
 , [ice princess](https://www.artbreeder.com/i?k=8d5dd133d9295744b9e3faf271fe)
+### Full-figure Male character
+* [male character](https://www.artbreeder.com/i?k=18bacda25ef5455e3fba397d056a)
 ### Men portraits
 * [guys](https://www.artbreeder.com/i?k=cf42ed1525b62478e67169ceadf8)
 , [korean](https://www.artbreeder.com/i?k=4022498269868ccb8d4678e6a1d5)
@@ -77,6 +81,7 @@
 , [forest 3](https://www.artbreeder.com/i?k=d45a5df4347a1a22d34b08b36fdf)
 , [forest 4](https://www.artbreeder.com/i?k=0224b60b400d3855a59c2fcca335)
 , [forest 5](https://www.artbreeder.com/i?k=660de46521b98b2cab4bb92813eb)
+, [forest 6](https://www.artbreeder.com/i?k=752eebfa88185c07ba6bbc0fdeae)
 , [the tree](https://www.artbreeder.com/i?k=7a7c7c486f5eb3f5ca6765bb063f)
 , [tree near a crag](https://www.artbreeder.com/i?k=af67e97e73468bdd67070be364e4)
 , [swamp](https://www.artbreeder.com/i?k=04ceafd114797f8d894bb31f2921)
@@ -85,11 +90,13 @@
 , [ravine](https://www.artbreeder.com/i?k=49109821b7d291609496be32ddfd)
 , [mountains](https://www.artbreeder.com/i?k=2b875e8374e540292d5b20ab8915)
 , [mountain](https://www.artbreeder.com/i?k=f190b3ca826de5955b9fe39eed59)
+, [mountains with forest](https://www.artbreeder.com/i?k=c567a40b8f8b65c37a54023bb290)
 , [ice mountains](https://www.artbreeder.com/i?k=ee2c27e5af2b65cbe20cb36af336)
 , [volcano](https://www.artbreeder.com/i?k=212ff845fe68717577d443780881)
 , [river](https://www.artbreeder.com/i?k=39cb080bee3e97b66d96ff31b30a)
 , [twirl](https://www.artbreeder.com/i?k=b8be7b9c319c780aa7d57751bc74)
 , [dawn at sea](https://www.artbreeder.com/i?k=1a6856b47d6117db04914750bb6c)
+, [snow trees](https://www.artbreeder.com/i?k=197f68f08fd90524b06030455251)
 ### FX
 * [awashed scenery](https://www.artbreeder.com/i?k=206ca085821d093079acaa72adf8)
 ### Animals
