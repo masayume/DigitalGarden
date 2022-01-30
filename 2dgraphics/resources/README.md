@@ -14,6 +14,7 @@
 * [pissed Miku](https://www.artbreeder.com/i?k=f65856e2d61b6efbcce6f868c00d)
 , [demure short haired](https://www.artbreeder.com/i?k=c48896298229999761033f139c26)
 , [happy redhead](https://www.artbreeder.com/i?k=f1e069d6d5a8a15b15c90736a7a8)
+, [furry girl](https://www.artbreeder.com/i?k=972abf1e7174b1e0a97d2275d2d0)
 , [merry blue-haired](https://www.artbreeder.com/i?k=2238e4459057ad973cb355170409)
 , [curious blue-haired](https://www.artbreeder.com/i?k=11212847a02fce3a449277560a79)
 , [L-side short haired girl](https://www.artbreeder.com/i?k=51b969ef7908b3d214f5ce3c6ad4)
