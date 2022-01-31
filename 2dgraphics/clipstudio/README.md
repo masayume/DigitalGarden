@@ -10,6 +10,7 @@
 * [How to: Import 3D models](https://www.youtube.com/watch?v=DLAQjp_rxw4)
 * [Make quick concept art with this exercise! | AlbaBG](https://www.youtube.com/watch?v=Y1zsZFaxxYw)
 * [Drawing perfect backgrounds with perspective rulers](https://www.youtube.com/watch?v=4L6ZBjOS48M)
+* [Advanced Watercolor Techniques & Process](https://tips.clip-studio.com/en-us/articles/5569)
 
 ## Books
 * [Manga Studio For Dummies in E/books/ART](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
@@ -159,6 +160,10 @@
 * [Starry Night Sky Tutorial](https://tips.clip-studio.com/en-us/articles/2493)
 * [Creating a watercolor landscape using clip studio paint](https://tips.clip-studio.com/en-us/articles/4787)
 * [How to draw cinematic sky](https://tips.clip-studio.com/en-us/articles/3573)
+* [Basic Watercolor](https://tips.clip-studio.com/en-us/articles/5651)
+* [Watercolors in Clip Studio](https://tips.clip-studio.com/en-us/articles/5672)
+* [Soft Pastel Styled Painting Using Blending Modes](https://tips.clip-studio.com/en-us/articles/5787)
+* [Easy Trick for Shading With Crayon (Process and Tutorial)](https://tips.clip-studio.com/en-us/articles/5755)
 
 ### Watercolors
 * [Basic Watercolor](https://tips.clip-studio.com/en-us/articles/5651)
