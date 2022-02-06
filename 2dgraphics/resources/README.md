@@ -10,6 +10,8 @@
 
 ## Artbreeder ★★
 * [space, galaxies, stars etc.](https://www.artbreeder.com/i?k=c6563fb374012b3e87e86da4fd8e) 	
+### Sketch
+* [Blonde Girl](https://www.artbreeder.com/i?k=2c82e4f0dce9dd3eab85a7db7d42)
 ### Anime
 * [pissed Miku](https://www.artbreeder.com/i?k=f65856e2d61b6efbcce6f868c00d)
 , [demure short haired](https://www.artbreeder.com/i?k=c48896298229999761033f139c26)
