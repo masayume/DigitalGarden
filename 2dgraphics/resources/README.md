@@ -22,6 +22,7 @@
 , [L-side short haired girl](https://www.artbreeder.com/i?k=51b969ef7908b3d214f5ce3c6ad4)
 ### Women portraits
 * [portraits](https://www.artbreeder.com/i?k=c237a07d1c45c335ed1d77d6cbdf)
+, [portraits 2 +](https://www.artbreeder.com/i?k=410c7112f6a8e9b1dc7752a76f1f)
 , [china princess](https://www.artbreeder.com/i?k=58eafd0feb5bb6199e9db88e14cd)
 , [asian white princess](https://www.artbreeder.com/i?k=06fe8fda3f0d6cffdf32a58e2f77)
 , [redhead](https://www.artbreeder.com/i?k=b7b4be465aaf03588049171fc38c)
@@ -50,6 +51,7 @@
 * [black short hair](https://www.artbreeder.com/i?k=76dbd4f2df2a6a80e866)
 ### Full-figure Female character
 * [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)
+, [female naked ](https://www.artbreeder.com/i?k=289b1c5da034ce5d5ea4d1ad6e46)
 , [female warrior](https://www.artbreeder.com/i?k=a647f869e5d878f9a2c731c3b48f)
 , [female warrior 2](https://www.artbreeder.com/i?k=d90aa45539582a17a7f7c6591b2b)
 , [female B/N sketch](https://www.artbreeder.com/i?k=6ece62e070351cc1484d7ef877ae)
