@@ -52,11 +52,13 @@
 * [black short hair](https://www.artbreeder.com/i?k=76dbd4f2df2a6a80e866)
 ### Full-figure Female character
 * [female character](https://www.artbreeder.com/i?k=3e3c072f149ac23adc32326c0cb0)
-, [female naked ](https://www.artbreeder.com/i?k=289b1c5da034ce5d5ea4d1ad6e46)
-, [female warrior](https://www.artbreeder.com/i?k=a647f869e5d878f9a2c731c3b48f)
-, [female warrior 2](https://www.artbreeder.com/i?k=d90aa45539582a17a7f7c6591b2b)
-, [female B/N sketch](https://www.artbreeder.com/i?k=6ece62e070351cc1484d7ef877ae)
-, [female princess ](https://www.artbreeder.com/i?k=3dd8718577274461e3b512b037bf)
+, [naked ](https://www.artbreeder.com/i?k=289b1c5da034ce5d5ea4d1ad6e46)
+, [naked 2 ](https://www.artbreeder.com/i?k=289b1c5da034ce5d5ea4d1ad6e46)
+, [warrior](https://www.artbreeder.com/i?k=a647f869e5d878f9a2c731c3b48f)
+, [warrior 2](https://www.artbreeder.com/i?k=d90aa45539582a17a7f7c6591b2b)
+, [B/N sketch](https://www.artbreeder.com/i?k=6ece62e070351cc1484d7ef877ae)
+, [princess ](https://www.artbreeder.com/i?k=3dd8718577274461e3b512b037bf)
+, [prophetess ](https://www.artbreeder.com/i?k=9325d0eaa1a23f05e0f83ecc168b)
 , [black sorceress](https://www.artbreeder.com/i?k=ae4e802fa9c33c4716c757c2261d)
 , [young sorceress](https://www.artbreeder.com/i?k=f09835c9db1a7d650817bed81431)
 , [modern girl](https://www.artbreeder.com/i?k=36b9bf7a3f32329e6c51a173c2f9)
@@ -113,6 +115,8 @@
 * [awashed scenery](https://www.artbreeder.com/i?k=206ca085821d093079acaa72adf8)
 ### Animals
 * [puppy](https://www.artbreeder.com/i?k=639862545093af25e64a547f4312)
+### Paintings
+* [painting](https://www.artbreeder.com/i?k=f6ea0a00da56b0a5015bcb4241bd)
 
 ## Twigl
 * [Xor](https://twitter.com/XorDev/status/1461772543203987460)
