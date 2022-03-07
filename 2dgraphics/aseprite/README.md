@@ -19,6 +19,7 @@
 * [scripts 1](https://community.aseprite.org/c/scripts/13)
 * [script collection](https://community.aseprite.org/t/aseprite-scripts-collection/3599)
 * [aseprite API](https://github.com/aseprite/api#aseprite-api)
+* [custom brush script](https://github.com/Thoof/aseprite-custombrushoptions)
 
 ## video
 
