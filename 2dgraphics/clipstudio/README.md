@@ -35,6 +35,7 @@
 * [Making Lineless Art Stand Out](https://tips.clip-studio.com/en-us/articles/4614)
 
 ## Animation
+* [Animate in Clip Studio, beginners](https://tips.clip-studio.com/en-us/articles/6122)
 * [How to animate an illustration on CSP](https://tips.clip-studio.com/en-us/articles/4827)
 * [Animate Your Existing Characters | Keyframes Tutorial](https://tips.clip-studio.com/en-us/articles/4261)
 * [How to Animate a Scene Using Keyframes & 2D Cameras](https://tips.clip-studio.com/en-us/articles/4276)
@@ -44,6 +45,9 @@
 * [How to make magical summon effect for animation scene](https://tips.clip-studio.com/en-us/articles/4621)
 * [Animation 101 | Zedrin](https://www.youtube.com/watch?v=3y8euAjlcXI)
 * [4 simple tricks for hand-drawn Animation | Zedrin](https://www.youtube.com/watch?v=cizV4fR2FsI)
+* [2D PRO animation](https://tips.clip-studio.com/en-us/articles/6164)
+* [text](link)
+* [text](link)
 
 ## Backgrounds
 * [Photos to backgrounds](https://tips.clip-studio.com/en-us/articles/5471), [photo to Anime Background](https://tips.clip-studio.com/en-us/articles/5551), [photo to cartoon background](https://tips.clip-studio.com/en-us/articles/5532)
@@ -86,6 +90,7 @@
 * [How to draw a high-speed cut-out manga background](https://tips.clip-studio.com/en-us/articles/4474)
 * [How to draw weapons with symmetry ruler: sword](https://tips.clip-studio.com/en-us/articles/2744)
 * [How to draw manga style hair with these 2 steps](https://www.youtube.com/watch?v=QpJIeHU1uQ8)
+* [How to draw all hair](https://tips.clip-studio.com/en-us/articles/6039)
 * [How to create an elemental magic brush](https://tips.clip-studio.com/en-us/articles/4605)
 * [Upgrade your Chibi with These Steps](https://tips.clip-studio.com/en-us/articles/4940)
 * [File Object in Clip Studio](https://tips.clip-studio.com/en-us/articles/5519)
@@ -111,6 +116,10 @@
 * [Turn Your Illustrations into Pixel Art](https://tips.clip-studio.com/en-us/articles/5384)
 * [Pixel Art Practices Explained Simply](https://tips.clip-studio.com/en-us/articles/5360)
 * [Isometric View - Pixel Art Style](https://tips.clip-studio.com/en-us/articles/4969)
+
+## FX
+* [How to draw Water Drops & Ripples](https://tips.clip-studio.com/en-us/articles/6146)
+* [How to use the NEW Liquify brush](https://tips.clip-studio.com/en-us/articles/6053)
 
 ## drawing with 3d models
 * [Hand Gestures with sketch and 3D models](https://tips.clip-studio.com/en-us/articles/3261)
