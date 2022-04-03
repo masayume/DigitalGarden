@@ -145,6 +145,7 @@
 * [using reference](https://www.youtube.com/watch?v=ZwKz6QcWSoY)
 * [watercolor brushes](https://www.dropbox.com/s/thod4k8jbl7tvst/%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E9%A2%A8%E7%AD%86.zip?dl=0)
 * [5 Steps To Setting Up A Comic Page in Clip Studio PAINT](http://blog.smithmicro.com/2015/09/15/manga-studio/5-steps-to-setting-up-a-comic-page) 
+* [10 Asset Brushes](https://tips.clip-studio.com/en-us/articles/4222)
 
 ## Coloring
 * [coloring](https://www.youtube.com/watch?v=O2qCjlKE-8k&list=WL&index=128)
@@ -180,5 +181,10 @@
 * [Advanced Watercolor Techniques & Process](https://tips.clip-studio.com/en-us/articles/5569)
 * [Watercolor style animation](https://tips.clip-studio.com/en-us/articles/5650)
 * [Spooky Digital Watercolor](https://tips.clip-studio.com/en-us/articles/5665)
+
+### Others
+* [presentation: timelapses ](https://tips.clip-studio.com/en-us/articles/5530)
+* [Auto Actions in-depth guide & creative tips](https://tips.clip-studio.com/en-us/articles/3484)
+
 
 
