@@ -14,6 +14,8 @@
 * [Deploying C# Web Applications with Docker](https://platform.uno/blog/deploying-c-web-applications-with-docker/)
 * [C# Pipe Extensions](https://dev.to/winstonpuckett/introducing-c-pipe-extensions-5d0j)
 * [Enums in C#: Hidden Pitfalls](https://dev.to/vasilievserg/enums-in-c-hidden-pitfalls-3254)
+* [Good Practices for Error Handling in C#](https://dev.to/dotnetsafer/5-good-practices-for-error-handling-in-c-4391)
+* [Guidelines to Write Cleaner Code in C#](https://dev.to/dotnetsafer/the-5-guidelines-to-write-cleaner-code-in-c-fid)
 
 ## Advanced
 * [Optimization of .NET applications](https://dev.to/vasilievserg/optimization-of-net-applications-a-big-result-of-small-edits-12he)
