@@ -44,10 +44,13 @@
 - [FastAPI Course – Code APIs Quickly](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)
 - [Create API with Python - 19h video](https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/)
 - [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
+- [Project – How to Build a Wordle Clone using Python and Rich](https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich)
 
 ## Tips
 - [How do I find the location of Python module sources?](https://stackoverflow.com/questions/269795/how-do-i-find-the-location-of-python-module-sources)
 - [Filtering list of tuples based on condition](https://stackoverflow.com/questions/69025133/filtering-list-of-tuples-based-on-condition)
+- [Patterns for Writing Clean Code in Python](https://dzone.com/articles/10-must-know-patterns-for-writing-clean-code-with-1)
+- [How to Set Up a Virtual Environment](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python)
 
 ## AI & ML
 - [ML subreddit](https://www.reddit.com/r/MachineLearning/)
