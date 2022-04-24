@@ -174,6 +174,8 @@
 * [Watercolors in Clip Studio](https://tips.clip-studio.com/en-us/articles/5672)
 * [Soft Pastel Styled Painting Using Blending Modes](https://tips.clip-studio.com/en-us/articles/5787)
 * [Easy Trick for Shading With Crayon (Process and Tutorial)](https://tips.clip-studio.com/en-us/articles/5755)
+* [use FILL TOOLS efficiently for painting BASE COLORS](https://tips.clip-studio.com/en-us/articles/6286)
+* [Fill Base Colors Fast and Easy](https://tips.clip-studio.com/en-us/articles/6283)
 
 ### Watercolors
 * [Basic Watercolor](https://tips.clip-studio.com/en-us/articles/5651)
