@@ -7,6 +7,7 @@
 - [basic lessons, friendly web based interface](https://www.learnpython.org/)
 - [Code Examples – Sample Script Coding Tutorial](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
 - [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
+- [Python Code Example Handbook – Simple Python Program Examples for Beginners](https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/)
 - [pythonawesome](https://pythonawesome.com/)
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
 - [★ Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
