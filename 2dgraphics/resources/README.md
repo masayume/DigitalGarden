@@ -15,6 +15,7 @@
 ### Anime
 * [pissed Miku](https://www.artbreeder.com/i?k=f65856e2d61b6efbcce6f868c00d)
 , [demure short haired](https://www.artbreeder.com/i?k=c48896298229999761033f139c26)
+, [confident girl](https://www.artbreeder.com/i?k=f74539663456c66ddaa29e218df1)
 , [happy redhead](https://www.artbreeder.com/i?k=f1e069d6d5a8a15b15c90736a7a8)
 , [sad elf](https://www.artbreeder.com/i?k=cd67dafc68f0d38ec6ba7c72b9bb)
 , [furry girl](https://www.artbreeder.com/i?k=972abf1e7174b1e0a97d2275d2d0)
@@ -35,6 +36,7 @@
 , [redhead side](https://www.artbreeder.com/i?k=cd422a8c80020b8c8993e86bf44d)
 , [curly redhead](https://www.artbreeder.com/i?k=8b719e39b581a6acf69e55e65779)
 , [auburn, big eyes](https://www.artbreeder.com/i?k=44a50cd44949c8931e7a91e2c4e0)
+, [auburn, smiling](https://www.artbreeder.com/i?k=f3b497c966c7d966a6013d535c6b)
 , [tropical princess](https://www.artbreeder.com/i?k=6cbaef01fb7a83189f7740cf1e59)
 , [blonde cartoon (gene: Return To Art 11)](https://www.artbreeder.com/i?k=13e80cd4afbe11ac2ce62fe33e63)
 , [blonde with freckles](https://www.artbreeder.com/i?k=35d8f295c76f70f2efcd52e5bf33)
@@ -55,6 +57,7 @@
 , [curly redhead](https://www.artbreeder.com/i?k=14d58f7bd21017f25e74ffedf8a9)
 , [misteryous](https://www.artbreeder.com/i?k=2ef4f63f8e9325dab02bd34fef1b)
 , [with hat](https://www.artbreeder.com/i?k=2c4ed6dc4423d7ea94c10c9e7294)
+, [raging girl](https://www.artbreeder.com/i?k=419ccf1de200ec2d55c20680f2fd)
 ### Women side portraits
 * [black short hair](https://www.artbreeder.com/i?k=76dbd4f2df2a6a80e866)
 ### Full-figure Female character
@@ -70,6 +73,7 @@
 , [young sorceress](https://www.artbreeder.com/i?k=f09835c9db1a7d650817bed81431)
 , [modern girl](https://www.artbreeder.com/i?k=36b9bf7a3f32329e6c51a173c2f9)
 , [ice princess](https://www.artbreeder.com/i?k=8d5dd133d9295744b9e3faf271fe)
+, [spouse](https://www.artbreeder.com/i?k=2f0aaac8af3635f23d236fa6a0b9)
 ### Full-figure Male character
 * [male character](https://www.artbreeder.com/i?k=18bacda25ef5455e3fba397d056a)
 ### Men portraits
@@ -87,6 +91,7 @@
 , [house](https://www.artbreeder.com/i?k=711766c4a081cbab51e1d989d508)
 , [house 2](https://www.artbreeder.com/i?k=bbcafe44d7458c41180aff1f7c6f)
 , [Mansion](https://www.artbreeder.com/i?k=5f644fe3111183dc9273bbd2af03)
+, [Palace](https://www.artbreeder.com/i?k=09c87702cc669121743993d92b19)
 ### Rooms
 * [rooms](https://www.artbreeder.com/i?k=f014c34eb2d5ff83f62bd33bd000)
 ### Items
