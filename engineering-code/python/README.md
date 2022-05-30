@@ -19,11 +19,11 @@
 - [10 Useful Tools for Python Developers](https://www.makeuseof.com/python-developer-tools/)
 - [A Python developer’s guide to React](https://blog.logrocket.com/python-developers-guide-react/)
 
-## Data Science &  Analytics
+## Data Science & Analytics
 - [DataCamp Data Science Course: Python 3](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
 - [Teach Yourself Data Analytics in 30 Days](https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/)
 
-## advanced
+## Advanced
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 - [Moving To Python From Other Languages](https://wiki.python.org/moin/MovingToPythonFromOtherLanguages)
 - [A Guide to Python’s Magic Methods](https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf)
@@ -46,6 +46,8 @@
 - [Create API with Python - 19h video](https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/)
 - [Implementing RSA in Python from Scratch](https://coderoasis.com/implementing-rsa-from-scratch-in-python/)
 - [Project – How to Build a Wordle Clone using Python and Rich](https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich)
+- [How to Use PyScript – A Python Frontend Framework](https://www.freecodecamp.org/news/pyscript-python-front-end-framework/)
+- [Python Generators](https://www.pylenin.com/blogs/python-generators/)
 
 ## Tips
 - [How do I find the location of Python module sources?](https://stackoverflow.com/questions/269795/how-do-i-find-the-location-of-python-module-sources)
