@@ -90,6 +90,8 @@
 * [How to draw a high-speed cut-out manga background](https://tips.clip-studio.com/en-us/articles/4474)
 * [How to draw weapons with symmetry ruler: sword](https://tips.clip-studio.com/en-us/articles/2744)
 * [How to draw manga style hair with these 2 steps](https://www.youtube.com/watch?v=QpJIeHU1uQ8)
+* [How to Draw All Hair](https://tips.clip-studio.com/en-us/articles/6039)
+* [Drawing Hair: Simplified + Quick & Easy Hair Hack](https://tips.clip-studio.com/en-us/articles/6015)
 * [How to draw all hair](https://tips.clip-studio.com/en-us/articles/6039)
 * [How to create an elemental magic brush](https://tips.clip-studio.com/en-us/articles/4605)
 * [Upgrade your Chibi with These Steps](https://tips.clip-studio.com/en-us/articles/4940)
