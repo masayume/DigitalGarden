@@ -48,6 +48,7 @@
 , [blue hair](https://www.artbreeder.com/i?k=1b258e16845b397f328de1474101)
 , [blue hair 2](https://www.artbreeder.com/i?k=4ee8cf2608f40b4844c7b2a48b54)
 , [blue hair 3](https://www.artbreeder.com/i?k=1b258e16845b397f328de1474101)
+, [blue hair 4](https://www.artbreeder.com/i?k=c01d1c4860920358584d14ba74b7)
 , [chinese girl](https://www.artbreeder.com/i?k=19fec3134f202f9f5074317f36a0)
 , [korean girl](https://www.artbreeder.com/i?k=84f1b300728a3a60389ac8fc55c4)
 , [vampire](https://www.artbreeder.com/i?k=69b40d0de1700d443ee981e40014)
@@ -95,6 +96,7 @@
 , [Orrery](https://www.artbreeder.com/i?k=b478df47ea9806ba863784d04eaa)
 , [house](https://www.artbreeder.com/i?k=711766c4a081cbab51e1d989d508)
 , [house 2](https://www.artbreeder.com/i?k=bbcafe44d7458c41180aff1f7c6f)
+, [house 3](https://www.artbreeder.com/i?k=86c070337c6d2d359226e5795324)
 , [Mansion](https://www.artbreeder.com/i?k=5f644fe3111183dc9273bbd2af03)
 , [Palace](https://www.artbreeder.com/i?k=09c87702cc669121743993d92b19)
 ### Rooms
@@ -141,10 +143,13 @@
 , [dawn at sea](https://www.artbreeder.com/i?k=1a6856b47d6117db04914750bb6c)
 , [dawn at sea 2](https://www.artbreeder.com/i?k=bd187c2af59591ceada2f256f60c)
 , [snow trees](https://www.artbreeder.com/i?k=197f68f08fd90524b06030455251)
+, [fjord](https://www.artbreeder.com/i?k=3c9fc751f438c0e1677a16113f6e)
+, [palace](https://www.artbreeder.com/i?k=3dafbd2d3c427aae76464dc8205d)
 ### FX
 * [awashed scenery](https://www.artbreeder.com/i?k=206ca085821d093079acaa72adf8)
 ### Animals
 * [puppy](https://www.artbreeder.com/i?k=639862545093af25e64a547f4312)
+* [furry](https://www.artbreeder.com/i?k=46e32190a998bdab534feecb3e7f)
 ### Paintings
 * [painting](https://www.artbreeder.com/i?k=f6ea0a00da56b0a5015bcb4241bd)
 
