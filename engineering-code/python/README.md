@@ -35,6 +35,8 @@
 - [Borb: Read, write, and edit PDF files](https://borbpdf.com/)
 
 ## tutorial
+- [How to Open, Read, and Write to Files](https://www.freecodecamp.org/news/how-to-read-files-in-python/)
+- [TXT](link)
 - [manipulate a 3D scene](https://codetheblocks.com/tutorials/introduction)
 - [KIVY games and mobile apps with python](https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/)
 - [A Directory Tree Generator Tool in Python](https://realpython.com/directory-tree-generator-python/)
@@ -65,7 +67,7 @@
 - [FaceBlit](https://github.com/AnetaTexler/FaceBlit), [paper and explanation](https://ondrejtexler.github.io/faceblit/)
 - [customizable UI components around your model](https://github.com/gradio-app/gradio)
 - [TensorFlow for Computer Vision - Full Course on Python for Machine Learning](https://www.freecodecamp.org/news/how-to-use-tensorflow-for-computer-vision/)
-- [txt](link)
+- [Deploy a Machine Learning Model as a Web App Using Gradio](https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/)
 
 ## NLP
 - [NLP - Natural Language Processing - spaCy](https://www.masayume.it/blog/content/nlp-natural-language-processing-spacy)
