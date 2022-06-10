@@ -11,6 +11,7 @@
 * [Make quick concept art with this exercise! | AlbaBG](https://www.youtube.com/watch?v=Y1zsZFaxxYw)
 * [Drawing perfect backgrounds with perspective rulers](https://www.youtube.com/watch?v=4L6ZBjOS48M)
 * [Advanced Watercolor Techniques & Process](https://tips.clip-studio.com/en-us/articles/5569)
+* [Drawing Stylized: the eyes](https://tips.clip-studio.com/en-us/articles/6543)
 
 ## Books
 * [Manga Studio For Dummies in E/books/ART](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
@@ -157,6 +158,7 @@
 * [Blending Modes: Normal](https://tips.clip-studio.com/en-us/articles/4166)
 * [Coloring the Greyscale - Gradient Map & Contour Line Paint](https://tips.clip-studio.com/en-us/articles/2438)
 * [Gradients to enhance character coloring.](https://tips.clip-studio.com/en-us/articles/2459)
+* [Master Coloring with Gradient Maps](https://tips.clip-studio.com/en-us/articles/6635)
 * [Mastering the fill tool: ② Closed area fill](https://tips.clip-studio.com/en-us/articles/591)
 * [How to Color your Comic Panels](https://tips.clip-studio.com/en-us/articles/4746)
 * [7 Tips for Coloring Comics](https://tips.clip-studio.com/en-us/articles/4707)
@@ -178,6 +180,7 @@
 * [Easy Trick for Shading With Crayon (Process and Tutorial)](https://tips.clip-studio.com/en-us/articles/5755)
 * [use FILL TOOLS efficiently for painting BASE COLORS](https://tips.clip-studio.com/en-us/articles/6286)
 * [Fill Base Colors Fast and Easy](https://tips.clip-studio.com/en-us/articles/6283)
+
 
 ### Watercolors
 * [Basic Watercolor](https://tips.clip-studio.com/en-us/articles/5651)
