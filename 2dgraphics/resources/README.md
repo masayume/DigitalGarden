@@ -26,6 +26,7 @@
 ### Women portraits
 * [portraits](https://www.artbreeder.com/i?k=c237a07d1c45c335ed1d77d6cbdf)
 , [portraits 2 +](https://www.artbreeder.com/i?k=410c7112f6a8e9b1dc7752a76f1f)
+, [freckles](https://www.artbreeder.com/i?k=84787b2a7d18cc4260d371b6e948)
 , [Natalie](https://www.artbreeder.com/i?k=22abbf446b18d0d46e6168e03184)
 , [china princess](https://www.artbreeder.com/i?k=58eafd0feb5bb6199e9db88e14cd)
 , [asian](https://www.artbreeder.com/i?k=afaf6cc855e88767d93d3d0a1927)
@@ -63,6 +64,7 @@
 , [misteryous](https://www.artbreeder.com/i?k=2ef4f63f8e9325dab02bd34fef1b)
 , [with hat](https://www.artbreeder.com/i?k=2c4ed6dc4423d7ea94c10c9e7294)
 , [raging girl](https://www.artbreeder.com/i?k=419ccf1de200ec2d55c20680f2fd)
+, [white lady](https://www.artbreeder.com/i?k=1e781e0bc9abcd5eaf5e95d671ab)
 ### Women side portraits
 * [black short hair](https://www.artbreeder.com/i?k=76dbd4f2df2a6a80e866)
 ### Full-figure Female character
@@ -76,6 +78,7 @@
 , [prophetess ](https://www.artbreeder.com/i?k=9325d0eaa1a23f05e0f83ecc168b)
 , [black sorceress](https://www.artbreeder.com/i?k=ae4e802fa9c33c4716c757c2261d)
 , [young sorceress](https://www.artbreeder.com/i?k=f09835c9db1a7d650817bed81431)
+, [young explorer](https://www.artbreeder.com/i?k=40b4e31b4c5661589251ab5fa644)
 , [modern girl](https://www.artbreeder.com/i?k=36b9bf7a3f32329e6c51a173c2f9)
 , [ice princess](https://www.artbreeder.com/i?k=8d5dd133d9295744b9e3faf271fe)
 , [spouse](https://www.artbreeder.com/i?k=2f0aaac8af3635f23d236fa6a0b9)
@@ -90,8 +93,9 @@
 , [almost a vampire](https://www.artbreeder.com/i?k=5e48c722b9d76dc536a68ebe1f5f)
 ### Buildings
 * [hut](https://www.artbreeder.com/i?k=5138cb85fe72674e7c33188a38a6)
-, [castle](https://www.artbreeder.com/i?k=936fc90e3e48b817c21726d7dcfd)
-, [castle 2](https://www.artbreeder.com/i?k=857689a554004375fa68f207296c)
+, [castle](https://www.artbreeder.com/i?k=5b77f969f25e4c7747a1df922a7b)
+, [castle 2](https://www.artbreeder.com/i?k=936fc90e3e48b817c21726d7dcfd)
+, [castle 3](https://www.artbreeder.com/i?k=857689a554004375fa68f207296c)
 , [large castle](https://www.artbreeder.com/i?k=ef3d6a27e8f967320270bd2f0ffc)
 , [Orrery](https://www.artbreeder.com/i?k=b478df47ea9806ba863784d04eaa)
 , [house](https://www.artbreeder.com/i?k=711766c4a081cbab51e1d989d508)
@@ -99,6 +103,8 @@
 , [house 3](https://www.artbreeder.com/i?k=86c070337c6d2d359226e5795324)
 , [Mansion](https://www.artbreeder.com/i?k=5f644fe3111183dc9273bbd2af03)
 , [Palace](https://www.artbreeder.com/i?k=09c87702cc669121743993d92b19)
+### Modern Buildings
+* [starship](https://www.artbreeder.com/i?k=d0a21c39c0beff5237a47e28227b)
 ### Rooms
 * [rooms](https://www.artbreeder.com/i?k=f014c34eb2d5ff83f62bd33bd000)
 ### Items
