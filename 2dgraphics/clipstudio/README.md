@@ -12,6 +12,8 @@
 * [Drawing perfect backgrounds with perspective rulers](https://www.youtube.com/watch?v=4L6ZBjOS48M)
 * [Advanced Watercolor Techniques & Process](https://tips.clip-studio.com/en-us/articles/5569)
 * [Drawing Stylized: the eyes](https://tips.clip-studio.com/en-us/articles/6543)
+* [Professional Illustration Process: kamakilimai](https://tips.clip-studio.com/en-us/series/62)
+* [Easily correct your illustrations with the Liquify sub tool -Clip Studio Ver. 1.11.6 ★](https://tips.clip-studio.com/en-us/articles/5811)
 
 ## Books
 * [Manga Studio For Dummies in E/books/ART](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
@@ -109,6 +111,9 @@
 * [Layers in digital art](https://tips.clip-studio.com/en-us/articles/5837)
 * [The Power of MASKING and Blending Modes for Layers](https://tips.clip-studio.com/en-us/articles/5916)
 * [Layers 101: basics of layers](https://tips.clip-studio.com/en-us/articles/5917)
+* [How to draw Water Drops & Ripples](https://tips.clip-studio.com/en-us/articles/6146)
+* [Applying Water to Your Works!](https://tips.clip-studio.com/en-us/articles/6209)
+* [Easy transparent clear sea: draw and animate](https://tips.clip-studio.com/en-us/articles/3461)
 
 
 ## pixelart
