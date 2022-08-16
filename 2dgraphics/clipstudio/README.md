@@ -14,6 +14,8 @@
 * [Drawing Stylized: the eyes](https://tips.clip-studio.com/en-us/articles/6543)
 * [Professional Illustration Process: kamakilimai](https://tips.clip-studio.com/en-us/series/62)
 * [Easily correct your illustrations with the Liquify sub tool -Clip Studio Ver. 1.11.6 ★](https://tips.clip-studio.com/en-us/articles/5811)
+* [15 Must Know Time-Saving Hacks in Clip Studio Paint](https://tips.clip-studio.com/en-us/articles/6839)
+* [10 time saving hacks](https://tips.clip-studio.com/en-us/articles/6847)
 
 ## Books
 * [Manga Studio For Dummies in E/books/ART](file:///E:/books/ART/Manga%20Studio%20For%20Dummies.pdf)
@@ -28,6 +30,7 @@
 * [5 Methods for Perfecting your Lineart](https://tips.clip-studio.com/en-us/articles/3868)
 * [Creating Art without Outlines](https://tips.clip-studio.com/en-us/articles/4610)
 * [How to Ink Like a Pro](https://tips.clip-studio.com/en-us/articles/3784)
+* [Quick lineart for illustrations and webcomics](https://tips.clip-studio.com/en-us/articles/6855)
 
 ## lineless art
 * [Creating uncommon characters](https://tips.clip-studio.com/en-us/articles/4501)
@@ -36,6 +39,10 @@
 * [How To Lineless Art!](https://tips.clip-studio.com/en-us/articles/4623)
 * [How to Create Lineless Art](https://tips.clip-studio.com/en-us/articles/4521)
 * [Making Lineless Art Stand Out](https://tips.clip-studio.com/en-us/articles/4614)
+
+## Texture
+* [the simple method to texture](https://tips.clip-studio.com/en-us/articles/6777)
+* [Drawing clothes and fabrics](https://tips.clip-studio.com/en-us/articles/6809)
 
 ## Animation
 * [Animate in Clip Studio, beginners](https://tips.clip-studio.com/en-us/articles/6122)
