@@ -9,6 +9,7 @@
 - [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 - [Python Code Example Handbook – Simple Python Program Examples for Beginners](https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/)
 - [pythonawesome](https://pythonawesome.com/)
+- [Python Projects with Source Code](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb)
 - [Python Cheatsheet](https://github.com/galaxykate/PythonCheatsheet/blob/main/pythonCheatsheet.md)
 - [★ Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
 - [★ Algorithms and Data Structures in Python](https://www.freecodecamp.org/news/learn-algorithms-and-data-structures-in-python/)
