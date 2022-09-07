@@ -81,6 +81,10 @@
 - [Markov Chain Analysis and Simulation using Python](https://towardsdatascience.com/markov-chain-analysis-and-simulation-using-python-4507cee0b06e)
 - [Markov Chain: Simple example with Python][https://medium.com/@balamurali_m/markov-chain-simple-example-with-python-985d33b14d19]
 
+## Games with Pygame
+- [Stardew Valley clone - 7h](https://www.masayume.it/blog9/web/content/pygame-stardew-valley)
+- [Pygame Intro - 4h](https://www.masayume.it/blog9/web/content/pygame-stardew-valley)
+
 ## Graphics and UI
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
 - [git python-pillow](https://github.com/python-pillow/Pillow)
