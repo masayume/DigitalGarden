@@ -72,6 +72,7 @@
 * [A clone of SQLite in rust](https://dev.to/thepolyglotprogrammer/what-would-sqlite-look-like-if-written-in-rust-part-3-ool)
 * [REST API with Rust + Warp](https://dev.to/rogertorres/rest-api-with-rust-warp-1-introduction-342e)
 * [How to use Rust web framework Warp](https://dev.to/steadylearner/how-to-use-rust-warp-web-framework-2b4e)
+* [WebAssembly/Rust: Hello World](https://rustwasm.github.io/book/game-of-life/hello-world.html)
 * [WebAssembly/Rust: Pitch-perfect Audio Processing](https://www.toptal.com/webassembly/webassembly-rust-tutorial-web-audio)
 * [Cross Platform Apps with Svelte, Redis and Rust](https://www.masayume.it/blog/content/cross-platform-desktop-apps-con-svelte-redis-e-rust)
 * [Command-Line interfaces](https://dev.to/cthutu/rust-7-command-line-interfaces-4084)
