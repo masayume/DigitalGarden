@@ -37,7 +37,6 @@
 
 ## tutorial
 - [How to Open, Read, and Write to Files](https://www.freecodecamp.org/news/how-to-read-files-in-python/)
-- [TXT](link)
 - [manipulate a 3D scene](https://codetheblocks.com/tutorials/introduction)
 - [KIVY games and mobile apps with python](https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/)
 - [A Directory Tree Generator Tool in Python](https://realpython.com/directory-tree-generator-python/)
@@ -51,6 +50,7 @@
 - [Project – How to Build a Wordle Clone using Python and Rich](https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich)
 - [How to Use PyScript – A Python Frontend Framework](https://www.freecodecamp.org/news/pyscript-python-front-end-framework/)
 - [Python Generators](https://www.pylenin.com/blogs/python-generators/)
+- [TXT](link)
 
 ## Tips
 - [How do I find the location of Python module sources?](https://stackoverflow.com/questions/269795/how-do-i-find-the-location-of-python-module-sources)
@@ -84,6 +84,7 @@
 ## Games with Pygame
 - [Stardew Valley clone - 7h](https://www.masayume.it/blog9/web/content/pygame-stardew-valley)
 - [Pygame Intro - 4h](https://www.masayume.it/blog9/web/content/pygame-stardew-valley)
+- [Pyxel](https://github.com/kitao/pyxel), [Pyxel reddit](https://reddit.com/r/pyxel)
 
 ## Graphics and UI
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
