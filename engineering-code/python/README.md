@@ -88,6 +88,7 @@
 
 ## Graphics and UI
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
+- [Generate a QR Code](https://dev.to/codedex/generate-a-qr-code-with-python-386m)
 - [git python-pillow](https://github.com/python-pillow/Pillow)
 - [Python GUIs for Humans](https://github.com/PySimpleGUI/PySimpleGUI)
 - [GUI in Python Using Tkinter](https://dev.to/anjalikumawat2002/gui-in-python-using-tkinter-gfa)
