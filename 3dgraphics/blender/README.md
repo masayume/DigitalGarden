@@ -319,6 +319,7 @@
 * [Sprite animations on particles 03 - Advanced Procedural Textures](https://www.youtube.com/watch?v=ftwUp98SMm0)
 
 # geometry nodes
+* [#geometrynodes su twitter](https://twitter.com/search?q=%23geometrynodes&src=trend_click&vertical=trends)
 * [Attributes?! - Geometry Nodes 101](https://www.youtube.com/watch?v=R_cQogD0KJ8)
 * [Geometry Nodes: A 1st Look (For Beginners) 1/2](https://www.youtube.com/watch?v=JvBTxd2rRgk)
 * [Geometry Nodes: A 1st Look (For Beginners) 2/2](https://www.youtube.com/watch?v=DTsEiCfrbXo)
