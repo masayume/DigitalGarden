@@ -33,3 +33,7 @@
 * [Beginner PIXEL ART Questions - Tutorial, Tips and Tricks](https://www.youtube.com/watch?v=cWKhytYUGTg&list=PLR3Ra9cf8aV06i2jKmgKvcYVHI86-4K_b)
 
 * [FX: glow](https://www.youtube.com/watch?v=9GQJgawFLjg)
+
+## extensions
+
+* [shading extension](https://mooosik.itch.io/shading-extension)
