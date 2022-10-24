@@ -9,6 +9,7 @@
 
 ## CODE EXAMPLES
 - [magnify]](https://twitter.com/SkyBerron/status/1581899124139786242)
+```
 function z(a,b)e=a-x
 f=b-y
 g=16-e*e-f*f
@@ -16,6 +17,7 @@ if(g>0)g/=32a+=g*e b+=g*f
 return a*8,b*8end::_::a=t()*2%16a=min(a,16-a)b=a%4-2x=a+4y=b*b*2+4circfill(x*8,y*8,32,5)srand()for i=0,255do
 a=i%16b=i\16e=rnd(2)\1*2-1c,d=z(a+max(e),b+max(-e))a,b=z(a,b)line(a,b,c,d,6+i%7)end?"\^1\^c1"
 goto _
+```
 
 - [rotozoomer](https://twitter.com/SkyBerron/status/1581545882927104000)
 ```
