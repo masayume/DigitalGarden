@@ -8,7 +8,7 @@
 - [Niall Chandler](https://www.lexaloffle.com/bbs/?uid=46865)
 
 ## CODE EXAMPLES
-- [magnify]](https://twitter.com/SkyBerron/status/1581899124139786242)
+- [magnify](https://twitter.com/SkyBerron/status/1581899124139786242)
 ```
 function z(a,b)e=a-x
 f=b-y
