@@ -107,6 +107,17 @@ end
 pal({3,-2,-5,-1,-6,-9,6},1)flip()goto _
 ```
 
+- [number spiral](https://twitter.com/SkyBerron/status/1584484119572262913)
+```
+g=24405poke(g,0)for i=0,16do
+?(i-1)%12+1,11*i+(i<9and 2or 0),11,2
+mset(i,0,16+i)end
+poke(g,96)::_::for i=0,1023do
+a=i/512b=a-t()/2e=cos(b)f=sin(b)c=a*80d=max(c-12)x=c*e+64y=c*f+64if(i<512)tline(x,y,64,64,(5-b*16)%16,0,0,1/8)
+circ(x,y,1,3)pset(d*e+64,d*f+64,6)end?"\^1\^c7"
+goto _
+```
+
 - [rendering sphere]()
 ```
 ▒=rnd?"█\^!5f100█ˇ5●67█REDACTED"
