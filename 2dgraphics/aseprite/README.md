@@ -5,6 +5,8 @@
 * [Aseprite official tips](https://twitter.com/aseprite/status/1124442198651678720)
 * [Aseprite quick tip-panels](https://github.com/MapleGecko/aseprite_quick-tips)
 * [aseprite's new tilemap feature](https://twitter.com/lotovik/status/1415672957762822155)
+* [MEK aseprite workflow](https://twitter.com/michaelmicasso/status/1584103973916921857)
+
 
 ## references
 * [pixelart @ masayume.it](https://www.masayume.it/blog/category/pixelart)
