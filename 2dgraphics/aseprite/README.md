@@ -36,6 +36,8 @@
 
 * [FX: glow](https://www.youtube.com/watch?v=9GQJgawFLjg)
 
-## extensions
+## extensions & templates
 
 * [shading extension](https://mooosik.itch.io/shading-extension)
+* [tile47 autotiling](https://lotovik.itch.io/tile47-autotiling)
+* [bitmap font: hello, my old friend](https://lotovik.itch.io/hello-my-old-friend)
