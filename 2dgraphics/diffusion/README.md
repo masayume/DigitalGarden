@@ -72,3 +72,6 @@ William Logsdail, Beatrix Potter, Roy Lichtenstein, Richard Corben, Michaelangel
 Colors: black, silver, gray, white, maroon, red, purple, fuchsia, green, lime, olive, yellow, navy, blue, teal, aqua
 Common phrases that can boost your results: masterpiece, trending on artstation, trending on pixiv, vivid, vibrant, geometric, intricate, high quality, detailed
 
+## projects
+
+- [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
