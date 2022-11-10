@@ -29,6 +29,18 @@ a=i%16b=i\16e=rnd(2)\1*2-1c,d=z(a+max(e),b+max(-e))a,b=z(a,b)line(a,b,c,d,6+i%7)
 goto _
 ```
 
+- [amiga ball](https://twitter.com/SkyBerron/status/1590141846520729601)
+```
+n=line::_::o=t()*4u=o*4%128u=min(32+u,160-u)v=u%32/2-8v=v*v+32circfill(u+12,v,32,13)n(0,96,127,96,3)for j=-32,32do
+a=j/32b=(1-a*a)^.5c=atan2(b,a)*16for l=-.5,.5do
+n()for i=-1,9do
+d=32*b*cos(mid(i-o%1,8)/16-1)n(u+.8*d-.59*j,v+.8*j+.59*d+l,(i+c+o\1)%2+7)end
+end
+end?"\^1\^c6"
+goto _
+```
+
+
 - [rotozoomer](https://twitter.com/SkyBerron/status/1581545882927104000)
 ```
 pal({-4,-2,-5,-2,-6,-9},1)r=cos s=sin::_::cls()for i=0,127do
