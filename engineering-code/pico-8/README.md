@@ -7,6 +7,16 @@
 - [2darray](https://www.lexaloffle.com/bbs/?uid=16330)
 - [Niall Chandler](https://www.lexaloffle.com/bbs/?uid=46865)
 
+## LINKS & GAMES:
+- [pico-8 @ masayume.it](https://www.masayume.it/blog9/web/content/pico-8-la-fantasy-console)
+- [Paul Hammond picodroid](https://www.lexaloffle.com/bbs/?tid=43753) and [Berzerk](https://pahammond.itch.io/berzerk)
+- [Carts](http://www.lexaloffle.com/bbs/?cat=7&tag=p8jam2) and [more carts](https://www.lexaloffle.com/bbs/?cat=7#sub=2&mode=carts&orderby=featured)
+- [Arcade](https://www.lexaloffle.com/bbs/?pid=72470#p)
+- [Learn to code with pico-8](https://gamasutra.com/blogs/NadyaPrimak/20200326/360094/Learn_to_Code_with_Pico8_Games.php)
+- [making a tweetcart](https://www.lexaloffle.com/bbs/?tid=37886)
+- [Klondike Solitaire](https://www.lexaloffle.com/bbs/?tid=49375)
+- [R-Type](https://theroboz.itch.io/r-type)
+
 ## CODE EXAMPLES
 - [magnify](https://twitter.com/SkyBerron/status/1581899124139786242)
 ```
