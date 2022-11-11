@@ -3,20 +3,28 @@
 - [#tweetcart](https://twitter.com/hashtag/tweetcart)
 
 ## AUTHORS:
-- [Paul Hammond](https://www.lexaloffle.com/bbs/?uid=33292)
+- 
+- [Jakub Wasilewski ★](https://www.lexaloffle.com/bbs/?uid=12861) [itch.io](https://krajzeg.itch.io)
 - [2darray](https://www.lexaloffle.com/bbs/?uid=16330)
 - [Niall Chandler](https://www.lexaloffle.com/bbs/?uid=46865)
-- [Jakub Wasilewski](https://www.lexaloffle.com/bbs/?uid=12861) [itch.io](https://krajzeg.itch.io)
 
 ## LINKS & GAMES:
 - [pico-8 @ masayume.it](https://www.masayume.it/blog9/web/content/pico-8-la-fantasy-console)
-- [Paul Hammond picodroid](https://www.lexaloffle.com/bbs/?tid=43753) and [Berzerk](https://pahammond.itch.io/berzerk)
 - [Carts](http://www.lexaloffle.com/bbs/?cat=7&tag=p8jam2) and [more carts](https://www.lexaloffle.com/bbs/?cat=7#sub=2&mode=carts&orderby=featured)
 - [Arcade](https://www.lexaloffle.com/bbs/?pid=72470#p)
 - [Learn to code with pico-8](https://www.gamedeveloper.com/programming/making-games-to-learn-programming-with-pico-8)
 - [making a tweetcart](https://www.lexaloffle.com/bbs/?tid=37886)
+
+## GAMES:
+- [Paul Hammond ★](https://www.lexaloffle.com/bbs/?uid=33292)
+    [picodroid](https://www.lexaloffle.com/bbs/?tid=43753)
+    [Berzerk](https://pahammond.itch.io/berzerk)
 - [Klondike Solitaire](https://www.lexaloffle.com/bbs/?tid=49375)
 - [R-Type](https://theroboz.itch.io/r-type)
+- [krajzeg](https://www.lexaloffle.com/bbs/?uid=12861):  
+    [Pieces of Cake ★](https://www.lexaloffle.com/bbs/?tid=32327)
+    [Low Knight](https://www.lexaloffle.com/bbs/?tid=37055), 
+    [Slipways](https://www.lexaloffle.com/bbs/?tid=30978)
 
 ## CODE EXAMPLES
 - [magnify](https://twitter.com/SkyBerron/status/1581899124139786242)
