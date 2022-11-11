@@ -6,6 +6,7 @@
 - [Paul Hammond](https://www.lexaloffle.com/bbs/?uid=33292)
 - [2darray](https://www.lexaloffle.com/bbs/?uid=16330)
 - [Niall Chandler](https://www.lexaloffle.com/bbs/?uid=46865)
+- [Jakub Wasilewski](https://www.lexaloffle.com/bbs/?uid=12861) [itch.io](https://krajzeg.itch.io)
 
 ## LINKS & GAMES:
 - [pico-8 @ masayume.it](https://www.masayume.it/blog9/web/content/pico-8-la-fantasy-console)
