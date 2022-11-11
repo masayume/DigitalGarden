@@ -3,8 +3,6 @@
 - [#tweetcart](https://twitter.com/hashtag/tweetcart)
 
 ## AUTHORS:
-- 
-- [Jakub Wasilewski ★](https://www.lexaloffle.com/bbs/?uid=12861) [itch.io](https://krajzeg.itch.io)
 - [2darray](https://www.lexaloffle.com/bbs/?uid=16330)
 - [Niall Chandler](https://www.lexaloffle.com/bbs/?uid=46865)
 
@@ -17,12 +15,12 @@
 
 ## GAMES:
 - [Paul Hammond ★](https://www.lexaloffle.com/bbs/?uid=33292)
-    [picodroid](https://www.lexaloffle.com/bbs/?tid=43753)
+    [Picodroid](https://www.lexaloffle.com/bbs/?tid=43753),
     [Berzerk](https://pahammond.itch.io/berzerk)
 - [Klondike Solitaire](https://www.lexaloffle.com/bbs/?tid=49375)
 - [R-Type](https://theroboz.itch.io/r-type)
-- [krajzeg](https://www.lexaloffle.com/bbs/?uid=12861):  
-    [Pieces of Cake ★](https://www.lexaloffle.com/bbs/?tid=32327)
+- [Jakub Wasilewski ★ aka krajzeg](https://www.lexaloffle.com/bbs/?uid=12861) [itch.io](https://krajzeg.itch.io)
+    [Pieces of Cake ★](https://www.lexaloffle.com/bbs/?tid=32327),
     [Low Knight](https://www.lexaloffle.com/bbs/?tid=37055), 
     [Slipways](https://www.lexaloffle.com/bbs/?tid=30978)
 
