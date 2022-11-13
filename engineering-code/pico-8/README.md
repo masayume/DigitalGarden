@@ -24,6 +24,9 @@
     [Low Knight](https://www.lexaloffle.com/bbs/?tid=37055), 
     [Slipways](https://www.lexaloffle.com/bbs/?tid=30978)
 
+## GENERATORS:
+- [Medieval Person Generator - easy](https://www.lexaloffle.com/bbs/?tid=36530)
+
 ## CODE EXAMPLES
 - [magnify](https://twitter.com/SkyBerron/status/1581899124139786242)
 ```
@@ -144,6 +147,33 @@ mset(i,0,16+i)end
 poke(g,96)::_::for i=0,1023do
 a=i/512b=a-t()/2e=cos(b)f=sin(b)c=a*80d=max(c-12)x=c*e+64y=c*f+64if(i<512)tline(x,y,64,64,(5-b*16)%16,0,0,1/8)
 circ(x,y,1,3)pset(d*e+64,d*f+64,6)end?"\^1\^c7"
+goto _
+```
+
+- [autumn leaves](https://twitter.com/von_rostock/status/1589442740185870337)
+```
+?"\^!5f10✽░4웃9:"
+s=sin::_::cls()for i=0,799,8do
+y=$(i+4)x=$i
+if(x>147)x=0y=76+rnd(20)
+p=x+1+3*cos(y/99)q=y+s(x/99-s(t()/8)/2)a=atan2(x-p,y-q)u=cos(a)v=s(a)
+for j=4,9,.5do
+b=s(a+t()/8-i/99)^2circ(x,y,s(j/9)*3*b,1-s(b/4-.1)*5)pset(x,y,2)x+=u
+y+=v
+end
+poke4(i,p,q)end
+flip()goto _
+```
+
+- [lego](https://twitter.com/von_rostock/status/1570093408865189888)
+```
+for i=0,23,8do?"⁶!5f55\0"
+c=i\8*3?"◀³f▶⁶!5f113⬅️;9:♥2☉8",i,0,c+3
+?"▶⁵cj◀⁵cc`",i,3,c+2
+?"◀⁵cj▶⁵c9,",i+3,3,c+1
+end::_::for i=0,6^4do?"⁶!5f551"
+z=i\200y=14+i\8%25x=14+i%8*2-y%2if(abs(x-21.4)+abs(y-21)<5-z)spr(z%3,x*3,y*3-z*6-z*cos(t()/9)^8*80,1,2)
+end?"⁶1⁶cd"
 goto _
 ```
 
