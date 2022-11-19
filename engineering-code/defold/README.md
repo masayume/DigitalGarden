@@ -1,3 +1,7 @@
+## URLs
+
+- [#defold](https://twitter.com/hashtag/defold?src=hashtag_click), [#madewithdefold](https://twitter.com/hashtag/madewithdefold?src=hashtag_click)
+
 ## MAIN LINKS
 
 - [masayume](https://www.masayume.it/blog9/web/content/defold-game-engine)
@@ -6,6 +10,7 @@
 - [twitter #defold](https://twitter.com/defold)
 - [public examples ★](https://github.com/britzl/publicexamples) [demo](http://britzl.github.io/publicexamples/)
 - [Bjorn Britzl](https://github.com/britzl)
+- [Jhonny Goransson](https://twitter.com/jhonnygoransson)
 - [Asset Portal](https://defold.com/assets_stars/)
 - [Asset Projects](https://defold.com/tags/stars/templateprojects/)
 
