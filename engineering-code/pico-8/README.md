@@ -7,6 +7,7 @@
 - [Niall Chandler](https://www.lexaloffle.com/bbs/?uid=46865)
 
 ## LINKS & GAMES:
+- [pico-8 online ★](https://www.pico-8-edu.com/)
 - [pico-8 @ masayume.it](https://www.masayume.it/blog9/web/content/pico-8-la-fantasy-console)
 - [Carts](http://www.lexaloffle.com/bbs/?cat=7&tag=p8jam2) and [more carts](https://www.lexaloffle.com/bbs/?cat=7#sub=2&mode=carts&orderby=featured)
 - [Arcade](https://www.lexaloffle.com/bbs/?pid=72470#p)
@@ -36,6 +37,22 @@ g=16-e*e-f*f
 if(g>0)g/=32a+=g*e b+=g*f
 return a*8,b*8end::_::a=t()*2%16a=min(a,16-a)b=a%4-2x=a+4y=b*b*2+4circfill(x*8,y*8,32,5)srand()for i=0,255do
 a=i%16b=i\16e=rnd(2)\1*2-1c,d=z(a+max(e),b+max(-e))a,b=z(a,b)line(a,b,c,d,6+i%7)end?"\^1\^c1"
+goto _
+```
+
+- [flames](https://twitter.com/twitonatrain/status/1602008866484785152)
+```
+poke(0x5f2c,130)
+pal({[0]=0,5,13,6,2,136,136,8,8,137,137,9,142,10,135,7},1)
+::_::
+for i=0,100 do
+x,y=rnd(128),rnd(127)+1
+p=pget(x-rnd(),y-1)
+circ(x,y,1,(rnd()<0.90 and p) or rnd(p) )
+end
+for i=0,127do
+ pset(i,0,rnd(8)+7)
+end
 goto _
 ```
 
@@ -72,6 +89,33 @@ function ★(x,y,o,p,c)u=(abs(s((z/p+o)%1))*4)\1v=u\3l(x-u,y,x+u,y,c)l(x,y-u,x,y
 srand()z=t()u=z/40camera(s(u+u)^2*99,s(u)*99)for i=0,a do
 x=r(a)-b y=r(a)-b ★(x,y,r()+2,r(5)+2,7)end
 goto l
+```
+
+- [square spiral](https://twitter.com/altavox/status/1600631816649580547)
+```
+n=16
+for x=0,n do
+ for y=0,n do
+  v=rnd(16) -- sin(x/n) * cos(y/n)
+  sset(x+8,y,v)
+ end
+end
+mset(0,0,1)
+mset(0,1,2)
+mset(1,0,1+16)
+mset(1,1,2+16)
+poke(0x5f38,2)
+poke(0x5f39,2)
+cstore()
+
+cls()
+::_::
+t=time()
+r=abs(sin(t/128)*64)
+tline(64,64,
+ 64+sin(t)*r,64+cos(t)*r)
+flip()
+goto _
 ```
 
 - [fans out of sync](https://twitter.com/SkyBerron/status/1580424525627371522)
