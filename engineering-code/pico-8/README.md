@@ -221,6 +221,42 @@ end?"⁶1⁶cd"
 goto _
 ```
 
+- [xmas tree](https://twitter.com/Liquidream/status/1602575136552632320)
+```
+pal({0,129,131,3,-9,11,-6,7,7,-6,11,-5,3,131,129,0},1)
+z=0
+::_::
+cls()
+for i=z+1,z+127do
+srand(i)
+pset(i-z,rnd(120),8)
+end
+for i=0,98,.025 do
+a=t()/16%1+i
+if sin(a+.25)>0 then
+x=64+sin(a/1)*a+cos(a/1)
+y=16+cos(a/1)*a+a*2+sin(a/1)*1
+circfill(x,y,y/12,i)
+end
+end
+z+=1
+flip()
+goto _
+```
+
+```
+--(255 char version)
+pal({0,129,131,3,-9,11,-6,7,7,-6,11,-5,3,131,129,0},1)z=0::_::cls()for i=z+1,z+127do
+srand(i)pset(i-z,rnd(120),8)end
+for i=0,98,.025do
+a=t()/16%1+i
+if sin(a+.25)>0then
+y=16+cos(a)*a+a*2+sin(a)*1circfill(64+sin(a)*a+cos(a),y,y/12,i)end
+end
+z+=1flip()goto _
+```
+
+
 - [rendering sphere]()
 ```
 ▒=rnd?"█\^!5f100█ˇ5●67█REDACTED"
