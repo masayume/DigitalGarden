@@ -80,6 +80,18 @@ end
 flip()goto _
 ```
 
+- [laser shots; red strokes](https://www.pico-8-edu.com/?c=AHB4YQCMAHSnBC9QBEdf-wbr883xD3B6dfgVlxcPUbxEcU47ZYXDrFA8Q-IM9fl154rqrKvuKa46aGalTet2wGw7rxCaYeEBmolbZjaKm2baZqTJZkpD7ZSFIQLDyYvvtIGtkW7AIwNjM8_wUz5BPlQMDAI=&g=w-w-w-w1HQHw-w2Xw-w3Xw-w2HQH)
+```
+::q::cls()line(a,b,x,y,2)
+a,b=x,y
+t=rnd()x,y=64+43*sin(t),64+43*cos(t)
+for x=x-2,x+2 do
+for y=y-2,y+2 do
+line(a,b,x,y,8)end
+end
+flip()goto q
+```
+
 - [telescope](https://twitter.com/btsherratt/status/1582032775867420672)
 ```
 l=line
