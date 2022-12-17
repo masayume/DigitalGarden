@@ -2,6 +2,8 @@
 
 ## main
 - [brython - python in the browser](https://github.com/brython-dev/brython), [Exploring Brython](https://towardsdatascience.com/run-python-code-on-websites-exploring-brython-83c43fb7ac5f)
+- [Python Resources for Everybody](https://learnbyexample.github.io/py_resources/)
+- [Practice Python Projects, 100 Page Python Intro, Python re(gex)?](https://github.com/learnbyexample/scripting_course#ebooks)
 
 ## general
 - [basic lessons, friendly web based interface](https://www.learnpython.org/)
