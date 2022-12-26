@@ -5,6 +5,7 @@
 ## Links
 - [Official Site](https://godotengine.org/en)
 - [awesome-godot ★](https://github.com/godotengine/awesome-godot)
+- [List of poorly documented features and tricks](https://github.com/godotengine/godot-docs/issues/4377)
 
 ## Tools
 - [How to use LDtk with Godot 3.5 ★](https://www.youtube.com/watch?v=EJym1soK18E)
@@ -18,5 +19,9 @@
 - [github #godot ★](https://github.com/topics/godot)
 - [libhunt★](https://www.libhunt.com/topic/godot-engine)
 - [20 OS projects](https://www.gdquest.com/news/2021/01/20-new-open-source-projects/)
+- [Daemon vs Demon](https://github.com/securas/Daemon-vs-Demon)
+- [Grotto_Escape_2D_Platformer ★](https://github.com/securas/Grotto_Escape_2D_Platformer)
+- [text](link)
+- [text](link)
 
 
