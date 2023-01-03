@@ -21,6 +21,7 @@
 - [20 OS projects](https://www.gdquest.com/news/2021/01/20-new-open-source-projects/)
 - [Daemon vs Demon](https://github.com/securas/Daemon-vs-Demon)
 - [Grotto_Escape_2D_Platformer ★](https://github.com/securas/Grotto_Escape_2D_Platformer)
+- [Topdown Movement in Godot](https://ansimuz.itch.io/topdown-movement-in-godot), [video](https://www.youtube.com/watch?v=waGLh-7pbRo)
 - [text](link)
 - [text](link)
 
