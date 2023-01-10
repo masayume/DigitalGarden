@@ -25,4 +25,12 @@
 - [text](link)
 - [text](link)
 
+## Tutorials
+- [video: Using LDtk to make levels: part 1](https://www.youtube.com/watch?v=EJym1soK18E)
+- [video: Using LDtk to make levels: part 2](https://www.youtube.com/watch?v=S6zDLTx7Acc)
+- [video: Making a Metroidvania in Godot in 4 weeks - Part 1](https://www.youtube.com/watch?v=eDfMY1vrdJs)
+- [video: TOP DOWN MOVEMENT in Godot](https://www.youtube.com/watch?v=waGLh-7pbRo) + [project](https://ansimuz.itch.io/topdown-movement-in-godot)
+
+
+
 
