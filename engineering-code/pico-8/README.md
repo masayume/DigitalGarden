@@ -1,4 +1,10 @@
+## COMMANDS
+```
+save @url -- save querystring in pico-8-edu.com
+```
+
 ## TAGS:
+- [pico-8-edu.com](https://www.pico-8-edu.com/)
 - [#pico8](https://twitter.com/hashtag/pico8)
 - [#tweetcart](https://twitter.com/hashtag/tweetcart)
 
@@ -27,6 +33,9 @@
 
 ## GENERATORS:
 - [Medieval Person Generator - easy](https://www.lexaloffle.com/bbs/?tid=36530)
+
+## EXAMPLES
+- [bouncing ball](https://www.pico-8-edu.com/?c=AHB4YQEYAMjrweIbnH7_C9x-enb4C7zCExyf7QQPcdlNJ7UvYRLv5M_w8A5tVvUb9RNsREHqnT1fmCmMu2AjHbgr6wziilfIdroqH4jbR4jPusp2rmiqN3iImVIrYEVgoEhGtvI3mFh4hbZcuuqskaGpxZ04Fg9qi2AskxCLF4QH0zTs0nRmwf8QE806z2iWJeFIoEjWRCPNQH2klxZKbZIwCBcXtspOzCSKRkaW0jBrqmCobaUN2uNu2ywGvDWV5i8hOhrHVQw=&g=w-w-w-w1HQHwBYw-wvXwB4Aw-wuXwB4Aw-wtHQHwBY) from [@Pico8TweetCarts@mastodon.gamedev.place](https://mastodon.gamedev.place/@Pico8TweetCarts/109709265372192358)
 
 ## CODE EXAMPLES
 - [magnify](https://twitter.com/SkyBerron/status/1581899124139786242)
