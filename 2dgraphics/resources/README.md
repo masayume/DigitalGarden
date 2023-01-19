@@ -8,6 +8,51 @@
 * [generate infinite high-resolution images with diverse and complex content](https://universome.github.io/alis?s=09)
 * [this x does not exist](https://thisxdoesnotexist.com/) ★
 
+## Artbreeder Gen AI ★
+### Character
+* [01](https://www.artbreeder.com/beta/image/f8a65e57ef39cbf84244b0aa7b47)
+, [02](https://www.artbreeder.com/beta/image/ad229c99673ce29f1d8e18d89c2a)
+### Land
+* [01](https://www.artbreeder.com/beta/image/00e75fed1612198f92e9427def18)
+### face
+* [01](https://www.artbreeder.com/beta/image/f6ee283c70f2b6a25c85870fc18c)
+, [02](https://www.artbreeder.com/beta/image/ea23c416b668217eb59571f842a4)
+, [03](https://www.artbreeder.com/beta/image/3809da8a36f59b152a11763d645a)
+, [04](https://www.artbreeder.com/beta/image/6c72aacf281c37b89be82b1fc8a6)
+, [05](https://www.artbreeder.com/beta/image/8baa0db0d3fe93914e25220548be)
+, [06](https://www.artbreeder.com/beta/image/54aaf1ffcdd83f0bf470cdd2fa57)
+, [07](https://www.artbreeder.com/beta/image/eb2ceecfc94ca4bba9f2a19992a8)
+, [08](https://www.artbreeder.com/beta/image/86deca801372b045bdc4f6dfabdc)
+, [09](https://www.artbreeder.com/beta/image/c92de2ad194118c339cbc4d2a7cd)
+, [10](https://www.artbreeder.com/beta/image/91d50b1d2f57fbd774f7aee74737)
+, [11](https://www.artbreeder.com/beta/image/0ced7d2c6d1400b5067e494a7d7e)
+, [12](https://www.artbreeder.com/beta/image/cc753a87a6c46cba2a96011d366e) 	
+, [13](https://www.artbreeder.com/beta/image/c92de2ad194118c339cbc4d2a7cd)	
+, [14](https://www.artbreeder.com/beta/image/cc753a87a6c46cba2a96011d366e)
+, [15](https://www.artbreeder.com/beta/image/ae01d149ea406eb94671f06e9d92)
+, [16](https://www.artbreeder.com/beta/image/385bde87bc3d85be0f39df12363d)
+### Head
+* [01](https://www.artbreeder.com/beta/image/5dd5431417ef0a002edd42e9ff01)
+, [02](https://www.artbreeder.com/beta/image/963a990406fbd0e3335247f071f4)
+### Body
+* [01](https://www.artbreeder.com/beta/image/6f977cf8374fb9ec30ade62475d2)
+, [02](https://www.artbreeder.com/beta/image/b5bab533d499102467e7247542bb)
+, [03](https://www.artbreeder.com/beta/image/0ed3b75450fa1b1c9305d679d9c7)
+, [04](https://www.artbreeder.com/beta/image/a7224e2c833d0714109c54f14602)
+### Palace
+* [01](https://www.artbreeder.com/beta/image/b23829d22206ab57ac11b4c5f641)
+, [02](https://www.artbreeder.com/beta/image/9812dd029acefc5cc639538c8783)
+, [03](https://www.artbreeder.com/beta/image/866fb60d290e4e6be232c9885c81)
+, [04](https://www.artbreeder.com/beta/image/866fb60d290e4e6be232c9885c81)
+### Original
+* [01](https://www.artbreeder.com/beta/image/89e106e5430ff0a6a975781e0807)
+, [robotic raven](https://www.artbreeder.com/beta/image/cff77b47d8ee12c3b907ab4fa695)
+, [clockwork wolf](https://www.artbreeder.com/beta/image/39809e4cdf0be3d6addf96588478)
+, [04](https://www.artbreeder.com/beta/image/e5072279f40f4adb196352aef6e9)
+### Eye
+* [01](https://www.artbreeder.com/beta/image/b9063a137f4605c429c3eb81572f)
+
+
 ## Artbreeder ★★
 * [space, galaxies, stars etc.](https://www.artbreeder.com/i?k=c6563fb374012b3e87e86da4fd8e) 	
 ### Sketch
@@ -65,6 +110,34 @@
 , [with hat](https://www.artbreeder.com/i?k=2c4ed6dc4423d7ea94c10c9e7294)
 , [raging girl](https://www.artbreeder.com/i?k=419ccf1de200ec2d55c20680f2fd)
 , [white lady](https://www.artbreeder.com/i?k=1e781e0bc9abcd5eaf5e95d671ab)
+, [01](https://www.artbreeder.com/i?k=7978e532121f60b18fad649620e6)
+, [02](https://www.artbreeder.com/i?k=1a64ff74584af4a1413a4ba4f677)
+, [03](https://www.artbreeder.com/i?k=47bce6c983343e63271b62b9b834)
+, [04](https://www.artbreeder.com/i?k=d22119f3ede75ca98229fc20df8a)
+, [05](https://www.artbreeder.com/i?k=15d8deddcab14db326c6bc3e7cda)
+, [06](https://www.artbreeder.com/i?k=4debde64c6a7e76b1e19f39897f6)
+, [07](https://www.artbreeder.com/i?k=375cfd082da87b7aec370b40893d)
+, [08](https://www.artbreeder.com/i?k=a7bd980c4b2751ba8b4eb8a4c006)
+, [09](https://www.artbreeder.com/i?k=18b7b67d1ef8c5dcb13addb705e8)
+, [10](https://www.artbreeder.com/i?k=ab65672a045dc18876143ba2de2b)
+, [11](https://www.artbreeder.com/i?k=d31ecc07213baee16fa7902b7d10)
+, [12](https://www.artbreeder.com/i?k=f4239bec9e3711813d3c72daf981)
+, [13](https://www.artbreeder.com/i?k=a56d91c0ca80a541631ea4ef3984)
+, [14](https://www.artbreeder.com/i?k=8ee155be2e4b28c9daecbdc5f394)
+, [15](https://www.artbreeder.com/i?k=ac3a5a85163013360285533344ae)
+, [16](https://www.artbreeder.com/i?k=e53de86499b6bbf641ce4c330e4f)
+, [17](https://www.artbreeder.com/i?k=a49fe5b7ee8c5863f266b4348573)
+, [18](https://www.artbreeder.com/i?k=fdf0cfa095596529925cb792711d)
+, [19](https://www.artbreeder.com/i?k=e6f2d629ed732f2043d46f84a662)
+, [20](https://www.artbreeder.com/i?k=b920e9981933a2e53217dd9c8d8e)
+, [21](https://www.artbreeder.com/i?k=78a62925d3e7bd4aee235fd879fd)
+, [22](https://www.artbreeder.com/i?k=9fa0947f80e5d8949b8e3e2fe145)
+, [23](https://www.artbreeder.com/i?k=eb413fed89c023c21632cc499d2d)
+, [24](https://www.artbreeder.com/i?k=2a0195ecd698c7f6c987ecbbe6ad)
+, [25](https://www.artbreeder.com/i?k=1862ed7083dfd41865bf5d0b7665)
+, [26](https://www.artbreeder.com/i?k=0bfb5716937502ddf55068c336a5)
+, [27](https://www.artbreeder.com/i?k=05def272bccc3912d82654a941d3)
+, [28](https://www.artbreeder.com/i?k=0bfb5716937502ddf55068c336a5)
 ### Women side portraits
 * [black short hair](https://www.artbreeder.com/i?k=76dbd4f2df2a6a80e866)
 ### Full-figure Female character
@@ -82,6 +155,7 @@
 , [modern girl](https://www.artbreeder.com/i?k=36b9bf7a3f32329e6c51a173c2f9)
 , [ice princess](https://www.artbreeder.com/i?k=8d5dd133d9295744b9e3faf271fe)
 , [spouse](https://www.artbreeder.com/i?k=2f0aaac8af3635f23d236fa6a0b9)
+, [01](https://www.artbreeder.com/i?k=f4cfd376926c1a69f282611e146b)
 ### Full-figure Male character
 * [male character](https://www.artbreeder.com/i?k=18bacda25ef5455e3fba397d056a)
 * [bloodborne](https://www.artbreeder.com/i?k=24802dccd75f6444bfa0d44993be)
@@ -103,6 +177,9 @@
 , [house 3](https://www.artbreeder.com/i?k=86c070337c6d2d359226e5795324)
 , [Mansion](https://www.artbreeder.com/i?k=5f644fe3111183dc9273bbd2af03)
 , [Palace](https://www.artbreeder.com/i?k=09c87702cc669121743993d92b19)
+, [01](https://www.artbreeder.com/i?k=a583caf1ea491fc7603d17a9e96a)
+, [02](https://www.artbreeder.com/i?k=3d4e50b2cf304070e9f43c9f380b)
+, [03](https://www.artbreeder.com/i?k=ecb1738916b005eabe79657fa1bb)
 ### Modern Buildings
 * [starship](https://www.artbreeder.com/i?k=d0a21c39c0beff5237a47e28227b)
 ### Rooms
@@ -151,6 +228,15 @@
 , [snow trees](https://www.artbreeder.com/i?k=197f68f08fd90524b06030455251)
 , [fjord](https://www.artbreeder.com/i?k=3c9fc751f438c0e1677a16113f6e)
 , [palace](https://www.artbreeder.com/i?k=3dafbd2d3c427aae76464dc8205d)
+, [01](https://www.artbreeder.com/i?k=7b1d0c864064022876ae1ce4c02f)
+, [02](https://www.artbreeder.com/i?k=30e583fbbe966a4678f3b4f9a111)	
+, [03](https://www.artbreeder.com/i?k=d3601b4788e61a2c75b62ddea9bf)
+, [04](https://www.artbreeder.com/i?k=a819934c28be83bcc53a6cba1601)
+, [05](https://www.artbreeder.com/i?k=af5aec87579cc9e2bba18851463f)
+, [06](https://www.artbreeder.com/i?k=1186dcfbe130f6152ab0c05c335d)
+, [07](https://www.artbreeder.com/i?k=474d5e5a76638e881430fd3e5834)
+, [08](https://www.artbreeder.com/i?k=3761a8a90e63338590e7d243a636)
+, [09](https://www.artbreeder.com/i?k=6dd7f155e098754b27bf3fbf0680)
 ### FX
 * [awashed scenery](https://www.artbreeder.com/i?k=206ca085821d093079acaa72adf8)
 ### Animals
@@ -181,8 +267,19 @@
 
 # image repositories
 
-* []()
-* []()
+* [text](link)
+* [text](link)
+
+# pose repositories
+* [twitter: shaonav](https://twitter.com/shaonav/media)
+* [Heroic Female Reference Pictures](https://www.cubebrush.co/obscura_29/products/3c4rua/heroic-female-reference-pictures)
+* [110+ Through The Glass Reference Pictures](https://www.artstation.com/marketplace/p/p0kRn/110-through-the-glass-reference-pictures)
+* [690+ Daily Sketching Reference Pictures](https://www.artstation.com/marketplace/p/8gjyw/690-daily-sketching-reference-pictures)
+* [560+ Casual Female Reference Pictures](https://www.artstation.com/marketplace/p/6Yyr3/560-casual-female-reference-pictures)
+* [Female Écorché Reference Images](https://www.3dscanstore.com/blog/female-ecorche-models)
+* [500 DYNAMIC FEMALE POSES](https://www.cubebrush.co/mels_art/products/gjq3ta/500-dynamic-female-poses)
+* [text](link)
+* [text](link)
 
 
 ## wallpapers
