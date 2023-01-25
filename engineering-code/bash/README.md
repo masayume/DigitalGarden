@@ -1,5 +1,14 @@
 # BASH
 
+## BEST
+* [CLI tools you won't be able to live without](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
+* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+* [awesome-shell](https://github.com/alebcay/awesome-shell)
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+* [Bash Guide](https://github.com/Idnan/bash-guide)
+* [r/unixporn/](https://www.reddit.com/r/unixporn/)
+
 ## General
 * [Pure Bash Bible @ masayume](https://www.masayume.it/blog/content/pure-bash-bible)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
