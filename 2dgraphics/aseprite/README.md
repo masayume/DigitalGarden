@@ -6,7 +6,7 @@
 * [Aseprite quick tip-panels](https://github.com/MapleGecko/aseprite_quick-tips)
 * [aseprite's new tilemap feature](https://twitter.com/lotovik/status/1415672957762822155)
 * [MEK aseprite workflow](https://twitter.com/michaelmicasso/status/1584103973916921857)
-
+* [shift+R to change a color to another, which can be applied to every frame](https://twitter.com/Lehoangnhat69/status/1606547305024622592)
 
 ## references
 * [pixelart @ masayume.it](https://www.masayume.it/blog/category/pixelart)
@@ -27,6 +27,7 @@
 
 * [Video: Pixelart Tutorial by Saultoon](https://www.youtube.com/watch?v=tFsETEP01k8&list=PLp99DFIAFv-xM8l6Uzmg83yvGRu6jMfid)
 * [12 principles of animation and pixelart](https://www.youtube.com/watch?v=vwk5UA927Ok) [breakdown](https://twitter.com/Saultoons/status/1338508300372086784)
+* [Video: Brandon James Greer Tutorials](https://www.youtube.com/@BJGpixel/playlists)
 * [Aseprite Crash Course by AdamCYounis](https://www.youtube.com/watch?v=59Y6OTzNrhk)
 * [Using References by AdamCYounis](https://www.youtube.com/watch?v=xbi6e8vQ_kY)
 * [Speed up Dithering painting ★](https://www.youtube.com/watch?v=ozbSCI7iuOI)
