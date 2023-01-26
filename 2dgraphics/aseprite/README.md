@@ -25,6 +25,8 @@
 
 ## video
 
+* [Video: Pixelart Tutorial by Saultoon](https://www.youtube.com/watch?v=tFsETEP01k8&list=PLp99DFIAFv-xM8l6Uzmg83yvGRu6jMfid)
+* [12 principles of animation and pixelart](https://www.youtube.com/watch?v=vwk5UA927Ok) [breakdown](https://twitter.com/Saultoons/status/1338508300372086784)
 * [Aseprite Crash Course by AdamCYounis](https://www.youtube.com/watch?v=59Y6OTzNrhk)
 * [Using References by AdamCYounis](https://www.youtube.com/watch?v=xbi6e8vQ_kY)
 * [Speed up Dithering painting ★](https://www.youtube.com/watch?v=ozbSCI7iuOI)
