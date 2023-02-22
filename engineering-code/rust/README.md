@@ -26,6 +26,7 @@
 * [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
 * [Testing input and output in Rust command line applications](https://dev.to/jkreeftmeijer/testing-input-and-output-in-rust-command-line-applications-56p5)
 * [First steps with Docker + Rust](https://dev.to/rogertorres/first-steps-with-docker-rust-30oi)
+* [One Crate a Day](https://dev.to/thelarkinn/one-rust-crate-a-day-has-flag-26ph)
 
 ## Concepts
 * [Concept Clarification: Deref vs AsRef vs Borrow vs Cow](https://dev.to/zhanghandong/rust-concept-clarification-deref-vs-asref-vs-borrow-vs-cow-13g6)
