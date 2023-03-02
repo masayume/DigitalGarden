@@ -1,5 +1,4 @@
 # Godot Resources
-- [text](link)
 - [Tutorials and resources¶](https://docs.godotengine.org/en/stable/community/tutorials.html)
 - [awesome-godot ★](https://github.com/godotengine/awesome-godot)
 - [godot public repositories](https://github.com/topics/godot)
@@ -27,7 +26,7 @@
 - [Grotto_Escape_2D_Platformer ★](https://github.com/securas/Grotto_Escape_2D_Platformer)
 - [Topdown Movement in Godot](https://ansimuz.itch.io/topdown-movement-in-godot), [video](https://www.youtube.com/watch?v=waGLh-7pbRo)
 - [godot card game framework](https://github.com/db0/godot-card-game-framework)
-- [text](link)
+- [godot-ink](https://github.com/paulloz/godot-ink/tree/godot-v4) [ink](https://github.com/inkle/ink)
 
 ## Tutorials
 - [Your first 2D game¶](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
