@@ -20,6 +20,10 @@
 - [Slasher prototype](https://github.com/Dragosha/slasher-prototype)
 - [emthree](https://github.com/britzl/emthree)
 
+## VISUAL
+- [Simple Lighting in Defold - Screen Space Light Maps](https://www.youtube.com/watch?v=sLFHDihszfc)
+
+
 ## OTHER
 
 - [text](link)
