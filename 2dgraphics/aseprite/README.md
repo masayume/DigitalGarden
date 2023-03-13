@@ -13,9 +13,7 @@
 * [Pedro Medeiros Pixel Art Tutorials](https://saint11.org/blog/pixel-art-tutorials/)
 * [How To Use References Effectively](https://www.youtube.com/watch?v=xbi6e8vQ_kY)
 
-
 ## sites
-
 * [reddit aseprite](https://www.reddit.com/r/aseprite/)
 * [pastiebin](https://www.pastiebin.com/5eff562a035a6)
 * [scripts 1](https://community.aseprite.org/c/scripts/13)
@@ -24,7 +22,6 @@
 * [custom brush script](https://github.com/Thoof/aseprite-custombrushoptions)
 
 ## video
-
 * [Video: Pixelart Tutorial by Saultoon](https://www.youtube.com/watch?v=tFsETEP01k8&list=PLp99DFIAFv-xM8l6Uzmg83yvGRu6jMfid)
 * [12 principles of animation and pixelart](https://www.youtube.com/watch?v=vwk5UA927Ok) [breakdown](https://twitter.com/Saultoons/status/1338508300372086784)
 * [Video: Brandon James Greer Tutorials](https://www.youtube.com/@BJGpixel/playlists)
@@ -40,7 +37,7 @@
 * [FX: glow](https://www.youtube.com/watch?v=9GQJgawFLjg)
 
 ## extensions & templates
-
+* [Aseprite Dithering Matrices ★](https://bitbucket.org/jjhaggar/aseprite-dithering-matrices/src/master/) - [Gogolitus](https://twitter.com/Gogolitus/status/1634596725045198850)
 * [shading extension](https://mooosik.itch.io/shading-extension)
 * [tile47 autotiling](https://lotovik.itch.io/tile47-autotiling)
 * [bitmap font: hello, my old friend](https://lotovik.itch.io/hello-my-old-friend)
