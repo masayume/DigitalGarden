@@ -4,9 +4,10 @@
 * [imagemagick @ stackoverflow](https://stackoverflow.com/questions/tagged/imagemagick?tab=Votes)
 * [reddit](https://www.reddit.com/r/imagemagick/)
 * [dev.to](https://dev.to/search?q=imagemagick)
-- [Fred Advanced Scripts](http://www.fmwconcepts.com/imagemagick/sharpedge/index.php)
-- [info @ masayume](https://www.masayume.it/blog/content/imagemagick)
-[graphicdesign.stackexchange post list](https://graphicdesign.stackexchange.com/search?q=imagemagick)
+* [Examples of ImageMagick Usage](https://imagemagick.org/Usage/)
+* [Fred Advanced Scripts](http://www.fmwconcepts.com/imagemagick/sharpedge/index.php)
+* [info @ masayume](https://www.masayume.it/blog/content/imagemagick)
+* [graphicdesign.stackexchange post list](https://graphicdesign.stackexchange.com/search?q=imagemagick)
 
 ## Scripts Directory
 ```
