@@ -83,6 +83,7 @@
 * [URL Shortener with Rust, Svelte, & AWS](https://dev.to/mileswatson/url-shortener-with-rust-svelte-aws-1-intro-setup-3fli)
 * [Intelligent brute forcing](https://davidkoloski.me/blog/intelligent-brute-forcing/)
 * [desktop app with Tauri and Yew](https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe?utm_source=pocket_mylist)
+* [Writing a Multithreaded Image Dithering Program with Rust](https://dev.to/nabeelahmed1721/writing-a-multithreaded-image-dithering-program-with-rust-369)
 
 ## Webassembly
 * [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
