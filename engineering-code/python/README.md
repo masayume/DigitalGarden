@@ -21,6 +21,7 @@
 - [map() Function: How to use map in python](https://dev.to/bl4ckst0n3/python-map-function-how-to-use-map-in-python-381m)
 - [10 Useful Tools for Python Developers](https://www.makeuseof.com/python-developer-tools/)
 - [A Python developer’s guide to React](https://blog.logrocket.com/python-developers-guide-react/)
+- [Making Python 100x faster with Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
 
 ## Data Science & Analytics
 - [DataCamp Data Science Course: Python 3](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
