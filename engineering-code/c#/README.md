@@ -55,7 +55,7 @@
 * [text](link)
 
 ## WASM
-* [WebAssembly Weekly](https://wasmweekly.news/)
+* [WebAssembly Weekly ★](https://wasmweekly.news/)
 * [Debugging WASM with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
 * [WebAssembly from Scratch: From FizzBuzz to DooM](https://github.com/diekmann/wasm-fizzbuzz)
 
