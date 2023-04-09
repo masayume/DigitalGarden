@@ -88,6 +88,7 @@
 - [Stardew Valley clone - 7h](https://www.masayume.it/blog9/web/content/pygame-stardew-valley)
 - [Pygame Intro - 4h](https://www.masayume.it/blog9/web/content/pygame-stardew-valley)
 - [Pyxel](https://github.com/kitao/pyxel), [Pyxel reddit](https://reddit.com/r/pyxel)
+- [PyDPainter DeluxePaint Clone](https://github.com/mriale/PyDPainter)
 
 ## Graphics and UI
 - [★ Pillow image manipulation](https://www.masayume.it/blog/content/image-manipulation-con-python-pillow)
