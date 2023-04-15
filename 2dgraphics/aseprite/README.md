@@ -7,6 +7,7 @@
 * [aseprite's new tilemap feature](https://twitter.com/lotovik/status/1415672957762822155)
 * [MEK aseprite workflow](https://twitter.com/michaelmicasso/status/1584103973916921857)
 * [shift+R to change a color to another, which can be applied to every frame](https://twitter.com/Lehoangnhat69/status/1606547305024622592)
+* [How To Use The Dithering Tool](https://www.youtube.com/watch?v=b8EmXzN8_ck)
 
 ## references
 * [pixelart @ masayume.it](https://www.masayume.it/blog/category/pixelart)
