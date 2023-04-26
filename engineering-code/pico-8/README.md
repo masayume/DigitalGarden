@@ -24,6 +24,7 @@ save @url -- save querystring in pico-8-edu.com
 - [Paul Hammond ★](https://www.lexaloffle.com/bbs/?uid=33292)
     [Picodroid](https://www.lexaloffle.com/bbs/?tid=43753),
     [Berzerk](https://pahammond.itch.io/berzerk)
+    [Moon Patrol](https://pahammond.itch.io/moon-patrol)
 - [Klondike Solitaire](https://www.lexaloffle.com/bbs/?tid=49375)
 - [R-Type](https://theroboz.itch.io/r-type)
 - [Jakub Wasilewski ★ aka krajzeg](https://www.lexaloffle.com/bbs/?uid=12861) [itch.io](https://krajzeg.itch.io)

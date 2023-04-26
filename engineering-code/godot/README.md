@@ -39,6 +39,8 @@
 - [video: 2D Celeste Platformer in C#](https://www.youtube.com/playlist?list=PLQl2eWiUO8_KwIEBy5PfaZCT2yEi2J7Ew)
 - [video: Pokemon in Godot](https://www.youtube.com/playlist?list=PLY1jY0hbmKxAya3z6YBuQ3gGNB6Sg137r)
 
+## Shaders
+- [Contributing to godot visual shader nodes](https://paddy-exe.github.io/posts/contributing-to-godot-visual-shader-nodes/)
 
 
 
