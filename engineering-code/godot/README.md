@@ -27,6 +27,7 @@
 - [Topdown Movement in Godot](https://ansimuz.itch.io/topdown-movement-in-godot), [video](https://www.youtube.com/watch?v=waGLh-7pbRo)
 - [godot card game framework](https://github.com/db0/godot-card-game-framework)
 - [godot-ink](https://github.com/paulloz/godot-ink/tree/godot-v4) [ink](https://github.com/inkle/ink)
+- [godot-jolt](https://github.com/godot-jolt/godot-jolt)
 
 ## Tutorials
 - [Your first 2D game¶](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
@@ -41,6 +42,7 @@
 
 ## Shaders
 - [Contributing to godot visual shader nodes](https://paddy-exe.github.io/posts/contributing-to-godot-visual-shader-nodes/)
+- [video: How Games Make VFX](https://www.youtube.com/watch?v=eU-F-xuEo7s)
 
 
 
