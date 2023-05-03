@@ -16,6 +16,7 @@
 - [Game Template](https://github.com/nezvers/Godot-GameTemplate)
 
 ## Projects
+- [Godot Procedural Generation](https://github.com/GDQuest/godot-procedural-generation)
 - [Pac Man 1/3](https://www.youtube.com/watch?v=S-jBJdRKWQM), [Pac Man 2/3](https://www.youtube.com/watch?v=Nuxn13x1ePI), [Pac Man 3/3](https://www.youtube.com/watch?v=2xiE27j4iiw)
 - [Pac Man github](https://github.com/ramizbalayil/PacmanTutorial)
 - [itch.io made with Godot tagged Open Source](https://itch.io/games/made-with-godot/tag-open-source)
