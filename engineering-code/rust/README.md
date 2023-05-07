@@ -84,6 +84,7 @@
 * [Intelligent brute forcing](https://davidkoloski.me/blog/intelligent-brute-forcing/)
 * [desktop app with Tauri and Yew](https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe?utm_source=pocket_mylist)
 * [Writing a Multithreaded Image Dithering Program with Rust](https://dev.to/nabeelahmed1721/writing-a-multithreaded-image-dithering-program-with-rust-369)
+* [CRUD REST API](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
 
 ## Webassembly
 * [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
