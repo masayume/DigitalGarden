@@ -23,6 +23,7 @@
 * [Yield Return Explained !](https://dev.to/ahmedadel/yield-return-explained-262d)
 
 ## Tips
+* [100 C# Code Snippets for Everyday Problems ★](https://dev.to/bytehide/100-c-code-snippets-for-everyday-problems-2d83)
 * [5 (Extreme) Performance Tips in C#](https://dev.to/dotnetsafer/5-extreme-performance-tips-in-c-1ipe)
 
 ## Packages
