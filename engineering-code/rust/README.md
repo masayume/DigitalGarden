@@ -28,6 +28,7 @@
 * [First steps with Docker + Rust](https://dev.to/rogertorres/first-steps-with-docker-rust-30oi)
 * [One Crate a Day](https://dev.to/thelarkinn/one-rust-crate-a-day-has-flag-26ph)
 * [Performance Rust Benchmarking](https://nnethercote.github.io/perf-book/benchmarking.html)
+* [Building microservices in Rust with Spin](https://dev.to/logrocket/building-microservices-in-rust-with-spin-54no)
 
 ## Concepts
 * [Concept Clarification: Deref vs AsRef vs Borrow vs Cow](https://dev.to/zhanghandong/rust-concept-clarification-deref-vs-asref-vs-borrow-vs-cow-13g6)

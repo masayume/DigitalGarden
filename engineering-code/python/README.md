@@ -22,6 +22,7 @@
 - [10 Useful Tools for Python Developers](https://www.makeuseof.com/python-developer-tools/)
 - [A Python developer’s guide to React](https://blog.logrocket.com/python-developers-guide-react/)
 - [Making Python 100x faster with Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
+- [Write python like rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 
 ## Data Science & Analytics
 - [DataCamp Data Science Course: Python 3](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
