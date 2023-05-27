@@ -13,6 +13,7 @@ save @url -- save querystring in pico-8-edu.com
 - [Niall Chandler](https://www.lexaloffle.com/bbs/?uid=46865)
 
 ## LINKS & GAMES:
+- [cheatsheet](https://iiviigames.github.io/pico8-api/)
 - [pico-8 online ★](https://www.pico-8-edu.com/)
 - [pico-8 @ masayume.it](https://www.masayume.it/blog9/web/content/pico-8-la-fantasy-console)
 - [Carts](http://www.lexaloffle.com/bbs/?cat=7&tag=p8jam2) and [more carts](https://www.lexaloffle.com/bbs/?cat=7#sub=2&mode=carts&orderby=featured)
@@ -37,6 +38,7 @@ save @url -- save querystring in pico-8-edu.com
 
 ## EXAMPLES
 - [bouncing ball](https://www.pico-8-edu.com/?c=AHB4YQEYAMjrweIbnH7_C9x-enb4C7zCExyf7QQPcdlNJ7UvYRLv5M_w8A5tVvUb9RNsREHqnT1fmCmMu2AjHbgr6wziilfIdroqH4jbR4jPusp2rmiqN3iImVIrYEVgoEhGtvI3mFh4hbZcuuqskaGpxZ04Fg9qi2AskxCLF4QH0zTs0nRmwf8QE806z2iWJeFIoEjWRCPNQH2klxZKbZIwCBcXtspOzCSKRkaW0jBrqmCobaUN2uNu2ywGvDWV5i8hOhrHVQw=&g=w-w-w-w1HQHwBYw-wvXwB4Aw-wuXwB4Aw-wtHQHwBY) from [@Pico8TweetCarts@mastodon.gamedev.place](https://mastodon.gamedev.place/@Pico8TweetCarts/109709265372192358)
+- [checkerboard](https://www.pico-8-edu.com/?c=AHB4YQEMAPEPcM5bvMY5wclFcPb914cXnHDW-M1XX5Mk6TVNc8JFt3fBixQXPcxdt9Wb4SM8wy0zYxM3nZZU54dpmC7ds3Ve245Fp5e3D2w2Rw1tjLzCyMJ5_eCYkY4rmt2hx1gYGLjwuPLC1_i62idrzTtEExPBSzQjzVMUG0deeWTXbC_MVRIie81eVpVJkm2Ffku7br3bKfbaamHEUFXYbEXJVlW2SbSUbTQ3Vq20gGZRWodF3Vug2l9ZTLaaC4K8nemTK_M6z7LEBpvzK3U33DRL9dRI1YiP5NGQVEFRLe3sBMEr7A2uPsP6ZjF-Bg==&g=w-w-w-w1HQHw-w2Xw-w3Xw-w2HQH) by [Michal Rostocki](https://livellosegreto.it/@von_rostock@socel.net/110431117455332458)
 
 ## CODE EXAMPLES
 - [magnify](https://twitter.com/SkyBerron/status/1581899124139786242)
