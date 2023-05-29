@@ -86,6 +86,9 @@
 * [desktop app with Tauri and Yew](https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe?utm_source=pocket_mylist)
 * [Writing a Multithreaded Image Dithering Program with Rust](https://dev.to/nabeelahmed1721/writing-a-multithreaded-image-dithering-program-with-rust-369)
 * [CRUD REST API](https://dev.to/francescoxx/rust-crud-rest-api-3n45)
+* [Rust Trait Implementation Wizardry 🧙: Unveiling the Magic of Macro Rules](https://dev.to/cleggacus/rust-trait-implementation-wizardry-unveiling-the-magic-of-macro-rules-2p0f)
+* [Getting started with gRPC in Rust](https://dev.to/malomz/getting-started-with-grpc-in-rust-39nm)
+* [Deep Neural Network from Scratch in Rust Series' Articles](https://dev.to/akshayballal/series/23037)
 
 ## Webassembly
 * [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
