@@ -55,7 +55,7 @@
 * [C# .NET Tools with System.CommandLine](https://dev.to/karenpayneoregon/c-net-tools-withsystemcommandline-2nc2)
 * [CORS in ASP.NET Core 6](https://dev.to/fabriziobagala/cors-in-aspnet-core-4hl2)
 * [Create a C# QR Code Generator (Easy) + GitHub Repository✨](https://dev.to/bytehide/create-a-c-qr-code-generator-easy-github-repository-4a61)
-
+* [C# Regex: From Zero To Hero Guide](https://dev.to/bytehide/c-regex-from-zero-to-hero-guide-50e9)
 
 ## WASM
 * [WebAssembly Weekly ★](https://wasmweekly.news/)
