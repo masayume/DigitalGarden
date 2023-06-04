@@ -29,6 +29,7 @@
 * [One Crate a Day](https://dev.to/thelarkinn/one-rust-crate-a-day-has-flag-26ph)
 * [Performance Rust Benchmarking](https://nnethercote.github.io/perf-book/benchmarking.html)
 * [Building microservices in Rust with Spin](https://dev.to/logrocket/building-microservices-in-rust-with-spin-54no)
+* [A guide to cross-compilation in Rust](https://dev.to/logrocket/a-guide-to-cross-compilation-in-rust-1844)
 
 ## Concepts
 * [Concept Clarification: Deref vs AsRef vs Borrow vs Cow](https://dev.to/zhanghandong/rust-concept-clarification-deref-vs-asref-vs-borrow-vs-cow-13g6)

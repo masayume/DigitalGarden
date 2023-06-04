@@ -57,6 +57,10 @@
 * [Create a C# QR Code Generator (Easy) + GitHub Repository✨](https://dev.to/bytehide/create-a-c-qr-code-generator-easy-github-repository-4a61)
 * [C# Regex: From Zero To Hero Guide](https://dev.to/bytehide/c-regex-from-zero-to-hero-guide-50e9)
 
+## HowTo
+* [Unit Testing with C# and .NET (Full Guide)](https://dev.to/bytehide/unit-testing-with-c-and-net-full-guide-5c7p)
+* [C# Exception Handling: Techniques and Best Practices](https://dev.to/bytehide/c-exception-handling-techniques-and-best-practices-b2j)
+
 ## WASM
 * [WebAssembly Weekly ★](https://wasmweekly.news/)
 * [Debugging WASM with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
