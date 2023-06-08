@@ -17,6 +17,7 @@
 * [Good Practices for Error Handling in C#](https://dev.to/dotnetsafer/5-good-practices-for-error-handling-in-c-4391)
 * [Guidelines to Write Cleaner Code in C#](https://dev.to/dotnetsafer/the-5-guidelines-to-write-cleaner-code-in-c-fid)
 * [difference between Array and List](https://dev.to/dotnetsafer/the-difference-between-array-and-list-in-c-memory-usage-performance-2hjn)
+* [The LinQ Bible in C#: From Basics to Best Practices](https://dev.to/bytehide/the-linq-bible-in-c-from-basics-to-best-practices-1e3c)
 
 ## Advanced
 * [Optimization of .NET applications](https://dev.to/vasilievserg/optimization-of-net-applications-a-big-result-of-small-edits-12he)

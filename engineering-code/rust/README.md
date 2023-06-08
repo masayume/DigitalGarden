@@ -19,6 +19,7 @@
 * [Doc Comments](https://doc.rust-lang.org/reference/comments.html#doc-comments)
 * [Docs.rs](https://docs.rs/)
 * [The Rust community’s crate registry](https://crates.io/)
+* [Learning Rust 🦀: 02- The basics: Variables and Data Types](https://dev.to/fadygrab/learning-rust-02-the-basics-variables-and-data-types-429b)
 * [Rustlings ★](https://github.com/rust-lang/rustlings)
 * [Intro to Rust for JS programmers](https://www.sitepoint.com/rust-tutorial-introduction-javascript-devs/)
 * [Rust error handling](https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj)
