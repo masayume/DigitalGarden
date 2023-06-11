@@ -2,6 +2,10 @@
 
 ## start
 * [my first cup of rust](https://dev.to/nfrankel/series/12992)
+* [Rust 101: Write, Build, and Debug Your First Program](https://dev.to/philipjohnbasile/rust-101-write-build-and-debug-your-first-program-42o9)
+* [Learning Rust 🦀: 01- Intro and Setup](https://dev.to/fadygrab/learning-rust-1-intro-and-setup-5a77)
+* [Learning Rust 🦀: 02- The basics: Variables and Data Types](https://dev.to/fadygrab/learning-rust-02-the-basics-variables-and-data-types-429b)
+* [Learning Rust 🦀: 03- The basics: Functions](https://dev.to/fadygrab/learning-rust-03-the-basics-functions-4d92)
 
 ## general
 * [Rust Homepage](https://www.rust-lang.org/)
@@ -19,7 +23,6 @@
 * [Doc Comments](https://doc.rust-lang.org/reference/comments.html#doc-comments)
 * [Docs.rs](https://docs.rs/)
 * [The Rust community’s crate registry](https://crates.io/)
-* [Learning Rust 🦀: 02- The basics: Variables and Data Types](https://dev.to/fadygrab/learning-rust-02-the-basics-variables-and-data-types-429b)
 * [Rustlings ★](https://github.com/rust-lang/rustlings)
 * [Intro to Rust for JS programmers](https://www.sitepoint.com/rust-tutorial-introduction-javascript-devs/)
 * [Rust error handling](https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj)
