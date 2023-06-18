@@ -44,6 +44,7 @@
 ## Shaders
 - [Contributing to godot visual shader nodes](https://paddy-exe.github.io/posts/contributing-to-godot-visual-shader-nodes/)
 - [video: How Games Make VFX](https://www.youtube.com/watch?v=eU-F-xuEo7s)
-
+- [Stylized sky with procedural sun and moon](https://godotshaders.com/shader/stylized-sky-with-procedural-sun-and-moon/)
+- [Stylized Water Shader](https://godotshaders.com/shader/stylized-water-shader/)
 
 
