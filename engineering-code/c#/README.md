@@ -19,6 +19,7 @@
 * [difference between Array and List](https://dev.to/dotnetsafer/the-difference-between-array-and-list-in-c-memory-usage-performance-2hjn)
 * [The LinQ Bible in C#: From Basics to Best Practices](https://dev.to/bytehide/the-linq-bible-in-c-from-basics-to-best-practices-1e3c)
 * [Simplify Your C# Code: Top 5 Refactoring Tools](https://dev.to/documatic/simplify-your-c-code-top-5-refactoring-tools-1bo0)
+* [Learning C# After Java: 5 Differences Explored](https://dev.to/daryashirokova/learning-c-after-java-5-differences-explored-5anj)
 
 ## Advanced
 * [Optimization of .NET applications](https://dev.to/vasilievserg/optimization-of-net-applications-a-big-result-of-small-edits-12he)
