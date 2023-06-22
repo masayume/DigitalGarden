@@ -9,6 +9,7 @@
 
 ## general
 * [Rust Homepage](https://www.rust-lang.org/)
+* [The Hard Things About Rust](https://dev.to/moekatib/the-hard-things-about-rust-30km)
 * [Ownership Model](https://doc.rust-lang.org/rust-by-example/scope.html)
 * [Rustup installer](https://rustup.rs/)
 * [Thought you loved Python? Wait until you meet Rust](https://thenextweb.com/news/thought-you-loved-python-meet-rust-programming-syndication)
