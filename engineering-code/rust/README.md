@@ -12,6 +12,8 @@
 * [The Hard Things About Rust](https://dev.to/moekatib/the-hard-things-about-rust-30km)
 * [Ownership Model](https://doc.rust-lang.org/rust-by-example/scope.html)
 * [Rustup installer](https://rustup.rs/)
+* [A Deep Dive Into Strings in Rust](https://dev.to/moekatib/a-deep-dive-into-strings-in-rust-4hhp)
+* [The Complete(sh) Rust Cheat Sheet](https://dev.to/moekatib/the-completesh-rust-cheat-sheet-4fnn)
 * [Thought you loved Python? Wait until you meet Rust](https://thenextweb.com/news/thought-you-loved-python-meet-rust-programming-syndication)
 * [Specifying dependencies](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 * [The Rust Book](https://doc.rust-lang.org/book/)
