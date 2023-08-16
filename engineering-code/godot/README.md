@@ -29,6 +29,7 @@
 - [godot card game framework](https://github.com/db0/godot-card-game-framework)
 - [godot-ink](https://github.com/paulloz/godot-ink/tree/godot-v4) [ink](https://github.com/inkle/ink)
 - [godot-jolt](https://github.com/godot-jolt/godot-jolt)
+- [RVX Retro Voxel Graphics project](https://github.com/mausimus/rvx) by [Mausimus](https://twitter.com/mausmoto)
 
 ## Tutorials
 - [Your first 2D game¶](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
