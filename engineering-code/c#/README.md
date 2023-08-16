@@ -28,6 +28,7 @@
 ## Tips
 * [100 C# Code Snippets for Everyday Problems ★](https://dev.to/bytehide/100-c-code-snippets-for-everyday-problems-2d83)
 * [5 (Extreme) Performance Tips in C#](https://dev.to/dotnetsafer/5-extreme-performance-tips-in-c-1ipe)
+* [Convert C# Enum in into Arrays](https://dev.to/bytehide/how-to-convert-c-enum-in-into-arrays-4cg)
 
 ## Packages
 * [https://nuget.info/packages](https://nuget.info/) [NuGet Package Explorer as a Web App](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
