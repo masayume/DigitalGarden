@@ -5,6 +5,7 @@
 - [godot4 public repositories](https://github.com/topics/godot4)
 - [GDQuest video](https://www.youtube.com/@Gdquest/playlists)
 - [Godot Tutorials](https://www.youtube.com/@GodotTutorials/playlists)
+- [Godot4 importality - from aseprite etc.](https://github.com/nklbdev/godot-4-importality)
 
 ## Links
 - [Official Site](https://godotengine.org/en)
