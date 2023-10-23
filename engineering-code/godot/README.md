@@ -1,5 +1,6 @@
 # Godot Resources
 - [Tutorials and resources¶](https://docs.godotengine.org/en/stable/community/tutorials.html)
+- [Leanr GDScript](https://github.com/GDQuest/learn-gdscript)
 - [awesome-godot ★](https://github.com/godotengine/awesome-godot)
 - [godot public repositories](https://github.com/topics/godot)
 - [godot4 public repositories](https://github.com/topics/godot4)
@@ -46,6 +47,7 @@
 ## Shaders
 - [Contributing to godot visual shader nodes](https://paddy-exe.github.io/posts/contributing-to-godot-visual-shader-nodes/)
 - [video: How Games Make VFX](https://www.youtube.com/watch?v=eU-F-xuEo7s)
+- [video: Common VFX Shader Techniques](https://www.youtube.com/watch?v=N9ilhL8JFes)
 - [Stylized sky with procedural sun and moon](https://godotshaders.com/shader/stylized-sky-with-procedural-sun-and-moon/)
 - [Stylized Water Shader](https://godotshaders.com/shader/stylized-water-shader/)
 
