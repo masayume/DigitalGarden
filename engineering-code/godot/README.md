@@ -35,6 +35,7 @@
 
 ## Tutorials
 - [Your first 2D game¶](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
+- [Mario Camera](https://twitter.com/karl_zylinski/status/1716489281865241004)
 - [video: Godot4 Crash Course](https://www.youtube.com/watch?v=Luf2Kr5s3BM)
 - [video: Using LDtk to make levels: part 1](https://www.youtube.com/watch?v=EJym1soK18E)
 - [video: Using LDtk to make levels: part 2](https://www.youtube.com/watch?v=S6zDLTx7Acc)
