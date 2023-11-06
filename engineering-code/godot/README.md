@@ -6,6 +6,7 @@
 - [godot4 public repositories](https://github.com/topics/godot4)
 - [GDQuest video](https://www.youtube.com/@Gdquest/playlists)
 - [Godot Tutorials](https://www.youtube.com/@GodotTutorials/playlists)
+- [Godot Components - how to structure a game into manageable parts](https://www.youtube.com/watch?v=W8gYHTjDCic)
 - [Godot4 importality - from aseprite etc.](https://github.com/nklbdev/godot-4-importality)
 
 ## Links
@@ -44,8 +45,10 @@
 - [video short: 2D platformer](https://www.youtube.com/watch?v=xFEKIWpd0sU)
 - [video: 2D Celeste Platformer in C#](https://www.youtube.com/playlist?list=PLQl2eWiUO8_KwIEBy5PfaZCT2yEi2J7Ew)
 - [video: Pokemon in Godot](https://www.youtube.com/playlist?list=PLY1jY0hbmKxAya3z6YBuQ3gGNB6Sg137r)
+- [video: Finite State Machines](https://www.youtube.com/watch?v=ow_Lum-Agbs)
 
 ## Shaders
+- [Codot Shader Cheat Sheet](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fgodot-shader-cheat-sheet-i-made-because-i-always-forget-v0-qmk1pcewsspb1.png%3Fs%3Da42357d081ba44d5b171d8eee086491529ecd1e4)
 - [Contributing to godot visual shader nodes](https://paddy-exe.github.io/posts/contributing-to-godot-visual-shader-nodes/)
 - [video: How Games Make VFX](https://www.youtube.com/watch?v=eU-F-xuEo7s)
 - [video: Common VFX Shader Techniques](https://www.youtube.com/watch?v=N9ilhL8JFes)
