@@ -17,9 +17,11 @@
 - [How to use LDtk with Godot 3.5 ★](https://www.youtube.com/watch?v=EJym1soK18E)
 - [Tiled Map Importer](https://github.com/vnen/godot-tiled-importer)
 - [Game Template](https://github.com/nezvers/Godot-GameTemplate)
+- [Metsys: MetroidVania System](https://gamefromscratch.com/metsys-metroidvania-system-for-godot/)
 
 ## Projects
 - [Godot Procedural Generation](https://github.com/GDQuest/godot-procedural-generation)
+- [Amazing Projects](https://www.youtube.com/watch?v=bvqEKZMUIqg)
 - [Pac Man 1/3](https://www.youtube.com/watch?v=S-jBJdRKWQM), [Pac Man 2/3](https://www.youtube.com/watch?v=Nuxn13x1ePI), [Pac Man 3/3](https://www.youtube.com/watch?v=2xiE27j4iiw)
 - [Pac Man github](https://github.com/ramizbalayil/PacmanTutorial)
 - [itch.io made with Godot tagged Open Source](https://itch.io/games/made-with-godot/tag-open-source)
@@ -48,6 +50,7 @@
 - [video: Finite State Machines](https://www.youtube.com/watch?v=ow_Lum-Agbs)
 
 ## Shaders
+- [An introduction to shaders in Godot](https://www.youtube.com/watch?v=nyFzPaWAzeQ)
 - [Codot Shader Cheat Sheet](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fgodot-shader-cheat-sheet-i-made-because-i-always-forget-v0-qmk1pcewsspb1.png%3Fs%3Da42357d081ba44d5b171d8eee086491529ecd1e4)
 - [Contributing to godot visual shader nodes](https://paddy-exe.github.io/posts/contributing-to-godot-visual-shader-nodes/)
 - [video: How Games Make VFX](https://www.youtube.com/watch?v=eU-F-xuEo7s)
