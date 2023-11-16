@@ -8,6 +8,7 @@
 - [Godot Tutorials](https://www.youtube.com/@GodotTutorials/playlists)
 - [Godot Components - how to structure a game into manageable parts](https://www.youtube.com/watch?v=W8gYHTjDCic)
 - [Godot4 importality - from aseprite etc.](https://github.com/nklbdev/godot-4-importality)
+- [#GodotTips](https://twitter.com/hashtag/GodotTips)
 
 ## Links
 - [Official Site](https://godotengine.org/en)
