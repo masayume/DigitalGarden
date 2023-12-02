@@ -36,6 +36,7 @@
 - [godot-ink](https://github.com/paulloz/godot-ink/tree/godot-v4) [ink](https://github.com/inkle/ink)
 - [godot-jolt](https://github.com/godot-jolt/godot-jolt)
 - [RVX Retro Voxel Graphics project](https://github.com/mausimus/rvx) by [Mausimus](https://twitter.com/mausmoto)
+- [godot dialogue manager](https://github.com/nathanhoad/godot_dialogue_manager)
 
 ## Tutorials
 - [Your first 2D game¶](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
