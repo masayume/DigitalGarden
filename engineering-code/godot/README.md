@@ -22,6 +22,7 @@
 
 ## Projects
 - [Godot Procedural Generation](https://github.com/GDQuest/godot-procedural-generation)
+- [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects)
 - [Amazing Projects](https://www.youtube.com/watch?v=bvqEKZMUIqg)
 - [Pac Man 1/3](https://www.youtube.com/watch?v=S-jBJdRKWQM), [Pac Man 2/3](https://www.youtube.com/watch?v=Nuxn13x1ePI), [Pac Man 3/3](https://www.youtube.com/watch?v=2xiE27j4iiw)
 - [Pac Man github](https://github.com/ramizbalayil/PacmanTutorial)
