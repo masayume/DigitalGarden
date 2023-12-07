@@ -27,6 +27,7 @@
 * [12 principles of animation and pixelart](https://www.youtube.com/watch?v=vwk5UA927Ok) [breakdown](https://twitter.com/Saultoons/status/1338508300372086784)
 * [Video: Brandon James Greer Tutorials](https://www.youtube.com/@BJGpixel/playlists)
 * [Aseprite Crash Course by AdamCYounis](https://www.youtube.com/watch?v=59Y6OTzNrhk)
+* [tileset workflow for Aseprite's new 1.3](https://www.youtube.com/watch?v=_onhfikMN8k)
 * [Using References by AdamCYounis](https://www.youtube.com/watch?v=xbi6e8vQ_kY)
 * [Speed up Dithering painting ★](https://www.youtube.com/watch?v=ozbSCI7iuOI)
 * [Aseprite Animation Timeline & tools (Pixelart beginner Tutorial)](https://www.youtube.com/watch?v=N4Z4MdZ1KWY)
