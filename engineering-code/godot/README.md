@@ -4,6 +4,7 @@
 - [awesome-godot ★](https://github.com/godotengine/awesome-godot)
 - [godot public repositories](https://github.com/topics/godot)
 - [godot4 public repositories](https://github.com/topics/godot4)
+- [KoBeWi Godot assets](https://github.com/KoBeWi)
 - [GDQuest video](https://www.youtube.com/@Gdquest/playlists)
 - [Godot Tutorials](https://www.youtube.com/@GodotTutorials/playlists)
 - [Godot Components - how to structure a game into manageable parts](https://www.youtube.com/watch?v=W8gYHTjDCic)
