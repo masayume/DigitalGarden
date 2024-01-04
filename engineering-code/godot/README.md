@@ -11,6 +11,7 @@
 - [Godot4 importality - from aseprite etc.](https://github.com/nklbdev/godot-4-importality)
 - [#GodotTips](https://twitter.com/hashtag/GodotTips)
 - [Godot Forum](https://forum.godotengine.org/)
+- [Godot Game Gems](https://www.youtube.com/@gamegems7658/videos)
 
 ## Links
 - [Official Site](https://godotengine.org/en)
@@ -28,6 +29,7 @@
 - [Amazing Projects](https://www.youtube.com/watch?v=bvqEKZMUIqg)
 - [Godot 4 Tutorial - Space Shooter Using Components](https://www.youtube.com/watch?v=zUeLesdL7lE&list=PL9FzW-m48fn09w6j8NowI_pSBVcsb3V78)
 - [Godot 4 Tutorial - Heart Platformer](https://www.youtube.com/watch?v=M8-JVjtJlIQ&list=PL9FzW-m48fn0i9GYBoTY-SI3yOBZjH1kJ)
+- [Your First 2D GAME From Zero with GODOT 4! **Vampire Survivor Style**](https://www.youtube.com/watch?v=GwCiGixlqiU&t=124s)
 - [Pixel Platformer Tutorial / Code Along (Character Basics)](https://www.youtube.com/watch?v=f3WGFwCduY0&list=PL9FzW-m48fn16W1Sz5bhTd1ArQQv4f-Cm)
 - [Pac Man 1/3](https://www.youtube.com/watch?v=S-jBJdRKWQM), [Pac Man 2/3](https://www.youtube.com/watch?v=Nuxn13x1ePI), [Pac Man 3/3](https://www.youtube.com/watch?v=2xiE27j4iiw)
 - [Pac Man github](https://github.com/ramizbalayil/PacmanTutorial)
@@ -56,6 +58,7 @@
 - [video: 2D Celeste Platformer in C#](https://www.youtube.com/playlist?list=PLQl2eWiUO8_KwIEBy5PfaZCT2yEi2J7Ew)
 - [video: Pokemon in Godot](https://www.youtube.com/playlist?list=PLY1jY0hbmKxAya3z6YBuQ3gGNB6Sg137r)
 - [video: Finite State Machines](https://www.youtube.com/watch?v=ow_Lum-Agbs)
+- [video: How to use Perlin Noise in Godot | Game Dev Tutorial 9](https://www.youtube.com/watch?v=Fc5SSejIrCU)
 
 ## Shaders
 - [An introduction to shaders in Godot](https://www.youtube.com/watch?v=nyFzPaWAzeQ)
