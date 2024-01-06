@@ -22,6 +22,7 @@
 - [Tiled Map Importer](https://github.com/vnen/godot-tiled-importer)
 - [Game Template](https://github.com/nezvers/Godot-GameTemplate)
 - [Metsys: MetroidVania System](https://gamefromscratch.com/metsys-metroidvania-system-for-godot/)
+- [Beehive AI system](https://github.com/bitbrain/beehave)
 
 ## Projects
 - [Godot Procedural Generation](https://github.com/GDQuest/godot-procedural-generation)
